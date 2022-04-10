@@ -3,27 +3,35 @@ import re
 import time
 import json
 
-teams = []
-f = open("teams.txt", "r")
-teams_url = f.readlines()
 
-'''
-{
-    "name": "",
-    "location": "",
-    "logo": "",
-    "region": "",
-}
-'''
-regex = {
-    "name": r'<h1 id="firstHeading".*?"auto">(.*?)<.*?</h1>',
-    "location": r'Location.*?\n.*?title="(.*?)"',
-    "logo": r'infobox-image lightmode.*?src="(.*?)"',
-    "region": r'Region.*?\n.*?title="(.*?)"',
-}
+def getTeamsURL():
+    url = "https://liquipedia.net/valorant/Portal:Teams"
+    r = requests.get(url)
+    content = r.text
+    result = re.findall(
+        r'<tr>.*?<span class="team-template-text"><a href="(.*?)".*?</tr>', content)
+    return result
 
-for team_url in teams_url:
-    url = "https://liquipedia.net"+team_url.strip()
+
+def getTeamData(url):
+    '''
+    [
+        {
+            "name": "",
+            "location": "",
+            "logo": "",
+            "region": "",
+        },...
+    ]
+
+    '''
+    regex = {
+        "name": r'<h1 id="firstHeading".*?"auto">(.*?)<.*?</h1>',
+        "location": r'Location.*?\n.*?title="(.*?)"',
+        "logo": r'infobox-image lightmode.*?src="(.*?)"',
+        "region": r'Region.*?\n.*?title="(.*?)"',
+    }
+
     r = requests.get(url)
     content = r.text
     name = re.findall(regex["name"], content)
@@ -37,9 +45,21 @@ for team_url in teams_url:
         "logo": logo[0] if len(logo) > 0 else "",
         "region": region[0] if len(region) > 0 else "",
     }
-    print(team)
-    teams.append(team)
-    time.sleep(3)
+    return team
 
-with open('teams.json', 'w', encoding='utf-8') as j:
-    json.dump(teams, j, ensure_ascii=False, indent=4)
+
+if __name__ == "__main__":
+    teams = []
+    teamsURL = getTeamsURL()
+    count = 0
+    for url in teamsURL:
+        url = "https://liquipedia.net" + url
+        teamData = getTeamData(url)
+        print(teamData)
+        teams.append(teamData)
+        if count == 10:
+            break
+        count += 1
+
+    with open('teams.json', 'w', encoding='utf-8') as j:
+        json.dump(teams, j, ensure_ascii=False, indent=4)

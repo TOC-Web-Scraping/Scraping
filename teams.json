@@ -28,5 +28,41 @@
         "location": "United States",
         "logo": "/commons/images/thumb/0/01/Cloud9_full_lightmode.png/600px-Cloud9_full_lightmode.png",
         "region": "North America"
+    },
+    {
+        "name": "Complexity Gaming",
+        "location": "United States",
+        "logo": "/commons/images/thumb/2/21/Complexity_Gaming_2019_lightmode_full.png/600px-Complexity_Gaming_2019_lightmode_full.png",
+        "region": "North America"
+    },
+    {
+        "name": "Complexity GX3",
+        "location": "United States",
+        "logo": "/commons/images/thumb/2/21/Complexity_Gaming_2019_lightmode_full.png/600px-Complexity_Gaming_2019_lightmode_full.png",
+        "region": "North America"
+    },
+    {
+        "name": "Counter Logic Gaming Red",
+        "location": "United States",
+        "logo": "/commons/images/thumb/8/89/Counter_Logic_Gaming_Red_allmode.png/600px-Counter_Logic_Gaming_Red_allmode.png",
+        "region": "North America"
+    },
+    {
+        "name": "DarkZero Esports",
+        "location": "United States",
+        "logo": "/commons/images/thumb/b/bf/DarkZero_Esports_lightmode_full.png/600px-DarkZero_Esports_lightmode_full.png",
+        "region": "North America"
+    },
+    {
+        "name": "Dignitas Female",
+        "location": "United States",
+        "logo": "/commons/images/thumb/5/56/Dignitas_2021_allmode.png/600px-Dignitas_2021_allmode.png",
+        "region": "North America"
+    },
+    {
+        "name": "Elysium",
+        "location": "United States",
+        "logo": "/commons/images/c/c6/TeamElysium.png",
+        "region": "North America"
     }
 ]
