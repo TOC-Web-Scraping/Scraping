@@ -3,6 +3,8 @@ import re
 import time
 import json
 
+baseURL = "https://liquipedia.net"
+
 
 def getTeamsURL():
     url = "https://liquipedia.net/valorant/Portal:Teams"
@@ -42,7 +44,7 @@ def getTeamData(url):
     team = {
         "name": name[0] if len(name) > 0 else "",
         "location": location[0] if len(location) > 0 else "",
-        "logo": logo[0] if len(logo) > 0 else "",
+        "logo": baseURL+logo[0] if len(logo) > 0 else "",
         "region": region[0] if len(region) > 0 else "",
     }
     return team
@@ -53,7 +55,7 @@ if __name__ == "__main__":
     teamsURL = getTeamsURL()
     count = 0
     for url in teamsURL:
-        url = "https://liquipedia.net" + url
+        url = baseURL + url
         teamData = getTeamData(url)
         print(teamData)
         teams.append(teamData)
