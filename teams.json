@@ -1,0 +1,32 @@
+[
+    {
+        "name": "100 Thieves",
+        "location": "United States",
+        "logo": "/commons/images/thumb/4/49/100_Thieves_full_lightmode.png/600px-100_Thieves_full_lightmode.png",
+        "region": "North America"
+    },
+    {
+        "name": "Akrew",
+        "location": "United States",
+        "logo": "/commons/images/6/63/Akrew_allmode.png",
+        "region": "North America"
+    },
+    {
+        "name": "Built By Gamers",
+        "location": "United States",
+        "logo": "/commons/images/6/6f/Built_By_Gamers_2021_allmode.png",
+        "region": "North America"
+    },
+    {
+        "name": "Cloud9",
+        "location": "United States",
+        "logo": "/commons/images/thumb/0/01/Cloud9_full_lightmode.png/600px-Cloud9_full_lightmode.png",
+        "region": "North America"
+    },
+    {
+        "name": "Cloud9 White",
+        "location": "United States",
+        "logo": "/commons/images/thumb/0/01/Cloud9_full_lightmode.png/600px-Cloud9_full_lightmode.png",
+        "region": "North America"
+    }
+]
