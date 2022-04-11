@@ -23,6 +23,7 @@ def getTeamData(url):
             "location": "",
             "logo": "",
             "region": "",
+            "Total Winnings": "",
         },...
     ]
 
@@ -32,6 +33,7 @@ def getTeamData(url):
         "location": r'Location.*?\n.*?title="(.*?)"',
         "logo": r'infobox-image lightmode.*?src="(.*?)"',
         "region": r'Region.*?\n.*?title="(.*?)"',
+        "Total Winnings": r'Total Winnings.*?\n.*?>(.*?)<',
     }
 
     r = requests.get(url)
@@ -40,12 +42,14 @@ def getTeamData(url):
     location = re.findall(regex["location"], content)
     logo = re.findall(regex["logo"], content)
     region = re.findall(regex["region"], content)
+    total_winnings = re.findall(regex["Total Winnings"], content)
 
     team = {
         "name": name[0] if len(name) > 0 else "",
         "location": location[0] if len(location) > 0 else "",
         "logo": baseURL+logo[0] if len(logo) > 0 else "",
         "region": region[0] if len(region) > 0 else "",
+        "Total Winnings": total_winnings[0] if len(total_winnings) > 0 else "",
     }
     return team
 
@@ -59,9 +63,7 @@ if __name__ == "__main__":
         teamData = getTeamData(url)
         print(teamData)
         teams.append(teamData)
-        if count == 10:
-            break
-        count += 1
+        time.sleep(3)
 
     with open('teams.json', 'w', encoding='utf-8') as j:
         json.dump(teams, j, ensure_ascii=False, indent=4)
