@@ -15,6 +15,42 @@ def getTeamsURL():
     return result
 
 
+def getAchievements(data):
+    achievements = re.findall(r'<tr>.*?<td(.*?)</tr>', data, re.DOTALL)
+    achievements = achievements if len(achievements) > 0 else []
+    return achievements
+
+
+def getAchievement(data):
+    '''
+    {
+        "date": "",
+        "placement": "",
+        "tournament": "",
+        "prize": "",
+    }
+    '''
+    regex = {
+        "date": r'\d\d\d\d-\d\d-\d\d',
+        "placement": r'<td class="placement-text".*?<b.*?>(.*?)<',
+        "tournament": r'<td style="text-align:left;">.*?>(.*?)<',
+        "prize": r'<td.*?<td.*?<td.*?<td.*?<td.*?<td.*?<td>(.*?)\n',
+    }
+
+    date = re.findall(regex["date"], data)
+    placement = re.findall(regex["placement"], data)
+    tournament = re.findall(regex["tournament"], data)
+    prize = re.findall(regex["prize"], data, re.DOTALL)
+
+    achievement = {
+        "date": date[0] if len(date) > 0 else "",
+        "placement": placement[0] if len(placement) > 0 else "",
+        "tournament": tournament[0] if len(tournament) > 0 else "",
+        "prize": prize[0] if len(prize) > 0 else "",
+    }
+    return achievement
+
+
 def getTeamData(url):
     '''
     [
@@ -24,6 +60,7 @@ def getTeamData(url):
             "logo": "",
             "region": "",
             "Total Winnings": "",
+            "Achievements": [],
         },...
     ]
 
@@ -34,6 +71,7 @@ def getTeamData(url):
         "logo": r'infobox-image lightmode.*?src="(.*?)"',
         "region": r'Region.*?\n.*?title="(.*?)"',
         "Total Winnings": r'Total Winnings.*?\n.*?>(.*?)<',
+        "Achievements": r'<div class="content1.*?Achievements.*?<tbody>(.*?)</tbody>',
     }
 
     r = requests.get(url)
@@ -43,6 +81,13 @@ def getTeamData(url):
     logo = re.findall(regex["logo"], content)
     region = re.findall(regex["region"], content)
     total_winnings = re.findall(regex["Total Winnings"], content)
+    achievements = re.findall(regex["Achievements"], content, re.DOTALL)
+    achievements = getAchievements(
+        achievements[0] if len(achievements) > 0 else "")
+
+    achievements_data = []
+    for achievement in achievements:
+        achievements_data.append(getAchievement(achievement))
 
     team = {
         "name": name[0] if len(name) > 0 else "",
@@ -50,20 +95,24 @@ def getTeamData(url):
         "logo": baseURL+logo[0] if len(logo) > 0 else "",
         "region": region[0] if len(region) > 0 else "",
         "Total Winnings": total_winnings[0] if len(total_winnings) > 0 else "",
+        "Achievements": achievements_data,
     }
     return team
 
 
+def write_json(new_data, filename):
+    with open(filename, mode='r', encoding='utf-8') as j:
+        data = json.load(j)
+    data.extend(new_data)
+    with open(filename, 'w', encoding='utf-8') as j:
+        json.dump(data, j, ensure_ascii=False, indent=4)
+
+
 if __name__ == "__main__":
-    teams = []
     teamsURL = getTeamsURL()
-    count = 0
     for url in teamsURL:
         url = baseURL + url
         teamData = getTeamData(url)
         print(teamData)
-        teams.append(teamData)
+        write_json([teamData], "teams.json")
         time.sleep(3)
-
-    with open('teams.json', 'w', encoding='utf-8') as j:
-        json.dump(teams, j, ensure_ascii=False, indent=4)
