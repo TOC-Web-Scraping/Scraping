@@ -1,0 +1,747 @@
+[
+  {
+    "name": "Astra",
+    "imageUrl": "/commons/images/thumb/1/13/Astra_Artwork.png/600px-Astra_Artwork.png",
+    "country": "Ghana",
+    "role": "Controller",
+    "releaseDate": "2021-03-02",
+    "abilities": [
+      {
+        "name": "Star",
+        "imageUrl": "/commons/images/thumb/7/78/Astra_Star.png/128px-Astra_Star.png",
+        "type": "Passive",
+        "topDescription": "<b>Default diameter:</b> 10m\n<br /><b>Recall cooldown:</b> 25s\n<b> </b>\n",
+        "bottomDescription": "<b>Activate</b> (X) to enter Astral Form where you can place Stars with <b>Primary Fire</b>. Stars can be reactivated later, transforming them into a Nova Pulse, Nebula, or Gravity Well.",
+        "cost": " 150"
+      },
+      {
+        "name": "Nova Pulse",
+        "imageUrl": "/commons/images/thumb/2/28/Astra_Nova_Pulse.png/128px-Astra_Nova_Pulse.png",
+        "type": "Basic",
+        "topDescription": "<b>Cast time:</b> 1.2s\n<br /><b>Stun duration:</b> 4s\n<br /><b>Cooldown:</b> 45s\n<b> </b>\n",
+        "bottomDescription": "<b>Activate</b> a Star to detonate a Nova Pulse. The Nova Pulse charges briefly then strikes, concussing all players in its area.",
+        "cost": " Free"
+      },
+      {
+        "name": "Gravity Well",
+        "imageUrl": "/commons/images/thumb/8/83/Astra_Gravity_Well.png/128px-Astra_Gravity_Well.png",
+        "type": "Basic",
+        "topDescription": "<b>Cast time:</b> 0.3s\n<br /><b>Gravity duration:</b> 2.4s\n<br /><b>Cooldown:</b> 45s\n<b> </b>\n",
+        "bottomDescription": "<b>Activate</b> a Star to form a Gravity Well. Players in the area are pulled toward the center before it explodes, making all players still trapped inside fragile.",
+        "cost": " Free"
+      },
+      {
+        "name": "Nebula",
+        "imageUrl": "/commons/images/thumb/2/2a/Astra_Nebula.png/128px-Astra_Nebula.png",
+        "type": "Signature",
+        "topDescription": "<b>Full duration:</b> 15s\n<br /><b>Dissipate duration:</b> 1.5s\n<br /><b>Charges:</b> 2\n<br /><b>Cooldown:</b> 25s\n<b> </b>\n",
+        "bottomDescription": "<b>Activate</b> a Star to transform it into a Nebula (smoke). Use (F) on a Star to Dissipate it, returning the star to be placed in a new location after a delay. Dissipate briefly forms a fake Nebula at the Star\u2019s location before returning."
+      },
+      {
+        "name": "Astral Form / Cosmic Divide",
+        "imageUrl": "/commons/images/thumb/1/1d/Astra_Astral_Form.png/128px-Astra_Astral_Form.png",
+        "type": "Ultimate",
+        "topDescription": "",
+        "bottomDescription": "<b>Activate</b> (X) to enter Astral Form where you can place Stars with <b>Primary Fire</b>. Stars can be reactivated later, transforming them into a Nova Pulse, Nebula, or Gravity Well. When Cosmic Divide is charged, use <b>Secondary Fire</b> in Astral Form to begin aiming it, then <b>Primary Fire</b> to select two locations. An infinite Cosmic Divide connects the two points you select. Cosmic Divide blocks bullets and heavily dampens audio.",
+        "ultimateCost": " 7"
+      }
+    ]
+  },
+  {
+    "name": "Breach",
+    "imageUrl": "/commons/images/thumb/4/4e/Breach_Artwork.png/600px-Breach_Artwork.png",
+    "country": "Sweden",
+    "role": "Initiator",
+    "releaseDate": "2020-04-07",
+    "abilities": [
+      {
+        "name": "Aftershock",
+        "imageUrl": "/commons/images/thumb/9/94/Breach_Aftershock.png/128px-Breach_Aftershock.png",
+        "type": "Basic",
+        "topDescription": "<br /><b>Time to explode:</b> 2.5s\n",
+        "bottomDescription": "<b>Equip</b> a fusion charge.<br /><b>Fire</b> the charge to set a slow-acting burst through the wall. The three bursts does 60 damage each to anyone caught in its area. dazing all players in its zone and in a line up in the zone.",
+        "cost": " 200"
+      },
+      {
+        "name": "Flashpoint",
+        "imageUrl": "/commons/images/thumb/3/39/Breach_Flashpoint.png/128px-Breach_Flashpoint.png",
+        "type": "Basic",
+        "topDescription": "<br /><b>Max blind time:</b> 2s\n<br /><b>Windup delay:</b> 0.5s\n",
+        "bottomDescription": "<b>Equip</b> a blinding charge.<br /><b>Fire</b> the charge to set a fast-acting burst through the wall. The charge detonates to blind all players looking at it.",
+        "cost": " 250"
+      },
+      {
+        "name": "Fault Line",
+        "imageUrl": "/commons/images/thumb/2/27/Breach_Fault_Line.png/128px-Breach_Fault_Line.png",
+        "type": "Signature",
+        "topDescription": "<b>Concussion time:</b> 3s\n",
+        "bottomDescription": "<b>Equip</b> a seismic blast.<br /><b>Release</b> to set off the quake.",
+        "cost": " Free (35s cooldown)"
+      },
+      {
+        "name": "Rolling Thunder",
+        "imageUrl": "/commons/images/thumb/6/6e/Breach_Rolling_Thunder.png/128px-Breach_Rolling_Thunder.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Concussion time:</b> 6s\n",
+        "bottomDescription": "<b>Equip</b> a Seismic Charge.<br /><b>Fire</b> to send a cascading quake through all the terrain in a large cone. The quake dazes and kocks up anyone caught in it.",
+        "ultimateCost": " 7"
+      }
+    ]
+  },
+  {
+    "name": "Brimstone",
+    "imageUrl": "/commons/images/thumb/d/d9/Brimstone_Artwork.png/600px-Brimstone_Artwork.png",
+    "country": "United States",
+    "role": "Controller",
+    "releaseDate": "2020-04-07",
+    "abilities": [
+      {
+        "name": "Stim Beacon",
+        "imageUrl": "/commons/images/3/3e/Brimstone_Stim_Beacon.png",
+        "type": "Basic",
+        "topDescription": "<b>Buff duration:</b> 4s\n<b>Beacon duration:</b> 12s\n",
+        "bottomDescription": "<b>Equip</b> to toss the stim beacon in front of <i>Brimstone</i>. Upon landing, the stim beacon will create a field that grants players <b>RapidFire</b>. The stim beacon grants also a rapid 15% speed boost.",
+        "cost": " 200"
+      },
+      {
+        "name": "Incendiary",
+        "imageUrl": "/commons/images/6/64/Brimstone_Incendiary.png",
+        "type": "Basic",
+        "topDescription": "<b>Duration:</b> 8s\n",
+        "bottomDescription": "<b>Equip</b> an incendiary grenade launcher.<br /><b>Fire</b> to launch a grenade that detonates as it comes to rest on the floor, creating a lingering fire zone that damages players within the zone.",
+        "cost": " 250"
+      },
+      {
+        "name": "Sky Smoke",
+        "imageUrl": "/commons/images/3/32/Brimstone_Sky_Smoke.png",
+        "type": "Signature",
+        "topDescription": "<b>Smoke duration:</b> 19.25s\n<b>Smoke diameter:</b> 10m\n<b>Tablet range:</b> 55m\n",
+        "bottomDescription": "<b>Equip</b> a tactical map.<br /><b>Fire'</b> to set locatons where Brimstone where <b>Brimstone's</b>smoke clouds will land.<br /><b>Alternate fire</b> to confirm, launching long-lasting smoke clouds that block vision in the selected area.",
+        "cost": " 1st free, 100 after"
+      },
+      {
+        "name": "Orbital Strike",
+        "imageUrl": "/commons/images/b/be/Brimstone_Orbital_Strike.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Cast time:</b> 2s\n<br /><b>Ult duration:</b> 4s\n",
+        "bottomDescription": "<b>Equip</b> a tactical map.<br /><b>Fire</b> to launch a lingering orbital strike laser at the slected location, dealing high damage-over-time to players caught in the selected area.",
+        "ultimateCost": " 7"
+      }
+    ]
+  },
+  {
+    "name": "Chamber",
+    "imageUrl": "/commons/images/thumb/3/39/Chamber_Artwork.png/600px-Chamber_Artwork.png",
+    "country": "France",
+    "role": "Sentinel",
+    "releaseDate": "2021-11-16",
+    "abilities": [
+      {
+        "name": "Trademark",
+        "imageUrl": "/commons/images/thumb/2/2c/Chamber_Trademark.png/128px-Chamber_Trademark.png",
+        "type": "Basic",
+        "topDescription": "",
+        "bottomDescription": "<b>PLACE</b> a trap that scans for enemies. When a visible enemy comes in range, the trap counts down and then destabilizes the terrain around them, creating a lingering field that slows players caught inside of it.",
+        "cost": " 150"
+      },
+      {
+        "name": "Headhunter",
+        "imageUrl": "/commons/images/thumb/f/fa/Chamber_Headhunter.png/128px-Chamber_Headhunter.png",
+        "type": "Basic",
+        "topDescription": "<b>Bullets:</b> 8<br />\n<b>Damage</b> 159 Head, 55 Body, 46 Legs\n",
+        "bottomDescription": "<b>ACTIVATE</b> to equip a heavy pistol. <b>ALT FIRE</b> with the pistol equipped to aim down sights.",
+        "cost": " 100 (each bullet)"
+      },
+      {
+        "name": "Rendezvous",
+        "imageUrl": "/commons/images/thumb/5/51/Chamber_Rendezvous.png/128px-Chamber_Rendezvous.png",
+        "type": "Signature",
+        "topDescription": "<b>Cooldown:</b> 15s\n",
+        "bottomDescription": "<b>PLACE</b> two teleport anchors. While on the ground and in range of an anchor, <b>REACTIVATE</b> to quickly teleport to the other anchor. Anchors can be picked up to be REDEPLOYED.",
+        "cost": " Free"
+      },
+      {
+        "name": "Tour De Force",
+        "imageUrl": "/commons/images/thumb/2/2f/Chamber_Tour_De_Force.png/128px-Chamber_Tour_De_Force.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Bullets:</b> 5\n",
+        "bottomDescription": "<b>ACTIVATE</b> to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit. Killing an enemy creates a lingering field that slows players caught inside of it.",
+        "ultimateCost": " 7"
+      }
+    ]
+  },
+  {
+    "name": "Cypher",
+    "imageUrl": "/commons/images/thumb/b/b1/Cypher_Artwork.png/600px-Cypher_Artwork.png",
+    "country": "Morocco",
+    "role": "Sentinel",
+    "releaseDate": "2020-04-07",
+    "abilities": [
+      {
+        "name": "Trapwire",
+        "imageUrl": "/commons/images/e/e8/Cypher_Trapwire.png",
+        "type": "Basic",
+        "topDescription": "",
+        "bottomDescription": "<b>Equip</b> a trapwire.<br /><b>Fire</b> to place a destructible and cover tripwire at the targeted location, creating a line that spans between the placed location and the wall opposite. Enemy players who cross a tripwire will be tethered, revealed and dazed after a short period if they do not destroy the device in time. This ability can be picked up to be <b>redeployed</b>.",
+        "cost": " 200"
+      },
+      {
+        "name": "Cyber Cage",
+        "imageUrl": "/commons/images/b/b9/Cypher_Cyber_Cage.png",
+        "type": "Basic",
+        "topDescription": "<b>Duration:</b> 7sec\n",
+        "bottomDescription": "<b>Equip</b> a cyber cage.<br /><b>Fire</b> to toss the cyber cage in front of <i>Cypher</i>.<br /><b>Activate</b> to create a zone that blocks vision and creates a sound when enemy's enter it. ( Can be picked up during buy phase.)",
+        "cost": " 100"
+      },
+      {
+        "name": "Spycam",
+        "imageUrl": "/commons/images/d/d9/Cypher_Spycam.png",
+        "type": "Signature",
+        "topDescription": "<b>Pickup CD:</b> 15s<br /><b>Death CD:</b> 45s\n",
+        "bottomDescription": "<b>Equip</b> a spycam.<br /><b>Fire</b> to place the spycam at the targeted location.<br /><b>Re-use</b> this ability to take control of the camera's view. While in control of the camera.<br /><b>Fire</b> to shoot a marking dart. This dart will reveal the location of any player struck by the dart.",
+        "cost": " Free"
+      },
+      {
+        "name": "Neural Theft",
+        "imageUrl": "/commons/images/2/2a/Cypher_Neural_Theft.png",
+        "type": "Ultimate",
+        "topDescription": "",
+        "bottomDescription": "<b>Instantly</b> use on a dead enemy player in your crosshairs to reveal the location of all living enemy players.",
+        "ultimateCost": " 6"
+      }
+    ]
+  },
+  {
+    "name": "Jett",
+    "imageUrl": "/commons/images/thumb/2/2c/Jett_Artwork.png/600px-Jett_Artwork.png",
+    "country": "South Korea",
+    "role": "Duelist",
+    "releaseDate": "2020-04-07",
+    "abilities": [
+      {
+        "name": "Cloudburst",
+        "imageUrl": "/commons/images/b/b8/Jett_Cloudburst.png",
+        "type": "Basic",
+        "topDescription": "<b>Smoke duration:</b> 4.5s\n",
+        "bottomDescription": "<b>Instantly</b> throw your projectile that expands into a brief vision-blocking cloud on impact with a surface.<br /><b>Hold</b> the ability key to curve the smoke in the direction of your crosshair.",
+        "cost": " 200"
+      },
+      {
+        "name": "Updraft",
+        "imageUrl": "/commons/images/c/cf/Jett_Updraft.png",
+        "type": "Basic",
+        "topDescription": "",
+        "bottomDescription": "<b>Instantly</b> propel <i>Jett</i> high into the air.",
+        "cost": " 150"
+      },
+      {
+        "name": "Tailwind",
+        "imageUrl": "/commons/images/d/d7/Jett_Tailwind.png",
+        "type": "Signature",
+        "topDescription": "",
+        "bottomDescription": "<b>Instantly</b> propel <i>Jett</i> in the direction she is moving. If <i>Jett</i> is standing still, she will propel forward.",
+        "cost": " Free"
+      },
+      {
+        "name": "Blade Storm",
+        "imageUrl": "/commons/images/2/29/Jett_Blade_Storm.png",
+        "type": "Ultimate",
+        "topDescription": "",
+        "bottomDescription": "<b>Equip</b> a set of highly accurate throwing knives that recharge on killing an opponent.<br /><b>Fire</b> to throw a single knife at your target.<br /><b>Alternate fire</b> to throw all remaining daggers at your target. Right-click/Alternate Fire kills no longer recharge Jett\u2019s kunai",
+        "ultimateCost": " 7"
+      }
+    ]
+  },
+  {
+    "name": "KAY/O",
+    "imageUrl": "/commons/images/thumb/5/55/KAYO_Artwork.png/600px-KAYO_Artwork.png",
+    "country": null,
+    "role": "Initiator",
+    "releaseDate": "2021-06-22",
+    "abilities": [
+      {
+        "name": "FRAG/ment",
+        "imageUrl": "/commons/images/thumb/9/9b/KAYO_FRAGment.png/128px-KAYO_FRAGment.png",
+        "type": "Basic",
+        "topDescription": "",
+        "bottomDescription": "<b>EQUIP</b> an explosive fragment. <b>FIRE</b> to throw. The fragment sticks to the floor and explodes multiple times, dealing near lethal damage at the center with each explosion.",
+        "cost": " 200"
+      },
+      {
+        "name": "FLASH/drive",
+        "imageUrl": "/commons/images/thumb/5/53/KAYO_FLASHdrive.png/128px-KAYO_FLASHdrive.png",
+        "type": "Basic",
+        "topDescription": "",
+        "bottomDescription": "<b>EQUIP</b> a flash grenade. <b>FIRE</b> to throw. The flash grenade explodes after a short fuse, blinding anyone in line of sight.<br /><b>Right</b> clicking the flashbang, throws a charged flash, causing it to only have to cook for 1 second, as opposed to <b>left</b> click throwing a flash that cooks in 1.6 seconds.",
+        "cost": " 250"
+      },
+      {
+        "name": "ZERO/point",
+        "imageUrl": "/commons/images/thumb/d/d2/KAYO_ZEROpoint.png/128px-KAYO_ZEROpoint.png",
+        "type": "Signature",
+        "topDescription": "",
+        "bottomDescription": "<b>EQUIP</b> a suppression blade. <b>FIRE</b> to throw. The blade sticks to the first surface it hits, winds up, and suppresses anyone in the radius of the explosion.",
+        "cost": " Free (40s Cooldown)"
+      },
+      {
+        "name": "NULL/cmd",
+        "imageUrl": "/commons/images/thumb/5/5a/KAYO_NULLcmd.png/128px-KAYO_NULLcmd.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Ult duration:</b> 15s\n",
+        "bottomDescription": "<b>INSTANTLY</b> overload with polarized radianite energy that empowers <b>KAY/O</b> and causes large energy pulses to emit from his location. Enemies hit with these pulses are suppressed for a short duration.<br />While overloaded, <b>KAY/O</b> gains combat stim.<br />If <b>KAY/O</b> is killed while overloaded, he is downed and enters a destabilized state, allowing allies to stabilize his core and revive him.",
+        "ultimateCost": " 7"
+      }
+    ]
+  },
+  {
+    "name": "Killjoy",
+    "imageUrl": "/commons/images/thumb/8/8c/Killjoy_Artwork.png/600px-Killjoy_Artwork.png",
+    "country": "Germany",
+    "role": "Sentinel",
+    "releaseDate": "2020-08-05",
+    "abilities": [
+      {
+        "name": "Alarmbot",
+        "imageUrl": "/commons/images/thumb/6/6b/Killjoy_Alarmbot.png/128px-Killjoy_Alarmbot.png",
+        "type": "Basic",
+        "topDescription": "<b>Detection radius:</b> 5m\n<b>Invisible until:</b> 7m\n<b>Pickup CD:</b> 20s\n",
+        "bottomDescription": "<b>Equip</b> a covert Alarmbot. <b>Fire</b> to deploy a bot that hunts down enemies that get in range. After reaching its target, the bot explodes applying the Vulnerable effect. <b>Hold equip</b> to recall a deployed bot.",
+        "cost": " 200"
+      },
+      {
+        "name": "Nanoswarm",
+        "imageUrl": "/commons/images/thumb/5/51/Killjoy_Nanoswarm.png/128px-Killjoy_Nanoswarm.png",
+        "type": "Basic",
+        "topDescription": "<b>Dmg:</b> 45 DPS\n<br /><b>Invisible until:</b> 3.5m\n<br /><b>Duration:</b> 0.4d + 4.0s\n",
+        "bottomDescription": "<b>Equip</b> a Nanoswarm grenade. <b>Fire</b> to throw the grenade. Upon landing, the Nanoswarm goes covert. <b>Activate</b> the Nanoswarm to deploy a damaging swarm of nanobots.",
+        "cost": " 200"
+      },
+      {
+        "name": "Turret",
+        "imageUrl": "/commons/images/thumb/4/4a/Killjoy_Turret.png/128px-Killjoy_Turret.png",
+        "type": "Signature",
+        "topDescription": "<b>Dmg:</b> 3~8 HP\n<br /><b>Health:</b> 125 HP\n<b>Pickup CD:</b> 20s<br /><b>Death CD:</b> 45s\n",
+        "bottomDescription": "<b>Equip</b> a Turret. <b>Fire</b> to deploy a turret that fires at enemies in a 180 degree cone. <b>Hold equip</b> to recall the deployed turret.",
+        "cost": " Free"
+      },
+      {
+        "name": "Lockdown",
+        "imageUrl": "/commons/images/thumb/8/8e/Killjoy_Lockdown.png/128px-Killjoy_Lockdown.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Cast time:</b> 13s\n<br /><b>Debuff:</b> 8s\n",
+        "bottomDescription": "<b>Equip</b> the Lockdown device. <b>Fire</b> to deploy the device. After a long windup, the device Detains all enemies caught in the radius. The device can be destroyed by enemies.",
+        "ultimateCost": " 7"
+      }
+    ]
+  },
+  {
+    "name": "Neon",
+    "imageUrl": "/commons/images/thumb/7/7a/Neon_Artwork.png/600px-Neon_Artwork.png",
+    "country": "Philippines",
+    "role": "Duelist",
+    "releaseDate": "2022-01-12",
+    "abilities": [
+      {
+        "name": "Fast Lane",
+        "imageUrl": "/commons/images/thumb/a/a0/Neon_Fast_Lane.png/128px-Neon_Fast_Lane.png",
+        "type": "Basic",
+        "topDescription": "<b>Cast time:</b> 1s",
+        "bottomDescription": "<b>FIRE</b> two energy lines forward on the ground that extend a short distance or until they hit a surface. The lines rise into two walls of static electricity that block vision and damage enemies passing through them.",
+        "cost": " 300"
+      },
+      {
+        "name": "Relay Bolt",
+        "imageUrl": "/commons/images/thumb/d/d8/Neon_Relay_Bolt.png/128px-Neon_Relay_Bolt.png",
+        "type": "Basic",
+        "topDescription": "<b>Stun duration:</b> 3s",
+        "bottomDescription": "<b>INSTANTLY</b> throw an energy bolt that bounces once. Upon hitting each surface, the bolt electrifies the ground below with a concussive blast.",
+        "cost": " 200"
+      },
+      {
+        "name": "High Gear",
+        "imageUrl": "/commons/images/thumb/d/df/Neon_High_Gear.png/128px-Neon_High_Gear.png",
+        "type": "Signature",
+        "topDescription": "<b>Max duration:</b> 30s",
+        "bottomDescription": "<b>INSTANTLY</b> channel Neon's high power for increased speed. When charged, <b>ALT FIRE</b> to trigger an electric slide. Slide charge resets every two kills.",
+        "cost": " Free"
+      },
+      {
+        "name": "Overdrive",
+        "imageUrl": "/commons/images/thumb/b/b2/Neon_Overdrive.png/128px-Neon_Overdrive.png",
+        "type": "Ultimate",
+        "topDescription": "",
+        "bottomDescription": "Unleash Neon's full power and speed for a short duration. <b>FIRE</b> to channel the power into a deadly lightning beam with high movement accuracy. The duration resets on each kill.",
+        "ultimateCost": " 7"
+      }
+    ]
+  },
+  {
+    "name": "Omen",
+    "imageUrl": "/commons/images/thumb/5/5c/Omen_Artwork.png/600px-Omen_Artwork.png",
+    "country": null,
+    "role": "Controller",
+    "releaseDate": "2020-04-07",
+    "abilities": [
+      {
+        "name": "Shrouded Step",
+        "imageUrl": "/commons/images/1/10/Omen_Shrouded_Step.png",
+        "type": "Basic",
+        "topDescription": "<b>TP range:</b> 15m\n<br /><b>Cast time:</b> 1s\n",
+        "bottomDescription": "<b>Equip</b> a shadow walk ability and see its range indicator.<br /><b>Fire</b> to begin a brief channel, then teleport the market location.",
+        "cost": " 100"
+      },
+      {
+        "name": "Paranoia",
+        "imageUrl": "/commons/images/1/1b/Omen_Paranoia.png",
+        "type": "Basic",
+        "topDescription": "<b>Blind duration:</b> 2.5s\n",
+        "bottomDescription": "<b>Equip</b> a blinding orb.<br /><b>Fire</b> to throw it forward, briefly reducing the vision range and deafening all players it touches. This projectile can pass straight through walls.",
+        "cost": " 300"
+      },
+      {
+        "name": "Dark Cover",
+        "imageUrl": "/commons/images/9/9f/Omen_Dark_Cover.png",
+        "type": "Signature",
+        "topDescription": "<b>Smoke duration:</b> 15s\n",
+        "bottomDescription": "<b>Equip</b> a shadow orb and see its range indicator.<br /><b>Press</b> the ability key to throw the shadow orb to the marked location, creaint a long-lasting shadow sphere that blocks vision.<br /><b>Press R</b> to switch the view between the two view types<b></b>\n<br /><b>Hold primary fire</b> while targeting to move the marker further away.<br /><b>Hold secondary fire</b> while targeting to move the marker closer.",
+        "cost": " 1 Free / Second 150 (30s cooldown)"
+      },
+      {
+        "name": "From the Shadows",
+        "imageUrl": "/commons/images/3/38/Omen_From_the_Shadows.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Cast time:</b> 4s\n",
+        "bottomDescription": "<b>Equip</b> a tactical map.<br /><b>Fire</b> to begin teleporting to the selected location. While teleporting <i>Omen</i> will appear as a Shade that can be destroyed by an enemy to cancel his teleport.<br /><b>Press</b> the ability key again to cancel the teleport.",
+        "ultimateCost": " 7"
+      }
+    ]
+  },
+  {
+    "name": "Phoenix",
+    "imageUrl": "/commons/images/thumb/f/f8/Phoenix_Artwork.png/600px-Phoenix_Artwork.png",
+    "country": "United Kingdom",
+    "role": "Duelist",
+    "releaseDate": "2020-04-07",
+    "abilities": [
+      {
+        "name": "Blaze",
+        "imageUrl": "/commons/images/b/b5/Phoenix_Blaze.png",
+        "type": "Basic",
+        "topDescription": "<b>Maximum heal:</b> 50 HP\n<b>Duration:</b> 8s\n",
+        "bottomDescription": "<b>Equip</b> a flame wall.<br /><b>Fire</b> to create a line of flames that moves forward. Creating a wall of fire that blocks vision and damages players passing through it.<br /><b>Hold fire</b> to bend the wall in the direction of your crosshair.",
+        "cost": " 200"
+      },
+      {
+        "name": "Curveball",
+        "imageUrl": "/commons/images/b/b3/Phoenix_Curveball.png",
+        "type": "Basic",
+        "topDescription": "<b>Blind time:</b> 1.1s\n",
+        "bottomDescription": "<b>Equip</b> a fire orb that takes a curving path and detonates shortly after throwing.<br /><b>Fire</b> to curve the flare orb to the left, detonating and blinding any player who sees the orb.<br /><b>Alternate fire</b> to curve the flare orb to the right.",
+        "cost": " 250"
+      },
+      {
+        "name": "Hot Hands",
+        "imageUrl": "/commons/images/c/cd/Phoenix_Hot_Hands.png",
+        "type": "Signature",
+        "topDescription": "<b>Maximum heal:</b> 50 HP\n<b>Duration:</b> 4s\n",
+        "bottomDescription": "<b>Equip</b> a fireball.<br /><b>Fire</b> to throw a fireball that explodes after a set amount of time or upon hitting the ground, creating a lingering fire zone that damages enemies.",
+        "cost": " Free"
+      },
+      {
+        "name": "Run it Back",
+        "imageUrl": "/commons/images/1/1b/Phoenix_Run_it_Back.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Duration:</b> 10s\n",
+        "bottomDescription": "<b>Instantly</b> place a marker at <i>Phoenix's</i> location. While this ability is active, dying or allowing the timer to expire will end this ability and bring Phoenix back to his location with full health.",
+        "ultimateCost": " 6"
+      }
+    ]
+  },
+  {
+    "name": "Raze",
+    "imageUrl": "/commons/images/thumb/0/0c/Raze_Artwork.png/600px-Raze_Artwork.png",
+    "country": "Brazil",
+    "role": "Duelist",
+    "releaseDate": "2020-04-07",
+    "abilities": [
+      {
+        "name": "Blast Pack",
+        "imageUrl": "/commons/images/0/04/Raze_Blast_Pack.png",
+        "type": "Basic",
+        "topDescription": "<b>Maximum duration:</b> 5s\n",
+        "bottomDescription": "<b>Instantly</b> throw a Blast Pack that will stick to surfaces.<br /> <b>Re-use</b> the ability after deployment to detonate, damaging and moving anything hit.",
+        "cost": " 400"
+      },
+      {
+        "name": "Paint Shells",
+        "imageUrl": "/commons/images/5/59/Raze_Paint_Sheels.png",
+        "type": "Signature",
+        "topDescription": "",
+        "bottomDescription": "<b>Equip</b> a cluster grenade.<br /><b>Fire</b> to throw the grenade, which does damage and creates sub-munitions, each doing damage to anyone in their range.",
+        "cost": " Free"
+      },
+      {
+        "name": "Boom Bot",
+        "imageUrl": "/commons/images/8/8d/Raze_Boom_Bot.png",
+        "type": "Basic",
+        "topDescription": "<b>Duration:</b> 10s\n",
+        "bottomDescription": "<b>Equip</b> the Boom Bot.<br /><b>Fire</b> will deploy the bot, causing it to travel in a straight line on the ground, bouncing off walls. The Boom Bot will lock on to any enemies in its frontal cone and chase them, exploding for heavy damage if it reaches them.",
+        "cost": " 300"
+      },
+      {
+        "name": "Showstopper",
+        "imageUrl": "/commons/images/5/5c/Raze_Showstopper.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Ult duration:</b> 10s\n",
+        "bottomDescription": "<b>Equip</b> a rocket launcher.<br /><b>Fire</b> shoots a rocket that does massive area damage on contact with anything.",
+        "ultimateCost": " 8"
+      }
+    ]
+  },
+  {
+    "name": "Reyna",
+    "imageUrl": "/commons/images/thumb/f/f4/Reyna_Artwork.png/600px-Reyna_Artwork.png",
+    "country": "Mexico",
+    "role": "Duelist",
+    "releaseDate": "2020-06-02",
+    "abilities": [
+      {
+        "name": "Devour",
+        "imageUrl": "/commons/images/thumb/d/d4/Reyna_Devour.png/128px-Reyna_Devour.png",
+        "type": "Basic",
+        "topDescription": "",
+        "bottomDescription": "Enemies killed by Reyna leave behind Soul Orbs that last 3 seconds. <b>Instantly</b> consume a nearby soul orb, rapidly healing for a short duration. Health gained through this skill exceeding 100 will decay over time. If Empress is active, this skill will automatically cast and not consume the Soul Orb.",
+        "cost": " 200"
+      },
+      {
+        "name": "Dismiss",
+        "imageUrl": "/commons/images/thumb/1/12/Reyna_Dismiss.png/128px-Reyna_Dismiss.png",
+        "type": "Basic",
+        "topDescription": "<b>Duration:</b> 2s\n",
+        "bottomDescription": "<b>Instantly</b> consume a nearby Soul Orb, becoming instangible for a short duration. If Empress is active, also become invisible.",
+        "cost": " 200"
+      },
+      {
+        "name": "Leer",
+        "imageUrl": "/commons/images/thumb/9/9f/Reyna_Leer.png/128px-Reyna_Leer.png",
+        "type": "Signature",
+        "topDescription": "<b>Duration:</b> 2s\n",
+        "bottomDescription": "<b>Equip</b> an ethereal, destructible eye. <b>Activate</b> to cast the eye a short distance forward. The eye will nearsight all enemies who look at it.",
+        "cost": " 250"
+      },
+      {
+        "name": "Empress",
+        "imageUrl": "/commons/images/thumb/0/0b/Reyna_Empress.png/128px-Reyna_Empress.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Duration:</b> 30s\n",
+        "bottomDescription": "<b>Instantly</b> enter a frenzy, increasing firing, equip and reload speed by 15%. Gain infinite charges of Soul Harvest abilities. When an enemy dies to Reyna, or dies within 3 seconds of taking damage from Reyna, the duration is renewed.",
+        "ultimateCost": " 6"
+      }
+    ]
+  },
+  {
+    "name": "Sage",
+    "imageUrl": "/commons/images/thumb/a/a4/Sage_Artwork.png/600px-Sage_Artwork.png",
+    "country": "China",
+    "role": "Sentinel",
+    "releaseDate": "2020-04-07",
+    "abilities": [
+      {
+        "name": "Barrier Orb",
+        "imageUrl": "/commons/images/9/99/Sage_Barrier_Orb.png",
+        "type": "Basic",
+        "topDescription": "<b>Initial HP:</b> 400 HP\n<br /><b>Final HP:</b> 800 HP\n<br /><b>Max duration:</b> 40s\n",
+        "bottomDescription": "<b>Equip</b> a barrier orb.<br /><b>Fire</b> places a solid wall.<br /><b>Alternate fire</b> rotates the targeter.",
+        "cost": " 400"
+      },
+      {
+        "name": "Slow Orb",
+        "imageUrl": "/commons/images/b/b7/Sage_Slow_Orb.png",
+        "type": "Basic",
+        "topDescription": "<b>Duration:</b> 7s\n",
+        "bottomDescription": "<b>Equip</b> a slow orb.<br /><b>Fire</b> to throw a slowing orb forward that detonates upon landing, creating a lingering field that slows players caught inside of it.",
+        "cost": " 200"
+      },
+      {
+        "name": "Healing Orb",
+        "imageUrl": "/commons/images/7/70/Sage_Resurrection.png",
+        "type": "Signature",
+        "topDescription": "<b>Self-heal:</b> 60 HP over 10s\n<b>Team-heal:</b> 60 HP over 5s\n",
+        "bottomDescription": "<b>Equip</b> a healing orb.<br /><b>Fire</b> with your crosshairs over a damaged ally to active a heal-over-time on them.<br /><b>Alternate fire</b> while <i>Sage</i> is damaged to activate a self heal-over-time.",
+        "cost": " Free (45s cooldown)"
+      },
+      {
+        "name": "Resurrection",
+        "imageUrl": "/commons/images/7/71/Sage_Healing_Orb.png",
+        "type": "Ultimate",
+        "topDescription": "",
+        "bottomDescription": "<b>Equip</b> a resurrection ability.<br /><b>Fire</b> with your crosshairs placed over a dead ally to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health.",
+        "ultimateCost": " 8"
+      }
+    ]
+  },
+  {
+    "name": "Skye",
+    "imageUrl": "/commons/images/thumb/4/41/Skye_Artwork.png/600px-Skye_Artwork.png",
+    "country": "Australia",
+    "role": "Initiator",
+    "releaseDate": "2020-10-27",
+    "abilities": [
+      {
+        "name": "Regrowth",
+        "imageUrl": "/commons/images/5/5b/Skye_Regrowth.png",
+        "type": "Basic",
+        "topDescription": "",
+        "bottomDescription": "<b>Equip</b> a healing trinket. <b>Hold fire</b> to channel, healing allies in range and line of sight. Can be used until her healing pool is depleted. Skye cannot heal herself.",
+        "cost": " 200"
+      },
+      {
+        "name": "Trailblazer",
+        "imageUrl": "/commons/images/f/fd/Skye_Trailblazer.png",
+        "type": "Basic",
+        "topDescription": "<br />\n<b>Wolf duration:</b> 6.5s\n<b>Wolf vision range:</b> 15m\n<b>Concussion time:</b> 4s\n",
+        "bottomDescription": "<b>Equip</b> a Tasmanian tiger trinket. <b>Fire</b> to send out and take control of the predator. While in control, <b>Fire</b> to leap forward, exploding in a concussive blast and damaging directly hit enemies.",
+        "cost": " 250"
+      },
+      {
+        "name": "Guiding Light",
+        "imageUrl": "/commons/images/8/8a/Skye_Guiding_Light.png",
+        "type": "Signature",
+        "topDescription": "<b>Hawk duration:</b> 2.7s\n",
+        "bottomDescription": "<b>Equip</b> a hawk trinket. <b>Fire</b> to send it forward. <b>Hold fire</b> to guide the hawk in the direction of your crosshair. <b>Re-use</b> while the hawk is in flight to transform it into a flash. If the <b>Re-Use</b> is not pressed the bird will disappear without a flash",
+        "cost": " 150 (1 free per round) (40s cooldown)"
+      },
+      {
+        "name": "Seekers",
+        "imageUrl": "/commons/images/b/b2/Skye_Ultimate.png",
+        "type": "Ultimate <br />",
+        "topDescription": "",
+        "bottomDescription": "<b>Equip</b> a Seekers trinket. <b>Fire</b> to send out three Seekers to track down the three closest enemies. if a Seeker reaches its target, it nearsights them.",
+        "ultimateCost": " 7"
+      }
+    ]
+  },
+  {
+    "name": "Sova",
+    "imageUrl": "/commons/images/thumb/e/ec/Sova_Artwork.png/600px-Sova_Artwork.png",
+    "country": "Russia",
+    "role": "Initiator",
+    "releaseDate": "2020-04-07",
+    "abilities": [
+      {
+        "name": "Owl Drone",
+        "imageUrl": "/commons/images/4/40/Sova_Owl_Drone.png",
+        "type": "Basic",
+        "topDescription": "<b>Fuel duration:</b> 10s\n",
+        "bottomDescription": "<b>Equip</b> an owl drone.<br /><b>Fire</b> to deploy and take control of movement of the drone. While in control of the drone, <b>Fire</b> to shoot a marking dart. This dart will reveal the location of any player struck by the dart.",
+        "cost": " 400"
+      },
+      {
+        "name": "Shock Bolt",
+        "imageUrl": "/commons/images/b/b9/Sova_Shock_Bolt.png",
+        "type": "Basic",
+        "topDescription": "",
+        "bottomDescription": "<b>Equip</b> a bow with a shock bolt. <b>Fire</b> to send the explosive bolt forward, detonating upon collision and damaging players nearby.<br /><b>Hold fire</b> to extend the range of the projectile. <br /><b>Alternate fire</b> to add up to two bounces to this arrow.",
+        "cost": " 150"
+      },
+      {
+        "name": "Recon Bolt",
+        "imageUrl": "/commons/images/1/12/Sova_Recon_Bolt.png",
+        "type": "Signature",
+        "topDescription": "<b>Duration:</b> 5s\n",
+        "bottomDescription": "<b>Equip</b> a bow with recon bolt.<br /> <b>Fire</b> to send the recon bolt forward, activating upon collision and revealing the location of nearby enemies caught in the line of sight of the bolt. Enemies can destroy this bolt. The bolt will scan 3 times before breaking with 1 second between each scan.<br /><b>Hold fire</b> to extend the range of the projectile.<br /><b>Alternate fire</b> to add up to two bounces to this arrow.",
+        "cost": " Free (40s Cooldown)"
+      },
+      {
+        "name": "Hunter's Fury",
+        "imageUrl": "/commons/images/6/64/Sova_Hunter%27s_Fury.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Ult duration:</b> 6.5s\n",
+        "bottomDescription": "<b>Equip</b> a bow with three long-range, wall-piercing energy blasts. <br />FIRE to release an energy blast in a line in front of <i>Sova</i>. Dealing damage and revealing the location of enemies caught in the line.<br />This ability can be <b>Re-used</b> up to two more times while the ability timer is active.",
+        "ultimateCost": " 8"
+      }
+    ]
+  },
+  {
+    "name": "Viper",
+    "imageUrl": "/commons/images/thumb/4/4b/Viper_Artwork.png/600px-Viper_Artwork.png",
+    "country": "United States",
+    "role": "Controller",
+    "releaseDate": "2020-04-07",
+    "abilities": [
+      {
+        "name": "Snake Bite",
+        "imageUrl": "/commons/images/9/96/Viper_Snakebite.png",
+        "type": "Basic",
+        "topDescription": "<b>Debuff duration:</b> 2s\n<br /><b>Molly duration:</b> 5,5s\n",
+        "bottomDescription": "<b>Equip</b> a chemical launcher.<br /><b>Fire</b> to launch a canister that shatters upon hitting the floor, creating a lingering chemical zone that damages agents and inflicts the <b>Vulnerable</b> debuff for 2s, making them receive 200% damage from other sources.",
+        "cost": " 200"
+      },
+      {
+        "name": "Poison Cloud",
+        "imageUrl": "/commons/images/9/95/Viper_Poison_Cloud.png",
+        "type": "Basic",
+        "topDescription": "<b>Decay duration:</b> 1.5s\n<br /><b>Max duration:</b> 15s\n",
+        "bottomDescription": "<b>Equip</b> a gas emitter.<br /><b>Fire</b> to throw the emitter that perpetually remains throughout the round.<br /><b>Re-use</b> the ability to create a toxic gas cloud at the cost of fuel. This ability can be <b>re-used</b> more than once and can be picked up to be <b>redeployed</b>. If picked up <b>Poison Cloud</b> can be taken into the next round.",
+        "cost": " 200"
+      },
+      {
+        "name": "Toxic Screen",
+        "imageUrl": "/commons/images/a/a7/Viper_Toxic_Screen.png",
+        "type": "Signature",
+        "topDescription": "<b>Max duration:</b> 15s\n",
+        "bottomDescription": "<b>Equip</b> a gas emitter launcher.<br /><b>Fire</b> to deploy a long line of gas emitters.<br /><b>Re-use</b> the ability to create a tall wall of toxic gas at the cost of fuel. This ability can be <b>re-used</b> more than once.",
+        "cost": " Free"
+      },
+      {
+        "name": "Viper's Pit",
+        "imageUrl": "/commons/images/0/0a/Viper_Viper%27s_Pit.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Duration outside pit:</b> 15s\n",
+        "bottomDescription": "<b>Equip</b> a chemical sprayer.<br /><b>Fire</b> to spray a chemical cloud in all directions arond <i>Viper</i>, creating a large cloud that reduces the vision range and maximum health of players inside of it.",
+        "ultimateCost": " 7"
+      }
+    ]
+  },
+  {
+    "name": "Yoru",
+    "imageUrl": "/commons/images/thumb/f/fb/Yoru_Artwork.png/600px-Yoru_Artwork.png",
+    "country": "Japan",
+    "role": "Duelist",
+    "releaseDate": "2021-01-12",
+    "abilities": [
+      {
+        "name": "Blindside",
+        "imageUrl": "/commons/images/b/be/Yoru_Blindside.png",
+        "type": "Basic",
+        "topDescription": "<br /><b>Activation Time:</b> 0.6sec\n<br /><b>Duration:</b> 1.5sec\n",
+        "bottomDescription": "<b>EQUIP</b> to rip an unstable dimensional fragment from reality. <b>FIRE</b> to throw the fragment, activating a flash that winds up once it collides with a hard surface in the world",
+        "cost": " 250"
+      },
+      {
+        "name": "Fakeout",
+        "imageUrl": "/commons/images/thumb/f/f0/Yoru_Fakeout.png/128px-Yoru_Fakeout.png",
+        "type": "Basic",
+        "topDescription": "<br /><b>Duration:</b> 10sec\n",
+        "bottomDescription": "<b>EQUIP</b> an echo that transforms into a mirror image of Yoru when activated. <b>FIRE</b> to instantly activate the mirror image and send it forward. <b>ALT FIRE</b> to place an inactive echo. <b>USE</b> to transform an inactive echo into a mirror image and send it forward. Mirror images explode in a blinding flash when destroyed by enemies.",
+        "cost": " 100"
+      },
+      {
+        "name": "Gatecrash",
+        "imageUrl": "/commons/images/a/ad/Yoru_Gatecrash.png",
+        "type": "Signature",
+        "topDescription": "<br /><b>Reveal distance:</b> 4m\n<br /><b>Duration:</b> 30sec\n",
+        "bottomDescription": "<b>EQUIP</b> to harness a rift tether. <b>FIRE</b> to send the tether out moving forward. <b>ALT FIRE</b> to place a tether in place. <b>ACTIVATE</b> to teleport to the tether's location. <b>USE</b> to trigger a fake teleport.",
+        "cost": " 200 (1 free per round)"
+      },
+      {
+        "name": "Dimensional Drift",
+        "imageUrl": "/commons/images/3/3c/Yoru_Dimensional_Rift.png",
+        "type": "Ultimate",
+        "topDescription": "<b>Duration:</b> 10sec\n",
+        "bottomDescription": "<b>EQUIP</b> a mask that can see between dimensions. <b>FIRE</b> to drift into Yoru's dimension, unable to be affected or seen by enemies from the outside.",
+        "ultimateCost": " 7"
+      }
+    ]
+  }
+]
