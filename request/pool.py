@@ -32,25 +32,26 @@ class BasePool:
 
 class ProxyPool(BasePool):
     def __test_connection(self, ip):
-        res = requests.get(config.HTTP_TESTING_URL, proxies={"http": ip}, timeout=3)
-        # print(res.json())
-        if res.status_code != 200:
-            print(f"{ip} is not working")
-            return False
-        return True
+        try:
+            res = requests.get(config.HTTP_TESTING_URL, proxies={"http": ip}, timeout=3)
+            if res.status_code == 200:
+                return True
+        except requests.ReadTimeout as e:
+            pass
+
+        print(f"{ip} is not working")
+        return False  
 
     def get_random(self):
         ip = super().get_random()
         while not self.__test_connection(ip):
             ip = super().get_random()
-        print(f"use {ip} as proxy") 
         return {"http": ip}
 
     def get_next(self):
         ip = super().get_next()
         while not self.__test_connection(ip):
             ip = super().get_next()
-        print(f"use {ip} as proxy") 
         return {"http": ip}
 
 
