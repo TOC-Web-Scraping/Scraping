@@ -1,0 +1,4760 @@
+[
+    {
+        "player": "ShahZaM",
+        "date": "2022-03-21",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Fracture",
+        "kill": "13",
+        "death": "15",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Version1",
+        "agents1": [
+            "Chamber",
+            "Viper",
+            "Breach",
+            "Raze",
+            "Brimstone"
+        ],
+        "agents2": [
+            "Breach",
+            "Chamber",
+            "Sage",
+            "Brimstone",
+            "Raze"
+        ],
+        "score": "8:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-03-20",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Ascent",
+        "kill": "22",
+        "death": "15",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "Version1",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "KAY/O",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Jett",
+            "Killjoy",
+            "Astra",
+            "KAY/O"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-03-20",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Haven",
+        "kill": "15",
+        "death": "12",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "Version1",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "KAY/O",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Breach",
+            "Jett",
+            "Killjoy",
+            "Omen",
+            "KAY/O"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-03-19",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Icebox",
+        "kill": "6",
+        "death": "13",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "The Guard",
+        "agents1": [
+            "Chamber",
+            "Viper",
+            "Sova",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Omen",
+            "Chamber",
+            "Jett",
+            "Sova",
+            "Viper"
+        ],
+        "score": "1:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-03-18",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Bind",
+        "kill": "10",
+        "death": "14",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "The Guard",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Jett",
+            "Brimstone"
+        ],
+        "agents2": [
+            "Sage",
+            "Viper",
+            "Raze",
+            "Skye",
+            "Brimstone"
+        ],
+        "score": "6:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-03-13",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Haven",
+        "kill": "16",
+        "death": "14",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "Version1",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "KAY/O",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Breach",
+            "Jett",
+            "Chamber",
+            "Omen",
+            "KAY/O"
+        ],
+        "score": "11:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-03-13",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Ascent",
+        "kill": "14",
+        "death": "14",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "Version1",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "KAY/O",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Jett",
+            "Killjoy",
+            "Astra",
+            "KAY/O"
+        ],
+        "score": "4:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-03-04",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Bind",
+        "kill": "16",
+        "death": "8",
+        "assist": "12",
+        "team1": "Sentinels",
+        "team2": "Rise",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Raze",
+            "Astra",
+            "Jett",
+            "Viper"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-03-04",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Fracture",
+        "kill": "15",
+        "death": "19",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "Rise",
+        "agents1": [
+            "Breach",
+            "Chamber",
+            "Astra",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Breach",
+            "Raze",
+            "Astra",
+            "Chamber",
+            "Viper"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-03-04",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Haven",
+        "kill": "12",
+        "death": "14",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "Rise",
+        "agents1": [
+            "Sova",
+            "Chamber",
+            "Skye",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "KAY/O",
+            "Cypher",
+            "Jett",
+            "Astra"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-02-26",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Icebox",
+        "kill": "15",
+        "death": "15",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "OpTic Gaming",
+        "agents1": [
+            "Sova",
+            "Chamber",
+            "Sage",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Sova",
+            "Sage",
+            "Viper",
+            "KAY/O",
+            "Chamber"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-02-26",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Fracture",
+        "kill": "10",
+        "death": "18",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "OpTic Gaming",
+        "agents1": [
+            "Breach",
+            "Chamber",
+            "Astra",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Viper",
+            "Breach",
+            "Astra",
+            "Raze",
+            "Chamber"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-02-26",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Bind",
+        "kill": "9",
+        "death": "13",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "OpTic Gaming",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Viper",
+            "Astra",
+            "Raze",
+            "Chamber"
+        ],
+        "score": "2:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-02-18",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Haven",
+        "kill": "18",
+        "death": "9",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "Knights",
+        "agents1": [
+            "Sova",
+            "Chamber",
+            "Skye",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Skye",
+            "Killjoy",
+            "Sova",
+            "Astra",
+            "Jett"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-02-18",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Bind",
+        "kill": "10",
+        "death": "10",
+        "assist": "12",
+        "team1": "Sentinels",
+        "team2": "Knights",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Skye",
+            "Astra",
+            "Sova",
+            "Viper",
+            "Raze"
+        ],
+        "score": "13:5"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-02-18",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Ascent",
+        "kill": "20",
+        "death": "20",
+        "assist": "17",
+        "team1": "Sentinels",
+        "team2": "Knights",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "KAY/O",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Jett",
+            "Killjoy",
+            "Sova",
+            "Astra",
+            "Sage"
+        ],
+        "score": "13:15"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-02-12",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Bind",
+        "kill": "14",
+        "death": "11",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "NRG",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Viper",
+            "Sova",
+            "Jett",
+            "Skye"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-02-12",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Haven",
+        "kill": "21",
+        "death": "16",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "NRG",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Skye",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Chamber",
+            "Sova",
+            "Jett",
+            "KAY/O"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2022-02-12",
+        "tournament": "VCT 2022: North America Stage 1 Challengers",
+        "map": "Fracture",
+        "kill": "16",
+        "death": "15",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "NRG",
+        "agents1": [
+            "Breach",
+            "Chamber",
+            "Astra",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Astra",
+            "Viper",
+            "Breach",
+            "Jett",
+            "Chamber"
+        ],
+        "score": "10:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-12-06",
+        "tournament": "VALORANT Champions 2021",
+        "map": "Split",
+        "kill": "14",
+        "death": "19",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "KRÜ Esports",
+        "agents1": [
+            "Skye",
+            "Viper",
+            "Sage",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Raze",
+            "Viper",
+            "Skye",
+            "Jett"
+        ],
+        "score": "11:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-12-06",
+        "tournament": "VALORANT Champions 2021",
+        "map": "Haven",
+        "kill": "27",
+        "death": "14",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "KRÜ Esports",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Skye",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Reyna",
+            "Killjoy",
+            "Sova",
+            "Jett"
+        ],
+        "score": "11:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-12-06",
+        "tournament": "VALORANT Champions 2021",
+        "map": "Fracture",
+        "kill": "23",
+        "death": "11",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "KRÜ Esports",
+        "agents1": [
+            "Breach",
+            "Killjoy",
+            "Skye",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Astra",
+            "Breach",
+            "Viper",
+            "Cypher",
+            "Jett"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-12-04",
+        "tournament": "VALORANT Champions 2021",
+        "map": "Split",
+        "kill": "13",
+        "death": "19",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "Team Liquid",
+        "agents1": [
+            "Skye",
+            "Viper",
+            "Sage",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Breach",
+            "Viper",
+            "Reyna",
+            "Raze"
+        ],
+        "score": "10:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-12-04",
+        "tournament": "VALORANT Champions 2021",
+        "map": "Bind",
+        "kill": "18",
+        "death": "6",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Team Liquid",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Skye",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Astra",
+            "Viper",
+            "Jett",
+            "KAY/O"
+        ],
+        "score": "13:2"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-12-04",
+        "tournament": "VALORANT Champions 2021",
+        "map": "Breeze",
+        "kill": "22",
+        "death": "19",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "Team Liquid",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "Skye",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Sova",
+            "Cypher",
+            "Viper",
+            "Jett",
+            "KAY/O"
+        ],
+        "score": "12:14"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-12-02",
+        "tournament": "VALORANT Champions 2021",
+        "map": "Haven",
+        "kill": "14",
+        "death": "15",
+        "assist": "10",
+        "team1": "Sentinels",
+        "team2": "FURIA Esports",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Skye",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Killjoy",
+            "Astra",
+            "Sova",
+            "Skye",
+            "Jett"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-12-02",
+        "tournament": "VALORANT Champions 2021",
+        "map": "Breeze",
+        "kill": "9",
+        "death": "17",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "FURIA Esports",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Skye",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Killjoy",
+            "Skye",
+            "Sova",
+            "Viper",
+            "Jett"
+        ],
+        "score": "10:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-12-02",
+        "tournament": "VALORANT Champions 2021",
+        "map": "Ascent",
+        "kill": "20",
+        "death": "14",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "FURIA Esports",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Skye",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Killjoy",
+            "Astra",
+            "Sova",
+            "Sage",
+            "Jett"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-17",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Split",
+        "kill": "12",
+        "death": "16",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Jett",
+            "Viper",
+            "Skye",
+            "Raze",
+            "Astra"
+        ],
+        "agents2": [
+            "Viper",
+            "Cypher",
+            "Astra",
+            "Skye",
+            "Jett"
+        ],
+        "score": "7:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-17",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Haven",
+        "kill": "18",
+        "death": "17",
+        "assist": "12",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Killjoy",
+            "Astra",
+            "Skye",
+            "Jett"
+        ],
+        "score": "13:15"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-16",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Haven",
+        "kill": "13",
+        "death": "6",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "F4Q",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Raze",
+            "Killjoy",
+            "Sova",
+            "Reyna",
+            "Astra"
+        ],
+        "score": "13:4"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-16",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Split",
+        "kill": "8",
+        "death": "16",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "F4Q",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Raze",
+            "Killjoy",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-16",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Breeze",
+        "kill": "17",
+        "death": "8",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "F4Q",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "Skye",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Jett",
+            "Killjoy",
+            "Viper",
+            "Skye",
+            "Yoru"
+        ],
+        "score": "13:3"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-15",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Split",
+        "kill": "14",
+        "death": "19",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "G2 Esports",
+        "agents1": [
+            "Jett",
+            "Viper",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Sage",
+            "Killjoy",
+            "Raze",
+            "Reyna"
+        ],
+        "score": "11:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-15",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Icebox",
+        "kill": "11",
+        "death": "14",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "G2 Esports",
+        "agents1": [
+            "Jett",
+            "Sova",
+            "Sage",
+            "Reyna",
+            "Viper"
+        ],
+        "agents2": [
+            "Sage",
+            "Jett",
+            "Sova",
+            "Viper",
+            "Raze"
+        ],
+        "score": "3:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-13",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Breeze",
+        "kill": "8",
+        "death": "9",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "F4Q",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "Skye",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Jett",
+            "Killjoy",
+            "Viper",
+            "Reyna",
+            "Skye"
+        ],
+        "score": "13:4"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-13",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Split",
+        "kill": "26",
+        "death": "15",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "F4Q",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Raze",
+            "Killjoy",
+            "Sage",
+            "Skye",
+            "Astra"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-12",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Haven",
+        "kill": "14",
+        "death": "14",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "G2 Esports",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Jett",
+            "Skye",
+            "Killjoy",
+            "Sage"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-12",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Icebox",
+        "kill": "12",
+        "death": "16",
+        "assist": "0",
+        "team1": "Sentinels",
+        "team2": "G2 Esports",
+        "agents1": [
+            "Jett",
+            "Sova",
+            "Sage",
+            "Reyna",
+            "Viper"
+        ],
+        "agents2": [
+            "Sage",
+            "Jett",
+            "Sova",
+            "Viper",
+            "Raze"
+        ],
+        "score": "8:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-09-12",
+        "tournament": "VCT 2021: Stage 3 Masters - Berlin",
+        "map": "Split",
+        "kill": "26",
+        "death": "11",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "G2 Esports",
+        "agents1": [
+            "Jett",
+            "Viper",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Jett",
+            "Killjoy",
+            "Sage",
+            "Raze"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-08-15",
+        "tournament": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "map": "Split",
+        "kill": "14",
+        "death": "12",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Jett",
+            "Skye",
+            "Viper",
+            "Astra",
+            "KAY/O"
+        ],
+        "score": "13:5"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-08-15",
+        "tournament": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "map": "Haven",
+        "kill": "19",
+        "death": "10",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Jett",
+            "Skye",
+            "Sova",
+            "Omen",
+            "KAY/O"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-08-15",
+        "tournament": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "map": "Breeze",
+        "kill": "16",
+        "death": "19",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "Skye",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Reyna",
+            "Skye",
+            "Viper",
+            "Omen",
+            "Cypher"
+        ],
+        "score": "11:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-08-15",
+        "tournament": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "map": "Bind",
+        "kill": "19",
+        "death": "19",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Raze",
+            "Skye",
+            "Breach",
+            "Astra",
+            "Jett"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-08-13",
+        "tournament": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "map": "Haven",
+        "kill": "18",
+        "death": "11",
+        "assist": "11",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Jett",
+            "Skye",
+            "Sova",
+            "Omen",
+            "KAY/O"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-08-13",
+        "tournament": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "map": "Split",
+        "kill": "12",
+        "death": "7",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Jett",
+            "Killjoy",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Jett",
+            "Skye",
+            "Viper",
+            "Astra",
+            "KAY/O"
+        ],
+        "score": "13:2"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-08-12",
+        "tournament": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "map": "Haven",
+        "kill": "16",
+        "death": "18",
+        "assist": "10",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Killjoy",
+            "Astra",
+            "Skye",
+            "Jett"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-08-12",
+        "tournament": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "map": "Icebox",
+        "kill": "23",
+        "death": "19",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Jett",
+            "Sova",
+            "Sage",
+            "Reyna",
+            "Viper"
+        ],
+        "agents2": [
+            "Sova",
+            "Killjoy",
+            "Viper",
+            "Raze",
+            "Jett"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-08-11",
+        "tournament": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "map": "Bind",
+        "kill": "17",
+        "death": "8",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Rise",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Raze",
+            "Cypher",
+            "Skye",
+            "Astra"
+        ],
+        "score": "13:4"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-08-11",
+        "tournament": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "map": "Ascent",
+        "kill": "7",
+        "death": "15",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Rise",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "KAY/O",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Skye",
+            "Killjoy",
+            "Jett",
+            "Astra"
+        ],
+        "score": "7:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-08-11",
+        "tournament": "VCT 2021: North America Stage 3 Challengers Playoffs",
+        "map": "Breeze",
+        "kill": "18",
+        "death": "8",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "Rise",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "Skye",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Cypher",
+            "Skye",
+            "Sage",
+            "Jett",
+            "Viper"
+        ],
+        "score": "13:3"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-11",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Ascent",
+        "kill": "9",
+        "death": "15",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "XSET",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Killjoy",
+            "Sova",
+            "Astra",
+            "Jett",
+            "Skye"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-11",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Icebox",
+        "kill": "21",
+        "death": "21",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "XSET",
+        "agents1": [
+            "Jett",
+            "Sova",
+            "Sage",
+            "Raze",
+            "Viper"
+        ],
+        "agents2": [
+            "Viper",
+            "Sova",
+            "Sage",
+            "Jett",
+            "Reyna"
+        ],
+        "score": "14:12"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-11",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Breeze",
+        "kill": "10",
+        "death": "10",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "XSET",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "Skye",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Killjoy",
+            "Viper",
+            "Cypher",
+            "Jett",
+            "Skye"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-11",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Haven",
+        "kill": "14",
+        "death": "17",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "XSET",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Sova",
+            "Astra",
+            "Jett",
+            "Skye"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-11",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Breeze",
+        "kill": "17",
+        "death": "12",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "Skye",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Reyna",
+            "Sage",
+            "Viper",
+            "Omen",
+            "Skye"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-11",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Haven",
+        "kill": "18",
+        "death": "19",
+        "assist": "11",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Skye",
+            "Sova",
+            "Omen",
+            "Cypher"
+        ],
+        "score": "15:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-10",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Bind",
+        "kill": "11",
+        "death": "11",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Viper",
+            "Omen",
+            "Sage",
+            "Raze"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-10",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Breeze",
+        "kill": "15",
+        "death": "13",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Sova",
+            "Killjoy",
+            "Skye",
+            "Jett",
+            "Viper"
+        ],
+        "agents2": [
+            "Sova",
+            "Viper",
+            "Omen",
+            "Jett",
+            "Reyna"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-10",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Bind",
+        "kill": "14",
+        "death": "10",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "Pioneers",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Raze",
+            "Viper",
+            "Yoru",
+            "Omen"
+        ],
+        "score": "13:5"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-10",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Haven",
+        "kill": "9",
+        "death": "13",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "Pioneers",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Omen"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-09",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Split",
+        "kill": "9",
+        "death": "18",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "XSET",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Astra"
+        ],
+        "agents2": [
+            "Cypher",
+            "Sage",
+            "Astra",
+            "Jett",
+            "Raze"
+        ],
+        "score": "8:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-09",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Icebox",
+        "kill": "25",
+        "death": "15",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "XSET",
+        "agents1": [
+            "Jett",
+            "Sova",
+            "Sage",
+            "Raze",
+            "Viper"
+        ],
+        "agents2": [
+            "Viper",
+            "Sova",
+            "Sage",
+            "Jett",
+            "Raze"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-09",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Haven",
+        "kill": "10",
+        "death": "16",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "XSET",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Cypher",
+            "Sova",
+            "Astra",
+            "Jett",
+            "Skye"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-09",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Haven",
+        "kill": "12",
+        "death": "10",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "Gen.G Esports",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Omen",
+            "Jett",
+            "Sova",
+            "Cypher",
+            "Skye"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-09",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Icebox",
+        "kill": "12",
+        "death": "11",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Gen.G Esports",
+        "agents1": [
+            "Jett",
+            "Sova",
+            "Sage",
+            "Raze",
+            "Viper"
+        ],
+        "agents2": [
+            "Omen",
+            "Viper",
+            "Sova",
+            "Sage",
+            "Raze"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-08",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1",
+        "map": "Bind",
+        "kill": "17",
+        "death": "17",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "Gen.G Esports",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Yoru",
+            "Astra"
+        ],
+        "agents2": [
+            "Raze",
+            "Omen",
+            "Sova",
+            "Viper",
+            "Skye"
+        ],
+        "score": "11:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-03",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1 - Open Qualifier",
+        "map": "Haven",
+        "kill": "13",
+        "death": "9",
+        "assist": "10",
+        "team1": "Sentinels",
+        "team2": "Susquehanna Soniqs",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Viper",
+            "Brimstone",
+            "Sage",
+            "Killjoy",
+            "Skye"
+        ],
+        "score": "13:5"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-03",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1 - Open Qualifier",
+        "map": "Bind",
+        "kill": "18",
+        "death": "10",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Susquehanna Soniqs",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Yoru",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Brimstone",
+            "Reyna",
+            "Viper",
+            "Raze"
+        ],
+        "score": "13:5"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-03",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1 - Open Qualifier",
+        "map": "Icebox",
+        "kill": "19",
+        "death": "17",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Susquehanna Soniqs",
+        "agents1": [
+            "Jett",
+            "Sova",
+            "Sage",
+            "Reyna",
+            "Viper"
+        ],
+        "agents2": [
+            "Sova",
+            "Sage",
+            "Jett",
+            "Viper",
+            "Raze"
+        ],
+        "score": "7:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-02",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1 - Open Qualifier",
+        "map": "Haven",
+        "kill": "18",
+        "death": "9",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Evil Geniuses",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Omen",
+            "Breach",
+            "Sova",
+            "Reyna",
+            "Cypher"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-07-02",
+        "tournament": "VCT 2021: North America Stage 3 Challengers 1 - Open Qualifier",
+        "map": "Icebox",
+        "kill": "13",
+        "death": "14",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Evil Geniuses",
+        "agents1": [
+            "Jett",
+            "Sova",
+            "Sage",
+            "Reyna",
+            "Viper"
+        ],
+        "agents2": [
+            "Omen",
+            "Viper",
+            "Sage",
+            "Reyna",
+            "Sova"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-30",
+        "tournament": "VCT 2021: Stage 2 Masters - Reykjavík",
+        "map": "Haven",
+        "kill": "20",
+        "death": "13",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "Fnatic",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Jett",
+            "Sage",
+            "Killjoy",
+            "Skye"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-30",
+        "tournament": "VCT 2021: Stage 2 Masters - Reykjavík",
+        "map": "Bind",
+        "kill": "20",
+        "death": "14",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "Fnatic",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Brimstone",
+            "Sova",
+            "Raze",
+            "Skye",
+            "Viper"
+        ],
+        "score": "16:14"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-30",
+        "tournament": "VCT 2021: Stage 2 Masters - Reykjavík",
+        "map": "Split",
+        "kill": "25",
+        "death": "23",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Fnatic",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Jett",
+            "Skye",
+            "Cypher",
+            "Viper"
+        ],
+        "score": "14:12"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-28",
+        "tournament": "VCT 2021: Stage 2 Masters - Reykjavík",
+        "map": "Haven",
+        "kill": "15",
+        "death": "10",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "NUTURN Gaming",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Jett",
+            "Sova",
+            "Omen",
+            "Breach",
+            "Raze"
+        ],
+        "score": "13:4"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-28",
+        "tournament": "VCT 2021: Stage 2 Masters - Reykjavík",
+        "map": "Bind",
+        "kill": "9",
+        "death": "11",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "NUTURN Gaming",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Jett",
+            "Sova",
+            "Omen",
+            "Breach",
+            "Raze"
+        ],
+        "score": "13:5"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-26",
+        "tournament": "VCT 2021: Stage 2 Masters - Reykjavík",
+        "map": "Haven",
+        "kill": "17",
+        "death": "9",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "Team Vikings",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Phoenix",
+            "Raze",
+            "Cypher",
+            "Sova",
+            "Astra"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-26",
+        "tournament": "VCT 2021: Stage 2 Masters - Reykjavík",
+        "map": "Icebox",
+        "kill": "21",
+        "death": "17",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Team Vikings",
+        "agents1": [
+            "Jett",
+            "Sage",
+            "Sova",
+            "Reyna",
+            "Viper"
+        ],
+        "agents2": [
+            "Jett",
+            "Raze",
+            "Killjoy",
+            "Sova",
+            "Omen"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-25",
+        "tournament": "VCT 2021: Stage 2 Masters - Reykjavík",
+        "map": "Haven",
+        "kill": "14",
+        "death": "17",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "Fnatic",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Jett",
+            "Sage",
+            "Killjoy",
+            "Skye"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-25",
+        "tournament": "VCT 2021: Stage 2 Masters - Reykjavík",
+        "map": "Icebox",
+        "kill": "31",
+        "death": "20",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "Fnatic",
+        "agents1": [
+            "Jett",
+            "Sage",
+            "Sova",
+            "Reyna",
+            "Viper"
+        ],
+        "agents2": [
+            "Sova",
+            "Jett",
+            "Sage",
+            "Killjoy",
+            "Viper"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-02",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Icebox",
+        "kill": "31",
+        "death": "12",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "Version1",
+        "agents1": [
+            "Jett",
+            "Sage",
+            "Sova",
+            "Reyna",
+            "Viper"
+        ],
+        "agents2": [
+            "Sova",
+            "Jett",
+            "Omen",
+            "Viper",
+            "Phoenix"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-02",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Haven",
+        "kill": "12",
+        "death": "13",
+        "assist": "14",
+        "team1": "Sentinels",
+        "team2": "Version1",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Jett",
+            "Astra",
+            "Viper",
+            "Reyna"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-02",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Bind",
+        "kill": "7",
+        "death": "12",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "Version1",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Raze",
+            "Yoru",
+            "Omen",
+            "Viper"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-01",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Icebox",
+        "kill": "12",
+        "death": "14",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Cloud9 Blue",
+        "agents1": [
+            "Jett",
+            "Sage",
+            "Sova",
+            "Reyna",
+            "Viper"
+        ],
+        "agents2": [
+            "Omen",
+            "Raze",
+            "Sage",
+            "Reyna",
+            "Sova"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-01",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Split",
+        "kill": "7",
+        "death": "13",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "Cloud9 Blue",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Raze",
+            "Killjoy",
+            "Jett",
+            "Breach"
+        ],
+        "score": "1:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-05-01",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Haven",
+        "kill": "18",
+        "death": "14",
+        "assist": "10",
+        "team1": "Sentinels",
+        "team2": "Cloud9 Blue",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Raze",
+            "Cypher",
+            "Reyna",
+            "Sova"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-30",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Bind",
+        "kill": "8",
+        "death": "10",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Raze",
+            "Sage",
+            "Sova",
+            "Omen",
+            "Cypher"
+        ],
+        "score": "13:4"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-30",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Icebox",
+        "kill": "10",
+        "death": "14",
+        "assist": "0",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Jett",
+            "Sova",
+            "Sage",
+            "Reyna",
+            "Viper"
+        ],
+        "agents2": [
+            "Reyna",
+            "Omen",
+            "Sova",
+            "Viper",
+            "Killjoy"
+        ],
+        "score": "3:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-30",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Haven",
+        "kill": "17",
+        "death": "15",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Phoenix",
+            "Skye",
+            "Sova",
+            "Omen",
+            "Cypher"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-29",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Split",
+        "kill": "22",
+        "death": "8",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Version1",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Sage",
+            "Reyna",
+            "Viper",
+            "Astra",
+            "Raze"
+        ],
+        "score": "13:3"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-29",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Haven",
+        "kill": "9",
+        "death": "8",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Version1",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Reyna",
+            "Viper",
+            "Astra",
+            "Raze"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-29",
+        "tournament": "VCT 2021: North America Stage 2 Challengers Finals",
+        "map": "Ascent",
+        "kill": "13",
+        "death": "15",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "Version1",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Raze",
+            "Killjoy",
+            "Astra",
+            "Phoenix"
+        ],
+        "score": "4:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-25",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Split",
+        "kill": "17",
+        "death": "16",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "Cloud9 Blue",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Omen",
+            "Raze",
+            "Killjoy",
+            "Jett",
+            "Breach"
+        ],
+        "score": "14:12"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-25",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Haven",
+        "kill": "15",
+        "death": "9",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "Cloud9 Blue",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Omen",
+            "Raze",
+            "Cypher",
+            "Reyna",
+            "Sova"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-25",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Bind",
+        "kill": "6",
+        "death": "11",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "Cloud9 Blue",
+        "agents1": [
+            "Sova",
+            "Viper",
+            "Raze",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Raze",
+            "Sage",
+            "Yoru",
+            "Sova"
+        ],
+        "score": "13:4"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-25",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Ascent",
+        "kill": "26",
+        "death": "18",
+        "assist": "14",
+        "team1": "Sentinels",
+        "team2": "NRG",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Phoenix",
+            "Cypher",
+            "Sova",
+            "Omen",
+            "Reyna"
+        ],
+        "score": "17:15"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-24",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Split",
+        "kill": "17",
+        "death": "17",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "NRG",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Reyna",
+            "Sage",
+            "Skye",
+            "Omen",
+            "Jett"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-24",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Split",
+        "kill": "13",
+        "death": "11",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Andbox",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Breach",
+            "Raze",
+            "Omen",
+            "Viper",
+            "Sage"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-24",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Ascent",
+        "kill": "8",
+        "death": "14",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "Andbox",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Omen",
+            "Phoenix",
+            "Killjoy",
+            "Sova",
+            "Sage"
+        ],
+        "score": "4:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-24",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Haven",
+        "kill": "20",
+        "death": "12",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "Andbox",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Omen",
+            "Phoenix",
+            "Cypher",
+            "Sova",
+            "Jett"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-23",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Ascent",
+        "kill": "16",
+        "death": "12",
+        "assist": "11",
+        "team1": "Sentinels",
+        "team2": "Immortals",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Astra",
+            "Killjoy",
+            "Viper",
+            "Reyna"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-23",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Haven",
+        "kill": "14",
+        "death": "18",
+        "assist": "12",
+        "team1": "Sentinels",
+        "team2": "Immortals",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Sova",
+            "Jett",
+            "Cypher",
+            "Astra",
+            "Reyna"
+        ],
+        "score": "14:12"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-23",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Icebox",
+        "kill": "25",
+        "death": "17",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "T1",
+        "agents1": [
+            "Jett",
+            "Sova",
+            "Sage",
+            "Raze",
+            "Viper"
+        ],
+        "agents2": [
+            "Killjoy",
+            "Viper",
+            "Sova",
+            "Skye",
+            "Jett"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-23",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Split",
+        "kill": "15",
+        "death": "16",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "T1",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Astra"
+        ],
+        "agents2": [
+            "Raze",
+            "Cypher",
+            "Sage",
+            "Astra",
+            "Omen"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-23",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Haven",
+        "kill": "13",
+        "death": "15",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "T1",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Killjoy",
+            "Sova",
+            "Astra",
+            "Omen"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-22",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Split",
+        "kill": "12",
+        "death": "18",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Andbox",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Astra"
+        ],
+        "agents2": [
+            "Breach",
+            "Raze",
+            "Omen",
+            "Viper",
+            "Sage"
+        ],
+        "score": "11:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-22",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2",
+        "map": "Haven",
+        "kill": "22",
+        "death": "17",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "Andbox",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Omen",
+            "Phoenix",
+            "Cypher",
+            "Sova",
+            "Jett"
+        ],
+        "score": "13:15"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-17",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2 - Qualifier",
+        "map": "Ascent",
+        "kill": "10",
+        "death": "9",
+        "assist": "11",
+        "team1": "Sentinels",
+        "team2": "Noble",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Killjoy",
+            "Raze",
+            "Skye",
+            "Sova"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-17",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2 - Qualifier",
+        "map": "Haven",
+        "kill": "12",
+        "death": "12",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "Noble",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Astra",
+            "Killjoy",
+            "Raze",
+            "Skye",
+            "Sova"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-17",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2 - Qualifier",
+        "map": "Haven",
+        "kill": "17",
+        "death": "11",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "Rise",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Phoenix",
+            "Omen",
+            "Jett",
+            "Sova"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-16",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2 - Qualifier",
+        "map": "Ascent",
+        "kill": "12",
+        "death": "5",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Rise",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Cypher",
+            "Phoenix",
+            "Omen",
+            "Jett",
+            "Sova"
+        ],
+        "score": "13:3"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-16",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2 - Qualifier",
+        "map": "Icebox",
+        "kill": "22",
+        "death": "13",
+        "assist": "0",
+        "team1": "Sentinels",
+        "team2": "Grapefruit Techniques",
+        "agents1": [
+            "Jett",
+            "Sage",
+            "Sova",
+            "Reyna",
+            "Omen"
+        ],
+        "agents2": [
+            "Viper",
+            "Raze",
+            "Sage",
+            "Jett",
+            "Sova"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-16",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 2 - Qualifier",
+        "map": "Ascent",
+        "kill": "13",
+        "death": "8",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Grapefruit Techniques",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Astra"
+        ],
+        "agents2": [
+            "Astra",
+            "Sage",
+            "Skye",
+            "Jett",
+            "Sova"
+        ],
+        "score": "13:2"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-03",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 1 - Qualifier",
+        "map": "Haven",
+        "kill": "9",
+        "death": "14",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "Built By Gamers",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Sova",
+            "Omen",
+            "Jett",
+            "Phoenix"
+        ],
+        "score": "5:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-03",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 1 - Qualifier",
+        "map": "Ascent",
+        "kill": "15",
+        "death": "14",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Built By Gamers",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Killjoy",
+            "Sova",
+            "Omen",
+            "Jett",
+            "Reyna"
+        ],
+        "score": "5:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-02",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 1 - Qualifier",
+        "map": "Split",
+        "kill": "13",
+        "death": "8",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Susquehanna Soniqs",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Reyna",
+            "Astra"
+        ],
+        "agents2": [
+            "Reyna",
+            "Sova",
+            "Omen",
+            "Jett",
+            "Killjoy"
+        ],
+        "score": "13:0"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-04-02",
+        "tournament": "VCT 2021: North America Stage 2 Challengers 1 - Qualifier",
+        "map": "Icebox",
+        "kill": "22",
+        "death": "15",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Susquehanna Soniqs",
+        "agents1": [
+            "Jett",
+            "Sage",
+            "Sova",
+            "Reyna",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Viper",
+            "Sage",
+            "Jett",
+            "Killjoy"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-03-21",
+        "tournament": "VCT 2021: North America Stage 1 Masters",
+        "map": "Haven",
+        "kill": "7",
+        "death": "9",
+        "assist": "9",
+        "team1": "Sentinels",
+        "team2": "FaZe Clan",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Phoenix",
+            "Omen",
+            "Sova",
+            "Breach"
+        ],
+        "score": "13:4"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-03-21",
+        "tournament": "VCT 2021: North America Stage 1 Masters",
+        "map": "Bind",
+        "kill": "13",
+        "death": "10",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "FaZe Clan",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Raze",
+            "Reyna",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Raze",
+            "Omen",
+            "Sova",
+            "Breach"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-03-21",
+        "tournament": "VCT 2021: North America Stage 1 Masters",
+        "map": "Ascent",
+        "kill": "10",
+        "death": "17",
+        "assist": "11",
+        "team1": "Sentinels",
+        "team2": "FaZe Clan",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Raze",
+            "Omen",
+            "Sova",
+            "Killjoy"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-03-20",
+        "tournament": "VCT 2021: North America Stage 1 Masters",
+        "map": "Haven",
+        "kill": "12",
+        "death": "9",
+        "assist": "10",
+        "team1": "Sentinels",
+        "team2": "FaZe Clan",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Raze",
+            "Omen",
+            "Sova",
+            "Breach"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-03-20",
+        "tournament": "VCT 2021: North America Stage 1 Masters",
+        "map": "Icebox",
+        "kill": "14",
+        "death": "12",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "FaZe Clan",
+        "agents1": [
+            "Jett",
+            "Sage",
+            "Sova",
+            "Reyna",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Raze",
+            "Sage",
+            "Sova",
+            "Omen"
+        ],
+        "score": "13:5"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-03-14",
+        "tournament": "VCT 2021: North America Stage 1 Masters",
+        "map": "Haven",
+        "kill": "21",
+        "death": "16",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Omen",
+            "Sova",
+            "Breach",
+            "Cypher"
+        ],
+        "score": "16:14"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-03-14",
+        "tournament": "VCT 2021: North America Stage 1 Masters",
+        "map": "Ascent",
+        "kill": "14",
+        "death": "4",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Omen",
+            "Sova",
+            "Sage",
+            "Killjoy"
+        ],
+        "score": "13:2"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-03-12",
+        "tournament": "VCT 2021: North America Stage 1 Masters",
+        "map": "Icebox",
+        "kill": "13",
+        "death": "11",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Jett",
+            "Sage",
+            "Sova",
+            "Reyna",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Sova",
+            "Sage",
+            "Reyna",
+            "Omen"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-03-12",
+        "tournament": "VCT 2021: North America Stage 1 Masters",
+        "map": "Split",
+        "kill": "23",
+        "death": "18",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Raze",
+            "Sage",
+            "Reyna",
+            "Omen"
+        ],
+        "score": "12:14"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-03-12",
+        "tournament": "VCT 2021: North America Stage 1 Masters",
+        "map": "Ascent",
+        "kill": "10",
+        "death": "12",
+        "assist": "12",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Jett",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Sova",
+            "Omen",
+            "Reyna",
+            "Raze"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-23",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Haven",
+        "kill": "14",
+        "death": "18",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Reyna",
+            "Omen"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-23",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Bind",
+        "kill": "11",
+        "death": "13",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Raze",
+            "Omen"
+        ],
+        "score": "3:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-22",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Split",
+        "kill": "9",
+        "death": "17",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "Immortals",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Omen",
+            "Jett",
+            "Cypher",
+            "Raze"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-22",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Ascent",
+        "kill": "18",
+        "death": "14",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Immortals",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Omen",
+            "Jett",
+            "Cypher",
+            "Reyna"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-22",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Haven",
+        "kill": "14",
+        "death": "8",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "XSET",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Sova",
+            "Jett",
+            "Cypher",
+            "Omen"
+        ],
+        "score": "13:4"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-22",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Split",
+        "kill": "15",
+        "death": "14",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "XSET",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Killjoy",
+            "Omen",
+            "Jett",
+            "Breach",
+            "Viper"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-21",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Ascent",
+        "kill": "15",
+        "death": "12",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Reyna",
+            "Jett",
+            "Sova",
+            "Omen",
+            "Killjoy"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-21",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Haven",
+        "kill": "17",
+        "death": "11",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "100 Thieves",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Phoenix",
+            "Jett",
+            "Sova",
+            "Omen",
+            "Cypher"
+        ],
+        "score": "13:4"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-21",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Ascent",
+        "kill": "22",
+        "death": "20",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Reyna",
+            "Omen"
+        ],
+        "score": "10:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-21",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Icebox",
+        "kill": "23",
+        "death": "15",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Jett",
+            "Sage",
+            "Sova",
+            "Reyna",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Killjoy",
+            "Phoenix",
+            "Raze",
+            "Omen"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-21",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Split",
+        "kill": "21",
+        "death": "15",
+        "assist": "0",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Skye",
+            "Cypher",
+            "Raze",
+            "Omen",
+            "Jett"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-20",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Haven",
+        "kill": "14",
+        "death": "11",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "FaZe Clan",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Reyna",
+            "Omen",
+            "Sova",
+            "Cypher"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-20",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 2",
+        "map": "Split",
+        "kill": "18",
+        "death": "11",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "FaZe Clan",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Raze",
+            "Omen",
+            "Skye",
+            "Cypher"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-07",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Icebox",
+        "kill": "21",
+        "death": "9",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "Immortals",
+        "agents1": [
+            "Jett",
+            "Sage",
+            "Sova",
+            "Reyna",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Omen",
+            "Jett",
+            "Killjoy",
+            "Reyna"
+        ],
+        "score": "13:4"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-07",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Bind",
+        "kill": "15",
+        "death": "14",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "Immortals",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Phoenix",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Omen",
+            "Raze",
+            "Cypher",
+            "Phoenix"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-07",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Split",
+        "kill": "16",
+        "death": "8",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Immortals",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Sage",
+            "Omen",
+            "Raze",
+            "Killjoy",
+            "Reyna"
+        ],
+        "score": "13:3"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-07",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Icebox",
+        "kill": "13",
+        "death": "15",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Jett",
+            "Sage",
+            "Sova",
+            "Reyna",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Sova",
+            "Sage",
+            "Jett",
+            "Omen"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-07",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Ascent",
+        "kill": "26",
+        "death": "17",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Sova",
+            "Omen",
+            "Reyna",
+            "Raze"
+        ],
+        "score": "11:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-07",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Split",
+        "kill": "16",
+        "death": "17",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Omen",
+            "Sage",
+            "Reyna",
+            "Raze"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-06",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Split",
+        "kill": "19",
+        "death": "16",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "XSET",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Killjoy",
+            "Omen",
+            "Jett",
+            "Breach",
+            "Viper"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-06",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Haven",
+        "kill": "14",
+        "death": "18",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "XSET",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Sova",
+            "Jett",
+            "Cypher",
+            "Omen"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-06",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Ascent",
+        "kill": "14",
+        "death": "16",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Gen.G Esports",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Omen",
+            "Jett",
+            "Cypher",
+            "Sova",
+            "Phoenix"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-05",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Haven",
+        "kill": "18",
+        "death": "15",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Gen.G Esports",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Omen",
+            "Jett",
+            "Cypher",
+            "Sova",
+            "Phoenix"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-05",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Icebox",
+        "kill": "11",
+        "death": "16",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "Gen.G Esports",
+        "agents1": [
+            "Jett",
+            "Killjoy",
+            "Sova",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Omen",
+            "Jett",
+            "Cypher",
+            "Sova",
+            "Raze"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-05",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Haven",
+        "kill": "18",
+        "death": "12",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Andbox",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Reyna",
+            "Omen",
+            "Sova",
+            "Cypher",
+            "Jett"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-05",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Ascent",
+        "kill": "24",
+        "death": "14",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Andbox",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Phoenix",
+            "Omen",
+            "Sova",
+            "Cypher",
+            "Jett"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-04",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Icebox",
+        "kill": "24",
+        "death": "18",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Jett",
+            "Killjoy",
+            "Sova",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Sova",
+            "Sage",
+            "Jett",
+            "Omen"
+        ],
+        "score": "12:14"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-02-04",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1",
+        "map": "Split",
+        "kill": "17",
+        "death": "15",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Omen",
+            "Sage",
+            "Reyna",
+            "Raze"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-31",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1 - Qualifier",
+        "map": "Ascent",
+        "kill": "12",
+        "death": "14",
+        "assist": "0",
+        "team1": "Sentinels",
+        "team2": "Immortals",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Breach",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Omen",
+            "Jett",
+            "Killjoy",
+            "Reyna"
+        ],
+        "score": "7:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-31",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1 - Qualifier",
+        "map": "Haven",
+        "kill": "12",
+        "death": "16",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Immortals",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Omen",
+            "Jett",
+            "Cypher",
+            "Reyna"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-31",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1 - Qualifier",
+        "map": "Icebox",
+        "kill": "23",
+        "death": "17",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "Immortals",
+        "agents1": [
+            "Jett",
+            "Killjoy",
+            "Sova",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Omen",
+            "Jett",
+            "Killjoy",
+            "Reyna"
+        ],
+        "score": "9:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-30",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1 - Qualifier",
+        "map": "Icebox",
+        "kill": "20",
+        "death": "14",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "Andbox",
+        "agents1": [
+            "Jett",
+            "Killjoy",
+            "Sova",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Omen",
+            "Viper",
+            "Killjoy",
+            "Jett"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-29",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1 - Qualifier",
+        "map": "Split",
+        "kill": "13",
+        "death": "14",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "Andbox",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Omen",
+            "Viper",
+            "Cypher",
+            "Breach"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-29",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1 - Qualifier",
+        "map": "Haven",
+        "kill": "8",
+        "death": "8",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "Built By Gamers",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Killjoy",
+            "Sova",
+            "Omen",
+            "Phoenix"
+        ],
+        "score": "13:3"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-29",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1 - Qualifier",
+        "map": "Ascent",
+        "kill": "22",
+        "death": "16",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Built By Gamers",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Breach",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Killjoy",
+            "Sova",
+            "Omen",
+            "Reyna"
+        ],
+        "score": "13:10"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-29",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1 - Qualifier",
+        "map": "Icebox",
+        "kill": "21",
+        "death": "15",
+        "assist": "5",
+        "team1": "Sentinels",
+        "team2": "Team Serenity",
+        "agents1": [
+            "Jett",
+            "Killjoy",
+            "Sova",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Killjoy",
+            "Brimstone",
+            "Sova",
+            "Raze",
+            "Reyna"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-29",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1 - Qualifier",
+        "map": "Haven",
+        "kill": "12",
+        "death": "16",
+        "assist": "0",
+        "team1": "Sentinels",
+        "team2": "Team Serenity",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen",
+            "Jett"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-29",
+        "tournament": "VCT 2021: North America Stage 1 Challengers 1 - Qualifier",
+        "map": "Ascent",
+        "kill": "10",
+        "death": "17",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Team Serenity",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Breach",
+            "Sova",
+            "Brimstone"
+        ],
+        "agents2": [
+            "Cypher",
+            "Omen",
+            "Sova",
+            "Raze",
+            "Reyna"
+        ],
+        "score": "5:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-18",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Ascent",
+        "kill": "22",
+        "death": "20",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Breach",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Sova",
+            "Omen",
+            "Reyna",
+            "Raze"
+        ],
+        "score": "10:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-18",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Haven",
+        "kill": "16",
+        "death": "14",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Sova",
+            "Omen",
+            "Reyna",
+            "Raze"
+        ],
+        "score": "13:8"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-18",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Split",
+        "kill": "11",
+        "death": "16",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Omen",
+            "Sage",
+            "Reyna",
+            "Raze"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-17",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Bind",
+        "kill": "19",
+        "death": "16",
+        "assist": "7",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Sova",
+            "Cypher",
+            "Raze",
+            "Phoenix",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Sova",
+            "Omen",
+            "Phoenix",
+            "Raze"
+        ],
+        "score": "10:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-17",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Icebox",
+        "kill": "26",
+        "death": "17",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "Luminosity Gaming",
+        "agents1": [
+            "Jett",
+            "Killjoy",
+            "Skye",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Sova",
+            "Sage",
+            "Jett",
+            "Omen"
+        ],
+        "score": "13:15"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-17",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Ascent",
+        "kill": "23",
+        "death": "11",
+        "assist": "6",
+        "team1": "Sentinels",
+        "team2": "Andbox",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Breach",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Phoenix",
+            "Omen",
+            "Sova",
+            "Cypher",
+            "Jett"
+        ],
+        "score": "13:6"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-17",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Icebox",
+        "kill": "18",
+        "death": "16",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Andbox",
+        "agents1": [
+            "Jett",
+            "Killjoy",
+            "Skye",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Raze",
+            "Omen",
+            "Viper",
+            "Killjoy",
+            "Jett"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-16",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Split",
+        "kill": "17",
+        "death": "20",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Sage",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Skye",
+            "Cypher",
+            "Omen",
+            "Reyna",
+            "Jett"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-16",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Ascent",
+        "kill": "8",
+        "death": "17",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Breach",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Sova",
+            "Cypher",
+            "Omen",
+            "Reyna",
+            "Jett"
+        ],
+        "score": "5:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-16",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Icebox",
+        "kill": "23",
+        "death": "8",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Team Envy",
+        "agents1": [
+            "Jett",
+            "Killjoy",
+            "Skye",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Skye",
+            "Killjoy",
+            "Omen",
+            "Raze",
+            "Jett"
+        ],
+        "score": "13:4"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-15",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Haven",
+        "kill": "20",
+        "death": "12",
+        "assist": "3",
+        "team1": "Sentinels",
+        "team2": "Spacestation Gaming",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Omen",
+            "Sova",
+            "Reyna",
+            "Cypher"
+        ],
+        "score": "13:7"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-15",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Ascent",
+        "kill": "34",
+        "death": "18",
+        "assist": "8",
+        "team1": "Sentinels",
+        "team2": "Spacestation Gaming",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Breach",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Phoenix",
+            "Omen",
+            "Sova",
+            "Reyna",
+            "Cypher"
+        ],
+        "score": "16:14"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-15",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Split",
+        "kill": "16",
+        "death": "20",
+        "assist": "4",
+        "team1": "Sentinels",
+        "team2": "NRG",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Skye",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Brimstone",
+            "Breach",
+            "Killjoy",
+            "Raze",
+            "Jett"
+        ],
+        "score": "10:13"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-15",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Icebox",
+        "kill": "24",
+        "death": "22",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "NRG",
+        "agents1": [
+            "Jett",
+            "Killjoy",
+            "Skye",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Brimstone",
+            "Sova",
+            "Killjoy",
+            "Reyna",
+            "Jett"
+        ],
+        "score": "12:14"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-15",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Haven",
+        "kill": "13",
+        "death": "16",
+        "assist": "1",
+        "team1": "Sentinels",
+        "team2": "NRG",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Cypher",
+            "Sova",
+            "Brimstone",
+            "Phoenix",
+            "Reyna"
+        ],
+        "score": "13:11"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-13",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Haven",
+        "kill": "12",
+        "death": "15",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Spacestation Gaming",
+        "agents1": [
+            "Jett",
+            "Cypher",
+            "Phoenix",
+            "Sova",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Omen",
+            "Sova",
+            "Reyna",
+            "Cypher"
+        ],
+        "score": "13:9"
+    },
+    {
+        "player": "ShahZaM",
+        "date": "2021-01-13",
+        "tournament": "Nerd Street Gamers - Winter Championship",
+        "map": "Icebox",
+        "kill": "14",
+        "death": "13",
+        "assist": "2",
+        "team1": "Sentinels",
+        "team2": "Spacestation Gaming",
+        "agents1": [
+            "Jett",
+            "Killjoy",
+            "Skye",
+            "Raze",
+            "Omen"
+        ],
+        "agents2": [
+            "Jett",
+            "Viper",
+            "Sova",
+            "Reyna",
+            "Killjoy"
+        ],
+        "score": "13:8"
+    }
+]

@@ -119,4 +119,4 @@ def write_json(new_data, filename):
 
 if __name__ == "__main__":
     allMatchs = getMatchsPlayer("ShahZaM")
-    write_json(allMatchs, "matchs.json")
+    write_json(allMatchs, "data/matchs.json")
