@@ -2,6 +2,7 @@ import requests
 import re
 import time
 import json
+import urllib.request
 
 baseURL = "https://liquipedia.net"
 
@@ -108,11 +109,41 @@ def write_json(new_data, filename):
         json.dump(data, j, ensure_ascii=False, indent=4)
 
 
+def loadImage(url, filename):
+    urllib.request.urlretrieve(url, filename)
+
+
 if __name__ == "__main__":
-    teamsURL = getTeamsURL()
-    for url in teamsURL:
-        url = baseURL + url
-        teamData = getTeamData(url)
-        print(teamData)
-        write_json([teamData], "teams.json")
-        time.sleep(3)
+    with open("Data/teams.json", mode='r', encoding='utf-8') as j:
+        teams = json.load(j)
+    for team in teams:
+        print(team["name"])
+        if(team["logo"] != ""):
+            loadImage(team["logo"], "Data/images/teams/"+team["url"]+".png")
+            time.sleep(3)
+
+    # teamsURL = getTeamsURL()
+    # for i in range(len(teamsURL)):
+    #     teamsURL[i] = teamsURL[i].replace("/valorant/", "")
+
+    # with open("Data/teams.json", mode='r', encoding='utf-8') as j:
+    #     teams = json.load(j)
+    # new_data = []
+    # for i in range(len(teams)):
+    #     teams[i]["url"] = teamsURL[i]
+    #     new_data.append(teams[i])
+    # with open("teams.json", 'w', encoding='utf-8') as j:
+    #     json.dump(new_data, j, ensure_ascii=False, indent=4)
+
+    # for team in teams:
+    #     print(team["name"])
+    # teamsURL = getTeamsURL()
+    # print(teamsURL)
+
+    # teamsURL = getTeamsURL()
+    # for url in teamsURL:
+    #     url = baseURL + url
+    #     teamData = getTeamData(url)
+    #     print(teamData)
+    #     write_json([teamData], "teams.json")
+    #     time.sleep(3)

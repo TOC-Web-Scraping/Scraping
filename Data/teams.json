@@ -60,7 +60,8 @@
                 "tournament": "First Strike North America",
                 "prize": "$40,000"
             }
-        ]
+        ],
+        "url": "100_Thieves"
     },
     {
         "name": "Akrew",
@@ -129,7 +130,8 @@
                 "tournament": "NSG: Winter Championship - Open 1",
                 "prize": "$250"
             }
-        ]
+        ],
+        "url": "Akrew"
     },
     {
         "name": "Built By Gamers",
@@ -198,7 +200,8 @@
                 "tournament": "Nerd Street Gamers - Monthly December",
                 "prize": "$3,000"
             }
-        ]
+        ],
+        "url": "Built_By_Gamers"
     },
     {
         "name": "Cloud9",
@@ -261,7 +264,8 @@
                 "tournament": "PAX Arena Invitational",
                 "prize": "$5,000"
             }
-        ]
+        ],
+        "url": "Cloud9"
     },
     {
         "name": "Cloud9 White",
@@ -330,7 +334,8 @@
                 "tournament": "Cloud9 To The Skyes",
                 "prize": "$1,500"
             }
-        ]
+        ],
+        "url": "Cloud9_White"
     },
     {
         "name": "Complexity Gaming",
@@ -399,7 +404,8 @@
                 "tournament": "Cloud9 To The Skyes",
                 "prize": "$1,500"
             }
-        ]
+        ],
+        "url": "Complexity_Gaming"
     },
     {
         "name": "Complexity GX3",
@@ -432,7 +438,8 @@
                 "tournament": "VCT 2021: Game Changers North America Series 3 - Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Complexity_GX3"
     },
     {
         "name": "Counter Logic Gaming Red",
@@ -501,7 +508,8 @@
                 "tournament": "VCT 2021: Game Changers North America Series 1",
                 "prize": "$10,000"
             }
-        ]
+        ],
+        "url": "Counter_Logic_Gaming_Red"
     },
     {
         "name": "DarkZero Esports",
@@ -570,7 +578,8 @@
                 "tournament": "NSG: Summer Championship - Open 10",
                 "prize": "$750"
             }
-        ]
+        ],
+        "url": "DarkZero_Esports"
     },
     {
         "name": "Dignitas Female",
@@ -639,7 +648,8 @@
                 "tournament": "ANEW Valorant Women's Open",
                 "prize": "$300"
             }
-        ]
+        ],
+        "url": "Dignitas_Female"
     },
     {
         "name": "Elysium",
@@ -708,7 +718,8 @@
                 "tournament": "Allied Esports Strafe Series",
                 "prize": "$1,250"
             }
-        ]
+        ],
+        "url": "Elysium"
     },
     {
         "name": "Evil Geniuses",
@@ -777,7 +788,8 @@
                 "tournament": "NSG: Summer Championship - Open 3",
                 "prize": "$250"
             }
-        ]
+        ],
+        "url": "Evil_Geniuses"
     },
     {
         "name": "FaZe Clan",
@@ -846,7 +858,8 @@
                 "tournament": "T1 x Nerd Street Gamers Showdown",
                 "prize": "$5,000"
             }
-        ]
+        ],
+        "url": "FaZe_Clan"
     },
     {
         "name": "Gen.G Black",
@@ -915,7 +928,8 @@
                 "tournament": "VCT 2021: Game Changers Academy - May",
                 "prize": "$500"
             }
-        ]
+        ],
+        "url": "Gen.G_Black"
     },
     {
         "name": "Gen.G Esports",
@@ -984,7 +998,8 @@
                 "tournament": "T1 x Nerd Street Gamers Invitational",
                 "prize": "$20,000"
             }
-        ]
+        ],
+        "url": "Gen.G_Esports"
     },
     {
         "name": "Ghost Gaming",
@@ -1053,7 +1068,8 @@
                 "tournament": "NSG: Summer Championship - Open 8",
                 "prize": "$250"
             }
-        ]
+        ],
+        "url": "Ghost_Gaming"
     },
     {
         "name": "Immortals",
@@ -1122,7 +1138,8 @@
                 "tournament": "T1 x Nerd Street Gamers Showdown",
                 "prize": "$5,000"
             }
-        ]
+        ],
+        "url": "Immortals"
     },
     {
         "name": "Knights",
@@ -1191,7 +1208,8 @@
                 "tournament": "NSG: Summer Championship - Open 3",
                 "prize": "$750"
             }
-        ]
+        ],
+        "url": "Knights"
     },
     {
         "name": "Last Round Save",
@@ -1260,7 +1278,8 @@
                 "tournament": "ValoRamen Cup - 1",
                 "prize": "$300"
             }
-        ]
+        ],
+        "url": "Last_Round_Save"
     },
     {
         "name": "Luminosity Gaming",
@@ -1329,7 +1348,8 @@
                 "tournament": "Pulse Series",
                 "prize": "$3,000"
             }
-        ]
+        ],
+        "url": "Luminosity_Gaming"
     },
     {
         "name": "Man I Love Fwogs",
@@ -1398,7 +1418,8 @@
                 "tournament": "VCT 2021: Game Changers North America Series 1",
                 "prize": "$1,000"
             }
-        ]
+        ],
+        "url": "Man_I_Love_Fwogs"
     },
     {
         "name": "Misfits Black",
@@ -1413,7 +1434,8 @@
                 "tournament": "VCT 2022: Game Changers North America Series 1 - Open Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Misfits_Black"
     },
     {
         "name": "Moon Raccoons",
@@ -1482,7 +1504,8 @@
                 "tournament": "Fight Night Arena #11",
                 "prize": "$250"
             }
-        ]
+        ],
+        "url": "Moon_Raccoons"
     },
     {
         "name": "NRG",
@@ -1551,7 +1574,8 @@
                 "tournament": "Nerd Street Gamers - Monthly December",
                 "prize": "$6,000"
             }
-        ]
+        ],
+        "url": "NRG"
     },
     {
         "name": "NYFU",
@@ -1620,7 +1644,8 @@
                 "tournament": "NSG x Renegades Invitational",
                 "prize": "$6,000"
             }
-        ]
+        ],
+        "url": "NYFU"
     },
     {
         "name": "OpTic Gaming",
@@ -1635,7 +1660,8 @@
                 "tournament": "VCT 2022: North America Stage 1 Challengers",
                 "prize": "$32,000"
             }
-        ]
+        ],
+        "url": "OpTic_Gaming"
     },
     {
         "name": "Renegades",
@@ -1704,7 +1730,8 @@
                 "tournament": "First Strike North America",
                 "prize": "$5,000"
             }
-        ]
+        ],
+        "url": "Renegades"
     },
     {
         "name": "Rise",
@@ -1773,7 +1800,8 @@
                 "tournament": "30Bomb: Invitational Series #2",
                 "prize": "$300"
             }
-        ]
+        ],
+        "url": "Rise"
     },
     {
         "name": "Sentinels",
@@ -1836,7 +1864,8 @@
                 "tournament": "FaZe Clan Invitational",
                 "prize": "$15,000"
             }
-        ]
+        ],
+        "url": "Sentinels"
     },
     {
         "name": "Shopify Rebellion",
@@ -1905,7 +1934,8 @@
                 "tournament": "VCT 2021: Game Changers North America Series 2",
                 "prize": "$7,000"
             }
-        ]
+        ],
+        "url": "Shopify_Rebellion"
     },
     {
         "name": "San Jose State University",
@@ -1913,7 +1943,8 @@
         "logo": "",
         "region": "",
         "Total Winnings": "",
-        "Achievements": []
+        "Achievements": [],
+        "url": "SJSU_Blue"
     },
     {
         "name": "San Jose State University",
@@ -1921,7 +1952,8 @@
         "logo": "",
         "region": "",
         "Total Winnings": "",
-        "Achievements": []
+        "Achievements": [],
+        "url": "SJSU_Esports"
     },
     {
         "name": "SoaR",
@@ -1990,7 +2022,8 @@
                 "tournament": "NSG: Summer Championship - Monthly April",
                 "prize": "$500"
             }
-        ]
+        ],
+        "url": "SoaR"
     },
     {
         "name": "Soniqs",
@@ -2059,7 +2092,8 @@
                 "tournament": "NSG: Summer Championship - Open 1",
                 "prize": "$750"
             }
-        ]
+        ],
+        "url": "Susquehanna_Soniqs"
     },
     {
         "name": "T1",
@@ -2128,7 +2162,8 @@
                 "tournament": "T1 x Nerd Street Gamers Showdown",
                 "prize": "$15,000"
             }
-        ]
+        ],
+        "url": "T1"
     },
     {
         "name": "T1 Academy",
@@ -2173,7 +2208,8 @@
                 "tournament": "Counter Logic Gaming - Blitz Cup #2",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "T1_Academy"
     },
     {
         "name": "The Guard",
@@ -2218,7 +2254,8 @@
                 "tournament": "NSG: Winter Championship - Open 7",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "The_Guard"
     },
     {
         "name": "TSM",
@@ -2287,7 +2324,8 @@
                 "tournament": "Immortals First Light",
                 "prize": "$6,000"
             }
-        ]
+        ],
+        "url": "TSM"
     },
     {
         "name": "TSM Academy",
@@ -2356,7 +2394,8 @@
                 "tournament": "Knights Arena Monthly Gauntlet - September",
                 "prize": "$3,000"
             }
-        ]
+        ],
+        "url": "TSM_Academy"
     },
     {
         "name": "TSM X",
@@ -2425,7 +2464,8 @@
                 "tournament": "VCT 2021: Game Changers North America Series 1",
                 "prize": "$3,000"
             }
-        ]
+        ],
+        "url": "TSM_X"
     },
     {
         "name": "University of Houston Premiere",
@@ -2488,7 +2528,8 @@
                 "tournament": "CVC Fall 2020 - Finals",
                 "prize": "$300"
             }
-        ]
+        ],
+        "url": "University_of_Houston_Premiere"
     },
     {
         "name": "Version1",
@@ -2551,7 +2592,8 @@
                 "tournament": "Knights Monthly Gauntlet - March",
                 "prize": "$3,000"
             }
-        ]
+        ],
+        "url": "Version1"
     },
     {
         "name": "VersionX",
@@ -2602,7 +2644,8 @@
                 "tournament": "VCT 2021: Game Changers North America Series 3 - Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "VersionX"
     },
     {
         "name": "XSET",
@@ -2671,7 +2714,8 @@
                 "tournament": "NSG x Complexity Invitational",
                 "prize": "$6,000"
             }
-        ]
+        ],
+        "url": "XSET"
     },
     {
         "name": "XSET Female",
@@ -2722,7 +2766,8 @@
                 "tournament": "Huntress Trials - May 2021",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "XSET_Female"
     },
     {
         "name": "Acend",
@@ -2779,7 +2824,8 @@
                 "tournament": "VCT 2021: Europe Stage 1 Masters",
                 "prize": "$60,000"
             }
-        ]
+        ],
+        "url": "Acend"
     },
     {
         "name": "Alliance",
@@ -2848,7 +2894,8 @@
                 "tournament": "VCT 2021: Europe Stage 1 Challengers 2",
                 "prize": "$10,609"
             }
-        ]
+        ],
+        "url": "Alliance"
     },
     {
         "name": "Alliance.Coven",
@@ -2869,7 +2916,8 @@
                 "tournament": "VCT 2022: Game Changers EMEA Series 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Alliance.Coven"
     },
     {
         "name": "Angry Titans",
@@ -2938,7 +2986,8 @@
                 "tournament": "LVL Clash 2",
                 "prize": "$298"
             }
-        ]
+        ],
+        "url": "Angry_Titans"
     },
     {
         "name": "Anorthosis Famagusta Esports",
@@ -3007,7 +3056,8 @@
                 "tournament": "VALORANT LEGENDS Phase X",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Anorthosis_Famagusta_Esports"
     },
     {
         "name": "Arctic",
@@ -3076,7 +3126,8 @@
                 "tournament": "LVP - Genesis Cup Viento",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Arctic"
     },
     {
         "name": "BIG",
@@ -3145,7 +3196,8 @@
                 "tournament": "LVL Clash Regional",
                 "prize": "$1,211"
             }
-        ]
+        ],
+        "url": "BIG"
     },
     {
         "name": "Case Esports",
@@ -3208,7 +3260,8 @@
                 "tournament": "Moeckern Masters Gamers Clash",
                 "prize": "$150"
             }
-        ]
+        ],
+        "url": "Case_Esports"
     },
     {
         "name": "CGN Esports",
@@ -3277,7 +3330,8 @@
                 "tournament": "Kingdom Calling #3",
                 "prize": "$586"
             }
-        ]
+        ],
+        "url": "CGN_Esports"
     },
     {
         "name": "Diamant Esports",
@@ -3346,7 +3400,8 @@
                 "tournament": "VEU: Reactor A - Weekly Cup #1",
                 "prize": "$60"
             }
-        ]
+        ],
+        "url": "Diamant_Esports"
     },
     {
         "name": "ehehxd",
@@ -3415,7 +3470,8 @@
                 "tournament": "CNDE Agents Showdown #2",
                 "prize": "$292"
             }
-        ]
+        ],
+        "url": "Ehehxd"
     },
     {
         "name": "Enterprise Esports",
@@ -3484,7 +3540,8 @@
                 "tournament": "Alza.cz AORUS AMD Valorant série",
                 "prize": "$86"
             }
-        ]
+        ],
+        "url": "Enterprise_Esports"
     },
     {
         "name": "Entropiq",
@@ -3553,7 +3610,8 @@
                 "tournament": "Polish Invitational - 5 vs 5",
                 "prize": "$679"
             }
-        ]
+        ],
+        "url": "Entropiq"
     },
     {
         "name": "eSuba",
@@ -3622,7 +3680,8 @@
                 "tournament": "VERSUS LEGENDS",
                 "prize": "$137"
             }
-        ]
+        ],
+        "url": "ESuba"
     },
     {
         "name": "Excel Esports",
@@ -3673,7 +3732,8 @@
                 "tournament": "VALORANT Open Tour: France - Spring Qualifier",
                 "prize": "$4,263"
             }
-        ]
+        ],
+        "url": "Excel_Esports"
     },
     {
         "name": "Fadee Gaming",
@@ -3742,7 +3802,8 @@
                 "tournament": "Surefire Valorant Cup",
                 "prize": "$28"
             }
-        ]
+        ],
+        "url": "Fadee_Gaming"
     },
     {
         "name": "Fnatic",
@@ -3799,7 +3860,8 @@
                 "tournament": "VCT 2021: Europe Stage 2 Challengers 2",
                 "prize": "$17,957"
             }
-        ]
+        ],
+        "url": "Fnatic"
     },
     {
         "name": "FOKUS",
@@ -3826,7 +3888,8 @@
                 "tournament": "VRL 2022 DACH: Evolution Stage 1 - Open Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "FOKUS"
     },
     {
         "name": "For The Win Esports",
@@ -3895,7 +3958,8 @@
                 "tournament": "CNDE Agents Showdown #4",
                 "prize": "$298"
             }
-        ]
+        ],
+        "url": "For_The_Win_Esports"
     },
     {
         "name": "FunPlus Phoenix",
@@ -3964,7 +4028,8 @@
                 "tournament": "Allied Esports Odyssey",
                 "prize": "$4,737"
             }
-        ]
+        ],
+        "url": "FunPlus_Phoenix"
     },
     {
         "name": "Futbolist Female",
@@ -4003,7 +4068,8 @@
                 "tournament": "VCT 2021: Game Changers EMEA Series 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Futbolist_Female"
     },
     {
         "name": "G2 Esports",
@@ -4066,7 +4132,8 @@
                 "tournament": "Vitality European Open",
                 "prize": "$11,316"
             }
-        ]
+        ],
+        "url": "G2_Esports"
     },
     {
         "name": "G2 Gozen",
@@ -4093,7 +4160,8 @@
                 "tournament": "VCT 2021: Game Changers EMEA Series 2",
                 "prize": "$2,598"
             }
-        ]
+        ],
+        "url": "G2_Gozen"
     },
     {
         "name": "Giants",
@@ -4162,7 +4230,8 @@
                 "tournament": "Guardianes GG Series #2",
                 "prize": "$1,165"
             }
-        ]
+        ],
+        "url": "Giants"
     },
     {
         "name": "GiefKalash",
@@ -4231,7 +4300,8 @@
                 "tournament": "Gamer.no Valorant Open",
                 "prize": "$211"
             }
-        ]
+        ],
+        "url": "GiefKalash"
     },
     {
         "name": "GODSENT IRIS",
@@ -4246,7 +4316,8 @@
                 "tournament": "Birds of Prey - Episode 3",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "GODSENT_IRIS"
     },
     {
         "name": "Guild Esports",
@@ -4315,7 +4386,8 @@
                 "tournament": "Fragleague Season 5 Cup #1 - Nordic",
                 "prize": "$817"
             }
-        ]
+        ],
+        "url": "Guild_Esports"
     },
     {
         "name": "Guild X",
@@ -4360,7 +4432,8 @@
                 "tournament": "VCT 2021: Game Changers EMEA Series 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Guild_X"
     },
     {
         "name": "HEET",
@@ -4429,7 +4502,8 @@
                 "tournament": "Stay &amp; Play Gamer Cup #3",
                 "prize": "$326"
             }
-        ]
+        ],
+        "url": "HEET"
     },
     {
         "name": "iPon Esport",
@@ -4498,7 +4572,8 @@
                 "tournament": "TippmixPro Hungarian Esport Festival",
                 "prize": "$1,346"
             }
-        ]
+        ],
+        "url": "IPon_Esport"
     },
     {
         "name": "KOI",
@@ -4519,7 +4594,8 @@
                 "tournament": "VCT 2022: Europe Stage 1 Challengers -  Open Qualifier 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "KOI"
     },
     {
         "name": "KOVA",
@@ -4576,7 +4652,8 @@
                 "tournament": "ICEBOX Northern Classic - Qualifier 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "KOVA"
     },
     {
         "name": "LDN UTD",
@@ -4645,7 +4722,8 @@
                 "tournament": "The Goose House - UK One Day Open #1",
                 "prize": "$690"
             }
-        ]
+        ],
+        "url": "LDN_UTD"
     },
     {
         "name": "MOUZ",
@@ -4660,7 +4738,8 @@
                 "tournament": "VRL 2022 DACH: Evolution Stage 1",
                 "prize": "$4,266"
             }
-        ]
+        ],
+        "url": "MOUZ"
     },
     {
         "name": "Movistar Riders",
@@ -4729,7 +4808,8 @@
                 "tournament": "Legion Defiance Cup",
                 "prize": "$5,930"
             }
-        ]
+        ],
+        "url": "Movistar_Riders"
     },
     {
         "name": "OG",
@@ -4768,7 +4848,8 @@
                 "tournament": "VCT 2021: Europe Stage 1 Challengers 2",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "OG"
     },
     {
         "name": "Ovation eSports",
@@ -4837,7 +4918,8 @@
                 "tournament": "Agent's Range - Agent's Rising #12",
                 "prize": "$181"
             }
-        ]
+        ],
+        "url": "Ovation_eSports"
     },
     {
         "name": "ownage",
@@ -4906,7 +4988,8 @@
                 "tournament": "Beloud Cup #6",
                 "prize": "$1,637"
             }
-        ]
+        ],
+        "url": "Ownage"
     },
     {
         "name": "PENTA",
@@ -4975,7 +5058,8 @@
                 "tournament": "VALORANT Legend Series 1 Final",
                 "prize": "$216"
             }
-        ]
+        ],
+        "url": "PENTA"
     },
     {
         "name": "Real Betis",
@@ -5044,7 +5128,8 @@
                 "tournament": "LVP - Genesis Cup Fuego",
                 "prize": "$585"
             }
-        ]
+        ],
+        "url": "Real_Betis"
     },
     {
         "name": "Rebels Gaming",
@@ -5089,7 +5174,8 @@
                 "tournament": "VALORANT Circuito de Elite - Final",
                 "prize": "$2,823"
             }
-        ]
+        ],
+        "url": "Rebels_Gaming"
     },
     {
         "name": "Rix.GG Lightning",
@@ -5158,7 +5244,8 @@
                 "tournament": "Girls' House - EU Open #3",
                 "prize": "$600"
             }
-        ]
+        ],
+        "url": "Rix.GG_Lightning"
     },
     {
         "name": "Rix.GG Thunder",
@@ -5227,7 +5314,8 @@
                 "tournament": "LVL Clash 2",
                 "prize": "$298"
             }
-        ]
+        ],
+        "url": "Rix.GG_Thunder"
     },
     {
         "name": "SKADE",
@@ -5296,7 +5384,8 @@
                 "tournament": "LVL Clash 2",
                 "prize": "$298"
             }
-        ]
+        ],
+        "url": "SKADE"
     },
     {
         "name": "Team BDS",
@@ -5365,7 +5454,8 @@
                 "tournament": "VCT 2021: Europe Stage 2 Challengers 2",
                 "prize": "$5,986"
             }
-        ]
+        ],
+        "url": "Team_BDS"
     },
     {
         "name": "Team Finest",
@@ -5434,7 +5524,8 @@
                 "tournament": "LVP - Genesis Cup Sombras",
                 "prize": "$1,787"
             }
-        ]
+        ],
+        "url": "Team_Finest"
     },
     {
         "name": "Team Heretics",
@@ -5503,7 +5594,8 @@
                 "tournament": "LVP - Genesis Cup Fuego",
                 "prize": "$1,756"
             }
-        ]
+        ],
+        "url": "Team_Heretics"
     },
     {
         "name": "Team Liquid",
@@ -5560,7 +5652,8 @@
                 "tournament": "BLAST Twitch Invitational",
                 "prize": "$8,885"
             }
-        ]
+        ],
+        "url": "Team_Liquid"
     },
     {
         "name": "Team Queso",
@@ -5629,7 +5722,8 @@
                 "tournament": "Valorant Hero Challenge",
                 "prize": "$606"
             }
-        ]
+        ],
+        "url": "Team_Queso"
     },
     {
         "name": "Team Vitality",
@@ -5698,7 +5792,8 @@
                 "tournament": "epic.WAN 32",
                 "prize": "$627"
             }
-        ]
+        ],
+        "url": "Team_Vitality"
     },
     {
         "name": "TENSTAR",
@@ -5767,7 +5862,8 @@
                 "tournament": "ESL VALORANT UK&amp;I Skirmish",
                 "prize": "$4,860"
             }
-        ]
+        ],
+        "url": "TENSTAR"
     },
     {
         "name": "TENSTAR Nova",
@@ -5836,7 +5932,8 @@
                 "tournament": "Birds of Prey - Episode 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "TENSTAR_Nova"
     },
     {
         "name": "UCAM Esports Club",
@@ -5905,7 +6002,8 @@
                 "tournament": "VALORANT Master Series Invitational #1",
                 "prize": "$932"
             }
-        ]
+        ],
+        "url": "UCAM_Esports_Club"
     },
     {
         "name": "Unicorns of Love",
@@ -5974,7 +6072,8 @@
                 "tournament": "RCADIA VALORANT United - Qualifier",
                 "prize": "$169"
             }
-        ]
+        ],
+        "url": "Unicorns_of_Love"
     },
     {
         "name": "WATAHA",
@@ -6043,7 +6142,8 @@
                 "tournament": "Beloud Cup #11",
                 "prize": "$243"
             }
-        ]
+        ],
+        "url": "WATAHA"
     },
     {
         "name": "Wave Esports",
@@ -6112,7 +6212,8 @@
                 "tournament": "Radiants Rock #1",
                 "prize": "$561"
             }
-        ]
+        ],
+        "url": "Wave_Esports"
     },
     {
         "name": "Wygers",
@@ -6181,7 +6282,8 @@
                 "tournament": "4EVER FUN CUP",
                 "prize": "$1,166"
             }
-        ]
+        ],
+        "url": "Wygers"
     },
     {
         "name": "Divinity",
@@ -6232,7 +6334,8 @@
                 "tournament": "VCT 2021: CIS Stage 1 Challengers 2 - Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Divinity"
     },
     {
         "name": "Gambit Esports",
@@ -6295,7 +6398,8 @@
                 "tournament": "First Strike CIS",
                 "prize": "$6,759"
             }
-        ]
+        ],
+        "url": "Gambit_Esports"
     },
     {
         "name": "KPI Gaming",
@@ -6364,7 +6468,8 @@
                 "tournament": "DreamHack Beyond Spain",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "KPI_Gaming"
     },
     {
         "name": "Natus Vincere",
@@ -6433,7 +6538,8 @@
                 "tournament": "VCT 2021: EMEA Stage 3 Challengers Playoffs",
                 "prize": "$1,764"
             }
-        ]
+        ],
+        "url": "Natus_Vincere"
     },
     {
         "name": "One Breath Gaming",
@@ -6502,7 +6608,8 @@
                 "tournament": "First Strike CIS",
                 "prize": "$1,352"
             }
-        ]
+        ],
+        "url": "One_Breath_Gaming"
     },
     {
         "name": "tyeasy",
@@ -6571,7 +6678,8 @@
                 "tournament": "VALORANT Academy - Europe: Season 1 - Closed Series Week 1",
                 "prize": "$337"
             }
-        ]
+        ],
+        "url": "Tyeasy"
     },
     {
         "name": "BBL Esports",
@@ -6640,7 +6748,8 @@
                 "tournament": "Mandatory.gg Cup",
                 "prize": "$1,179"
             }
-        ]
+        ],
+        "url": "BBL_Esports"
     },
     {
         "name": "BBL Queens",
@@ -6679,7 +6788,8 @@
                 "tournament": "VCT 2021: Game Changers EMEA Series 1",
                 "prize": "$1,011"
             }
-        ]
+        ],
+        "url": "BBL_Queens"
     },
     {
         "name": "Beşiktaş Esports",
@@ -6748,7 +6858,8 @@
                 "tournament": "First Strike Turkey",
                 "prize": "$1,025"
             }
-        ]
+        ],
+        "url": "Be%C5%9Fikta%C5%9F_Esports"
     },
     {
         "name": "Dark Passage",
@@ -6781,7 +6892,8 @@
                 "tournament": "Nicecactus Fall Trophy #2",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Dark_Passage"
     },
     {
         "name": "Digital Athletics",
@@ -6850,7 +6962,8 @@
                 "tournament": "MiGROS ESPOR Cup #3",
                 "prize": "$264"
             }
-        ]
+        ],
+        "url": "Digital_Athletics"
     },
     {
         "name": "Fenerbahçe Esports",
@@ -6919,7 +7032,8 @@
                 "tournament": "Moeckern Masters Gamers Clash",
                 "prize": "$400"
             }
-        ]
+        ],
+        "url": "Fenerbah%C3%A7e_Esports"
     },
     {
         "name": "Fire Flux Esports",
@@ -6988,7 +7102,8 @@
                 "tournament": "VALORANT Circuito de Elite - Round #1",
                 "prize": "$593"
             }
-        ]
+        ],
+        "url": "Fire_Flux_Esports"
     },
     {
         "name": "Fire Flux Female",
@@ -7021,7 +7136,8 @@
                 "tournament": "VCT 2021: Game Changers EMEA Series 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Fire_Flux_Female"
     },
     {
         "name": "Futbolist",
@@ -7090,7 +7206,8 @@
                 "tournament": "First Strike Turkey",
                 "prize": "$13,837"
             }
-        ]
+        ],
+        "url": "Futbolist"
     },
     {
         "name": "Kafalar Esports",
@@ -7159,7 +7276,8 @@
                 "tournament": "VCT 2021: Turkey Stage 2 Challengers 1",
                 "prize": "$2,975"
             }
-        ]
+        ],
+        "url": "Kafalar_Esports"
     },
     {
         "name": "OtherSide Esports",
@@ -7228,7 +7346,8 @@
                 "tournament": "JD Valorant Cup",
                 "prize": "$613"
             }
-        ]
+        ],
+        "url": "OtherSide_Esports"
     },
     {
         "name": "Sangal Rebels",
@@ -7243,7 +7362,8 @@
                 "tournament": "Huntress Trials - February 2022",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Sangal_Rebels"
     },
     {
         "name": "SuperMassive Blaze",
@@ -7306,7 +7426,8 @@
                 "tournament": "VCT 2021: Turkey Stage 3 Challengers 1 - Closed Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "SuperMassive_Blaze"
     },
     {
         "name": "SuperMassive Blaze Female",
@@ -7363,7 +7484,8 @@
                 "tournament": "Huntress Trials - August 2021",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "SuperMassive_Blaze_Female"
     },
     {
         "name": "Surreal Esports",
@@ -7432,7 +7554,8 @@
                 "tournament": "RUSH to Honor #6",
                 "prize": "$289"
             }
-        ]
+        ],
+        "url": "Surreal_Esports"
     },
     {
         "name": "Team Lixa",
@@ -7501,7 +7624,8 @@
                 "tournament": "Moeckern Masters League #15",
                 "prize": "$114"
             }
-        ]
+        ],
+        "url": "Team_Lixa"
     },
     {
         "name": "Thunderbolts Gaming",
@@ -7570,7 +7694,8 @@
                 "tournament": "Open Fire 2",
                 "prize": "$913"
             }
-        ]
+        ],
+        "url": "Thunderbolts_Gaming"
     },
     {
         "name": "Zero Zone",
@@ -7639,7 +7764,8 @@
                 "tournament": "Reflex Masters #2",
                 "prize": "$342"
             }
-        ]
+        ],
+        "url": "Zero_Zone"
     },
     {
         "name": "İstanbul Wildcats",
@@ -7708,7 +7834,8 @@
                 "tournament": "MiGROS ESPOR Cup #2",
                 "prize": "$268"
             }
-        ]
+        ],
+        "url": "%C4%B0stanbul_Wildcats"
     },
     {
         "name": "DAMWON Gaming",
@@ -7777,7 +7904,8 @@
                 "tournament": "VCT 2021: Korea Stage 1 Challengers 1",
                 "prize": "$3,578"
             }
-        ]
+        ],
+        "url": "DAMWON_Gaming"
     },
     {
         "name": "DRX",
@@ -7798,7 +7926,8 @@
                 "tournament": "VCT 2022: Korea Stage 1 Challengers - Closed Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "DRX"
     },
     {
         "name": "F4Q",
@@ -7861,7 +7990,8 @@
                 "tournament": "First Strike Korea",
                 "prize": "$5,000"
             }
-        ]
+        ],
+        "url": "F4Q"
     },
     {
         "name": "On Sla2ers",
@@ -7888,7 +8018,8 @@
                 "tournament": "VCT 2022: Korea Stage 1 Challengers - Open Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "On_Sla2ers"
     },
     {
         "name": "Prince",
@@ -7957,7 +8088,8 @@
                 "tournament": "Clan Battle Act 2 #1",
                 "prize": "$216"
             }
-        ]
+        ],
+        "url": "Prince"
     },
     {
         "name": "World Game Star",
@@ -8026,7 +8158,8 @@
                 "tournament": "VCT 2021: Korea Stage 1 Challengers 1",
                 "prize": "$2,684"
             }
-        ]
+        ],
+        "url": "World_Game_Star"
     },
     {
         "name": "BLUE BEES",
@@ -8095,7 +8228,8 @@
                 "tournament": "VCT 2021: Japan Stage 1 Challengers 1 - Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "BLUE_BEES"
     },
     {
         "name": "Crazy Raccoon",
@@ -8146,7 +8280,8 @@
                 "tournament": "First Strike Japan",
                 "prize": "$960"
             }
-        ]
+        ],
+        "url": "Crazy_Raccoon"
     },
     {
         "name": "DetonatioN Gaming White",
@@ -8167,7 +8302,8 @@
                 "tournament": "VCT 2022: Japan Stage 1 Challengers Week 1 - Open Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "DetonatioN_Gaming_White"
     },
     {
         "name": "DeToNator",
@@ -8218,7 +8354,8 @@
                 "tournament": "A.W EXTREME MASTERS Pro Invitational",
                 "prize": "$955"
             }
-        ]
+        ],
+        "url": "DeToNator"
     },
     {
         "name": "FAV gaming",
@@ -8287,7 +8424,8 @@
                 "tournament": "Mildom Masters",
                 "prize": "$2,847"
             }
-        ]
+        ],
+        "url": "FAV_gaming"
     },
     {
         "name": "FENNEL",
@@ -8356,7 +8494,8 @@
                 "tournament": "VCT 2021: Japan  Stage 1 Masters",
                 "prize": "$918"
             }
-        ]
+        ],
+        "url": "FENNEL"
     },
     {
         "name": "Northeption",
@@ -8425,7 +8564,8 @@
                 "tournament": "VCT 2021: Japan Stage 2 Challengers 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Northeption"
     },
     {
         "name": "REJECT",
@@ -8494,7 +8634,8 @@
                 "tournament": "A.W EXTREME MASTERS Pro Invitational",
                 "prize": "$2,388"
             }
-        ]
+        ],
+        "url": "REJECT"
     },
     {
         "name": "SCARZ",
@@ -8563,7 +8704,8 @@
                 "tournament": "Fiveness Japan Cup VALORANT 2020",
                 "prize": "$467"
             }
-        ]
+        ],
+        "url": "SCARZ"
     },
     {
         "name": "ZETA DIVISION",
@@ -8632,7 +8774,8 @@
                 "tournament": "RAGE Invitational",
                 "prize": "$4,680"
             }
-        ]
+        ],
+        "url": "ZETA_DIVISION"
     },
     {
         "name": "Action PH",
@@ -8701,7 +8844,8 @@
                 "tournament": "ZOTAC CUP Valorant Community Tournament #8",
                 "prize": "$100"
             }
-        ]
+        ],
+        "url": "Action_PH"
     },
     {
         "name": "Alter Ego",
@@ -8770,7 +8914,8 @@
                 "tournament": "ESL Community Clash",
                 "prize": "$4,000"
             }
-        ]
+        ],
+        "url": "Alter_Ego"
     },
     {
         "name": "Alter Ego Celestè",
@@ -8839,7 +8984,8 @@
                 "tournament": "Legion of Valkyries: March 2021",
                 "prize": "$600"
             }
-        ]
+        ],
+        "url": "Alter_Ego_Celest%C3%A8"
     },
     {
         "name": "Aricat Esport",
@@ -8908,7 +9054,8 @@
                 "tournament": "Buriram Proving Grounds - Season 1: September",
                 "prize": "$633"
             }
-        ]
+        ],
+        "url": "Aricat_Esport"
     },
     {
         "name": "Attack All Around",
@@ -8977,7 +9124,8 @@
                 "tournament": "Hashtag Indy Tournament Season 1",
                 "prize": "$1,588"
             }
-        ]
+        ],
+        "url": "Attack_All_Around"
     },
     {
         "name": "Bleed eSports",
@@ -9046,7 +9194,8 @@
                 "tournament": "KJC eSports VALORANT Invitational",
                 "prize": "$1,500"
             }
-        ]
+        ],
+        "url": "Bleed_eSports"
     },
     {
         "name": "BOOM Esports",
@@ -9115,7 +9264,8 @@
                 "tournament": "ESL Community Clash",
                 "prize": "$2,400"
             }
-        ]
+        ],
+        "url": "BOOM_Esports"
     },
     {
         "name": "Bren Esports",
@@ -9184,7 +9334,8 @@
                 "tournament": "KDR Tournament",
                 "prize": "$1,238"
             }
-        ]
+        ],
+        "url": "Bren_Esports"
     },
     {
         "name": "CERBERUS Esports",
@@ -9253,7 +9404,8 @@
                 "tournament": "VCT 2021: Vietnam Stage 2 Challengers",
                 "prize": "$8,695"
             }
-        ]
+        ],
+        "url": "CERBERUS_Esports"
     },
     {
         "name": "Fancy United Esports",
@@ -9322,7 +9474,8 @@
                 "tournament": "VCT 2021: Vietnam Stage 2 Challengers",
                 "prize": "$435"
             }
-        ]
+        ],
+        "url": "Fancy_United_Esports"
     },
     {
         "name": "FULL SENSE",
@@ -9385,7 +9538,8 @@
                 "tournament": "VCT 2021: Thailand Stage 2 Challengers 2",
                 "prize": "$859"
             }
-        ]
+        ],
+        "url": "FULL_SENSE"
     },
     {
         "name": "FW ESPORTS",
@@ -9454,7 +9608,8 @@
                 "tournament": "Thailand Valorant Tournament",
                 "prize": "$627"
             }
-        ]
+        ],
+        "url": "FW_ESPORTS"
     },
     {
         "name": "Made in Thailand",
@@ -9523,7 +9678,8 @@
                 "tournament": "Len Tee Baan 3",
                 "prize": "$320"
             }
-        ]
+        ],
+        "url": "Made_in_Thailand"
     },
     {
         "name": "Nigma Galaxy",
@@ -9592,7 +9748,8 @@
                 "tournament": "VCT 2021: Philippines Stage 2 Challengers 1",
                 "prize": "$103"
             }
-        ]
+        ],
+        "url": "Nigma_Galaxy"
     },
     {
         "name": "Nigma Galaxy Female",
@@ -9661,7 +9818,8 @@
                 "tournament": "FSL Valorant Open 2021 #2",
                 "prize": "$113"
             }
-        ]
+        ],
+        "url": "Nigma_Galaxy_Female"
     },
     {
         "name": "Oasis Gaming",
@@ -9730,7 +9888,8 @@
                 "tournament": "VCT 2021: Philippines Stage 1 Challengers 2",
                 "prize": "$413"
             }
-        ]
+        ],
+        "url": "Oasis_Gaming"
     },
     {
         "name": "Paper Rex",
@@ -9799,7 +9958,8 @@
                 "tournament": "TheGym Singapore Invitational",
                 "prize": "$2,198"
             }
-        ]
+        ],
+        "url": "Paper_Rex"
     },
     {
         "name": "Rex Regum Qeon",
@@ -9868,7 +10028,8 @@
                 "tournament": "First Strike Indonesia",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Rex_Regum_Qeon"
     },
     {
         "name": "Sharper Esport",
@@ -9937,7 +10098,8 @@
                 "tournament": "AIS eSports Thailand Open Championship",
                 "prize": "$802"
             }
-        ]
+        ],
+        "url": "Sharper_Esport"
     },
     {
         "name": "South Built Esports",
@@ -10006,7 +10168,8 @@
                 "tournament": "AMD Adrenaline Valorant Tournament Season",
                 "prize": "$308"
             }
-        ]
+        ],
+        "url": "South_Built_Esports"
     },
     {
         "name": "Team Big BAAM",
@@ -10075,7 +10238,8 @@
                 "tournament": "Eternal Valorant Tournament",
                 "prize": "$368"
             }
-        ]
+        ],
+        "url": "Team_Big_BAAM"
     },
     {
         "name": "Team Secret",
@@ -10102,7 +10266,8 @@
                 "tournament": "KJC eSports VALORANT Invitational",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Team_Secret"
     },
     {
         "name": "Team SMG",
@@ -10171,7 +10336,8 @@
                 "tournament": "Bad Blood Season 1",
                 "prize": "$366"
             }
-        ]
+        ],
+        "url": "Team_SMG"
     },
     {
         "name": "Todak",
@@ -10240,7 +10406,8 @@
                 "tournament": "AOC Masters Tournament - Malaysia",
                 "prize": "$969"
             }
-        ]
+        ],
+        "url": "Todak"
     },
     {
         "name": "X10 CRIT",
@@ -10303,7 +10470,8 @@
                 "tournament": "Victory Challenge 1VS1",
                 "prize": "$828"
             }
-        ]
+        ],
+        "url": "X10_CRIT"
     },
     {
         "name": "XERXIA",
@@ -10336,7 +10504,8 @@
                 "tournament": "FPSThailand VALORANT Tournament",
                 "prize": "$1,202"
             }
-        ]
+        ],
+        "url": "XERXIA"
     },
     {
         "name": "Zeal Esports",
@@ -10405,7 +10574,8 @@
                 "tournament": "KJC eSports VALORANT Tournament: One",
                 "prize": "$644"
             }
-        ]
+        ],
+        "url": "Zeal_Esports"
     },
     {
         "name": "Enigma Gaming",
@@ -10474,7 +10644,8 @@
                 "tournament": "The Ultimate Boss Fight",
                 "prize": "$2,012"
             }
-        ]
+        ],
+        "url": "Enigma_Gaming"
     },
     {
         "name": "Exceeli Esports",
@@ -10543,7 +10714,8 @@
                 "tournament": "VLT Valorant Cup Season 1",
                 "prize": "$109"
             }
-        ]
+        ],
+        "url": "Exceeli_Esports"
     },
     {
         "name": "Global Esports",
@@ -10612,7 +10784,8 @@
                 "tournament": "The Esports Club Invitational",
                 "prize": "$2,055"
             }
-        ]
+        ],
+        "url": "Global_Esports"
     },
     {
         "name": "Reckoning Esports",
@@ -10681,7 +10854,8 @@
                 "tournament": "Agni Series Tournament",
                 "prize": "$1,008"
             }
-        ]
+        ],
+        "url": "Reckoning_Esports"
     },
     {
         "name": "True Rippers Esports",
@@ -10750,7 +10924,8 @@
                 "tournament": "RaptorX Valorant Tournament - 10",
                 "prize": "$138"
             }
-        ]
+        ],
+        "url": "True_Rippers_Esports"
     },
     {
         "name": "Velocity Gaming",
@@ -10819,7 +10994,8 @@
                 "tournament": "Valorant Power Up India",
                 "prize": "$2,714"
             }
-        ]
+        ],
+        "url": "Velocity_Gaming"
     },
     {
         "name": "B4 Angels",
@@ -10888,7 +11064,8 @@
                 "tournament": "Protocolo: Gêneses",
                 "prize": "$4,715"
             }
-        ]
+        ],
+        "url": "B4_Angels"
     },
     {
         "name": "B4 Esports",
@@ -10957,7 +11134,8 @@
                 "tournament": "Rivals Contenders",
                 "prize": "$376"
             }
-        ]
+        ],
+        "url": "B4_Esports"
     },
     {
         "name": "DETONA Gaming",
@@ -11026,7 +11204,8 @@
                 "tournament": "KombatKlub League - Season 1",
                 "prize": "$107"
             }
-        ]
+        ],
+        "url": "DETONA_Gaming"
     },
     {
         "name": "FURIA Esports",
@@ -11095,7 +11274,8 @@
                 "tournament": "VCT 2021: Brazil Stage 1 Challengers 1",
                 "prize": "$2,793"
             }
-        ]
+        ],
+        "url": "FURIA_Esports"
     },
     {
         "name": "Gamelanders Blue",
@@ -11164,7 +11344,8 @@
                 "tournament": "EVOlution Open - Brazil",
                 "prize": "$3,565"
             }
-        ]
+        ],
+        "url": "Gamelanders_Blue"
     },
     {
         "name": "Gamelanders Purple",
@@ -11233,7 +11414,8 @@
                 "tournament": "Gaming Culture - Girl Power #2",
                 "prize": "$1,790"
             }
-        ]
+        ],
+        "url": "Gamelanders_Purple"
     },
     {
         "name": "INGAMING Esports",
@@ -11302,7 +11484,8 @@
                 "tournament": "Valorão Cup #1",
                 "prize": "$189"
             }
-        ]
+        ],
+        "url": "INGAMING_Esports"
     },
     {
         "name": "Keyd Stars",
@@ -11359,7 +11542,8 @@
                 "tournament": "Narizoka Cup",
                 "prize": "$153"
             }
-        ]
+        ],
+        "url": "Keyd_Stars"
     },
     {
         "name": "Keyd Stars Athenas",
@@ -11428,7 +11612,8 @@
                 "tournament": "Protocolo: Gêneses - Qualifier 2",
                 "prize": "$368"
             }
-        ]
+        ],
+        "url": "Keyd_Stars_Athenas"
     },
     {
         "name": "Liberty",
@@ -11491,7 +11676,8 @@
                 "tournament": "AORUS League - Brazil #2",
                 "prize": "$1,582"
             }
-        ]
+        ],
+        "url": "Liberty"
     },
     {
         "name": "Los Grandes",
@@ -11542,7 +11728,8 @@
                 "tournament": "VCT 2022: Brazil Stage 1 Challengers Closed Qualifier 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Los_Grandes"
     },
     {
         "name": "LOUD",
@@ -11557,7 +11744,8 @@
                 "tournament": "VCT 2022: Brazil Stage 1 Challengers",
                 "prize": "$21,094"
             }
-        ]
+        ],
+        "url": "LOUD"
     },
     {
         "name": "MIBR",
@@ -11602,7 +11790,8 @@
                 "tournament": "VCT 2022: Brazil Stage 1 Challengers Closed Qualifier 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "MIBR"
     },
     {
         "name": "Ninjas in Pyjamas",
@@ -11671,7 +11860,8 @@
                 "tournament": "WePlay! Invitational",
                 "prize": "$5,000"
             }
-        ]
+        ],
+        "url": "Ninjas_in_Pyjamas"
     },
     {
         "name": "RED Canids",
@@ -11716,7 +11906,8 @@
                 "tournament": "First Strike - Brazil: Open Qualifier #1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "RED_Canids"
     },
     {
         "name": "Sharks Esports",
@@ -11779,7 +11970,8 @@
                 "tournament": "VCT 2021: Brazil  Stage 1 Masters",
                 "prize": "$1,822"
             }
-        ]
+        ],
+        "url": "Sharks_Esports"
     },
     {
         "name": "Stars Horizon",
@@ -11848,7 +12040,8 @@
                 "tournament": "VCT 2021: Brazil Stage 3 Challengers 2",
                 "prize": "$2,954"
             }
-        ]
+        ],
+        "url": "Stars_Horizon"
     },
     {
         "name": "Stars Horizon Vênus",
@@ -11917,7 +12110,8 @@
                 "tournament": "Rivals Women's Cup #3",
                 "prize": "$186"
             }
-        ]
+        ],
+        "url": "Stars_Horizon_V%C3%AAnus"
     },
     {
         "name": "TBK Esports",
@@ -11944,7 +12138,8 @@
                 "tournament": "VCT 2022: Brazil Stage 1 Challengers Closed Qualifier 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "TBK_Esports"
     },
     {
         "name": "Team Liquid Brazil",
@@ -11965,7 +12160,8 @@
                 "tournament": "VCT 2022: Game Changers Brazil Series 1 - Qualifier 1",
                 "prize": "$1,591"
             }
-        ]
+        ],
+        "url": "Team_Liquid_Brazil"
     },
     {
         "name": "Team Vikings",
@@ -12028,7 +12224,8 @@
                 "tournament": "Ultimasters AOC",
                 "prize": "$1,512"
             }
-        ]
+        ],
+        "url": "Team_Vikings"
     },
     {
         "name": "Akave Esports",
@@ -12097,7 +12294,8 @@
                 "tournament": "VCT 2021: LAN Stage 1 Challengers 3",
                 "prize": "$2,500"
             }
-        ]
+        ],
+        "url": "Akave_Esports"
     },
     {
         "name": "Border Monsters",
@@ -12166,7 +12364,8 @@
                 "tournament": "VCT 2021: LAN Stage 1 Challengers 2",
                 "prize": "$500"
             }
-        ]
+        ],
+        "url": "Border_Monsters"
     },
     {
         "name": "E-Xolos LAZER",
@@ -12235,7 +12434,8 @@
                 "tournament": "Valorant Versus",
                 "prize": "$10,000"
             }
-        ]
+        ],
+        "url": "E-Xolos_LAZER"
     },
     {
         "name": "FUSION",
@@ -12268,7 +12468,8 @@
                 "tournament": "VCT 2022: LAN Stage 1 Challengers -  Open Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "FUSION"
     },
     {
         "name": "Infinity",
@@ -12337,7 +12538,8 @@
                 "tournament": "GGTech VALORANT Invitational 2 - LAN",
                 "prize": "$1,500"
             }
-        ]
+        ],
+        "url": "Infinity"
     },
     {
         "name": "Six Karma",
@@ -12406,7 +12608,8 @@
                 "tournament": "VCT 2021: LAN Stage 2 Challengers 2 - Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Six_Karma"
     },
     {
         "name": "Skull Cracker",
@@ -12475,7 +12678,8 @@
                 "tournament": "MSI Championship",
                 "prize": "$200"
             }
-        ]
+        ],
+        "url": "Skull_Cracker"
     },
     {
         "name": "Skull Cracker Fem",
@@ -12538,7 +12742,8 @@
                 "tournament": "Women's Ultimate League #2",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Skull_Cracker_Fem"
     },
     {
         "name": "9z Team",
@@ -12607,7 +12812,8 @@
                 "tournament": "Nimo Invitational",
                 "prize": "$1,400"
             }
-        ]
+        ],
+        "url": "9z_Team"
     },
     {
         "name": "KRÜ Esports",
@@ -12658,7 +12864,8 @@
                 "tournament": "VCT 2021: LATAM South Stage 1 Masters",
                 "prize": "$3,750"
             }
-        ]
+        ],
+        "url": "KR%C3%9C_Esports"
     },
     {
         "name": "KRÜ Fem",
@@ -12685,7 +12892,8 @@
                 "tournament": "VCT 2022: Game Changers Latin America South Open 1",
                 "prize": "$2,000"
             }
-        ]
+        ],
+        "url": "KR%C3%9C_Fem"
     },
     {
         "name": "Leviatán",
@@ -12754,7 +12962,8 @@
                 "tournament": "VCT 2021: LAS Stage 2 Challengers 1 - Qualifier",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Leviat%C3%A1n"
     },
     {
         "name": "Optix",
@@ -12823,7 +13032,8 @@
                 "tournament": "VCT 2021: LAS Stage 1 Challengers 3",
                 "prize": "$500"
             }
-        ]
+        ],
+        "url": "Optix"
     },
     {
         "name": "Rebirth Esports",
@@ -12892,7 +13102,8 @@
                 "tournament": "Nimo Invitational",
                 "prize": "$200"
             }
-        ]
+        ],
+        "url": "Rebirth_Esports"
     },
     {
         "name": "3BL Esports",
@@ -12961,7 +13172,8 @@
                 "tournament": "Razer Invitational Middle East - Egypt",
                 "prize": "$500"
             }
-        ]
+        ],
+        "url": "3BL_Esports"
     },
     {
         "name": "Geekay Esports",
@@ -13000,7 +13212,8 @@
                 "tournament": "Emirates Esports Festival 2021",
                 "prize": "$1,089"
             }
-        ]
+        ],
+        "url": "Geekay_Esports"
     },
     {
         "name": "NASR Esports",
@@ -13069,7 +13282,8 @@
                 "tournament": "First Strike Levant and Egypt",
                 "prize": "$7,000"
             }
-        ]
+        ],
+        "url": "NASR_Esports"
     },
     {
         "name": "Piercer Esports",
@@ -13138,7 +13352,8 @@
                 "tournament": "Empire Play VALORANT GCC Open Cup",
                 "prize": "$1,000"
             }
-        ]
+        ],
+        "url": "Piercer_Esports"
     },
     {
         "name": "QLASH Egypt",
@@ -13177,7 +13392,8 @@
                 "tournament": "Odyssey Warpros",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "QLASH_Egypt"
     },
     {
         "name": "Team Falcons",
@@ -13210,7 +13426,8 @@
                 "tournament": "Insomnia Gaming Festival",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "Team_Falcons"
     },
     {
         "name": "Team RA'AD",
@@ -13279,7 +13496,8 @@
                 "tournament": "Egypt Valorant Community Tournament",
                 "prize": "$958"
             }
-        ]
+        ],
+        "url": "Team_RA%27AD"
     },
     {
         "name": "XPLDZ",
@@ -13300,7 +13518,8 @@
                 "tournament": "Insomnia Gaming Festival",
                 "prize": "$4,130"
             }
-        ]
+        ],
+        "url": "XPLDZ"
     },
     {
         "name": "YaLLa Esports",
@@ -13369,7 +13588,8 @@
                 "tournament": "AFK Valorant Opening Series",
                 "prize": "$800"
             }
-        ]
+        ],
+        "url": "YaLLa_Esports"
     },
     {
         "name": "EDward Gaming",
@@ -13377,7 +13597,8 @@
         "logo": "https://liquipedia.net/commons/images/thumb/9/98/EDward_Gaming_2017_lightmode.png/600px-EDward_Gaming_2017_lightmode.png",
         "region": "China",
         "Total Winnings": "$7,260",
-        "Achievements": []
+        "Achievements": [],
+        "url": "EDward_Gaming"
     },
     {
         "name": "KONE",
@@ -13385,7 +13606,8 @@
         "logo": "https://liquipedia.net/commons/images/e/ef/KONE_2022_allmode.png",
         "region": "China",
         "Total Winnings": "$6,034",
-        "Achievements": []
+        "Achievements": [],
+        "url": "KONE"
     },
     {
         "name": "Royal Never Give Up",
@@ -13393,7 +13615,8 @@
         "logo": "https://liquipedia.net/commons/images/thumb/7/79/Royal_Never_Give_Up_allmode.png/600px-Royal_Never_Give_Up_allmode.png",
         "region": "China",
         "Total Winnings": "$14,959",
-        "Achievements": []
+        "Achievements": [],
+        "url": "Royal_Never_Give_Up"
     },
     {
         "name": "Tales of Eastern",
@@ -13401,7 +13624,8 @@
         "logo": "https://liquipedia.net/commons/images/thumb/c/c3/Tales_of_Eastern.png/600px-Tales_of_Eastern.png",
         "region": "China",
         "Total Winnings": "$13,519",
-        "Achievements": []
+        "Achievements": [],
+        "url": "Tales_of_Eastern"
     },
     {
         "name": "Team Weibo",
@@ -13470,7 +13694,8 @@
                 "tournament": "Vanguard Cup #20",
                 "prize": "$304"
             }
-        ]
+        ],
+        "url": "Team_Weibo"
     },
     {
         "name": "Totoro Gaming",
@@ -13478,7 +13703,8 @@
         "logo": "https://liquipedia.net/commons/images/thumb/f/f9/Totoro_gaming_November2020_logo.png/600px-Totoro_gaming_November2020_logo.png",
         "region": "China",
         "Total Winnings": "$16,837",
-        "Achievements": []
+        "Achievements": [],
+        "url": "Totoro_Gaming"
     },
     {
         "name": "Dire Wolves",
@@ -13547,7 +13773,8 @@
                 "tournament": "Rise of Valour - Last Chance Qualifier",
                 "prize": "$146"
             }
-        ]
+        ],
+        "url": "Dire_Wolves"
     },
     {
         "name": "FURY",
@@ -13568,7 +13795,8 @@
                 "tournament": "Rise of Valour - Last Chance Qualifier",
                 "prize": "$146"
             }
-        ]
+        ],
+        "url": "FURY"
     },
     {
         "name": "Mindfreak",
@@ -13637,7 +13865,8 @@
                 "tournament": "Rise of Valour",
                 "prize": "$705"
             }
-        ]
+        ],
+        "url": "Mindfreak"
     },
     {
         "name": "ORDER",
@@ -13706,7 +13935,8 @@
                 "tournament": "The MEX Invitational",
                 "prize": "$4,366"
             }
-        ]
+        ],
+        "url": "ORDER"
     },
     {
         "name": "PEACE",
@@ -13745,6 +13975,7 @@
                 "tournament": "VALORANT Oceania Tour 2021: Stage 3 Open Qualifier 1",
                 "prize": "$0"
             }
-        ]
+        ],
+        "url": "PEACE"
     }
 ]
