@@ -2,13 +2,16 @@ import requests
 import re
 import time
 import json
+import time
+import random
+import urllib
 
 baseURL = "https://liquipedia.net"
 
 
 def getMatchsPlayer(player):
     matchURL = baseURL+"/valorant/"+player+"/Matches"
-    r = requests.get(matchURL)
+    r = requests.get(matchURL, proxies=urllib.request.getproxies())
     content = r.text
     matchs = re.findall(
         r'<tr style.*?2022-.*?</tr>|<tr style.*?2021-.*?</tr>', content)
@@ -104,7 +107,6 @@ def getMatchsPlayer(player):
             "agents2": agents2,
             "score": score[0] if len(score) > 0 else "",
         }
-        print(match)
         allMatchs.append(match)
     return allMatchs
 
@@ -118,5 +120,43 @@ def write_json(new_data, filename):
 
 
 if __name__ == "__main__":
-    allMatchs = getMatchsPlayer("ShahZaM")
-    write_json(allMatchs, "data/matchs.json")
+    with open('data/matchs.json', mode='r', encoding='utf-8') as j:
+        matchs = json.load(j)
+    print(len(matchs))
+    # with open('data/matchs1.json', mode='r', encoding='utf-8') as j:
+    #     matchs1 = json.load(j)
+    # with open('data/matchs2.json', mode='r', encoding='utf-8') as j:
+    #     matchs2 = json.load(j)
+    # with open('data/matchs3.json', mode='r', encoding='utf-8') as j:
+    #     matchs3 = json.load(j)
+    # with open('data/matchs4.json', mode='r', encoding='utf-8') as j:
+    #     matchs4 = json.load(j)
+    # with open('data/matchs5.json', mode='r', encoding='utf-8') as j:
+    #     matchs5 = json.load(j)
+
+    # matchs = []
+    # matchs.extend(matchs1)
+    # matchs.extend(matchs2)
+    # matchs.extend(matchs3)
+    # matchs.extend(matchs4)
+    # matchs.extend(matchs5)
+
+    # with open('data/matchs.json', 'w', encoding='utf-8') as j:
+    #     json.dump(matchs, j, ensure_ascii=False, indent=4)
+
+    # start = 1052
+    # count = 1052
+    # with open("data/players.json", mode='r', encoding='utf-8') as j:
+    #     players = json.load(j)
+
+    # for i in range(start, len(players)):
+    #     player = players[i]
+    #     count += 1
+    #     if(player["url"] != None):
+    #         allMatchs = getMatchsPlayer(player["url"])
+    #         if(len(allMatchs) == 0):
+    #             break
+    #         write_json(allMatchs, "data/matchs5.json")
+    #         time.sleep(3)
+    #         print(player["name"], " : ", count,
+    #               "---", "match : ", len(allMatchs))

@@ -114,12 +114,12 @@ def loadImage(url, filename):
 
 
 if __name__ == "__main__":
-    with open("Data/teams.json", mode='r', encoding='utf-8') as j:
+    with open("data/teams.json", mode='r', encoding='utf-8') as j:
         teams = json.load(j)
     for team in teams:
         print(team["name"])
         if(team["logo"] != ""):
-            loadImage(team["logo"], "Data/images/teams/"+team["url"]+".png")
+            loadImage(team["logo"], "data/images/teams/"+team["url"]+".png")
             time.sleep(3)
 
     # teamsURL = getTeamsURL()
