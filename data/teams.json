@@ -2,7 +2,7 @@
     {
         "name": "100 Thieves",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/49/100_Thieves_full_lightmode.png/600px-100_Thieves_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/100_Thieves.png",
         "region": "North America",
         "totalWinnings": "$225,000",
         "achievements": [
@@ -66,7 +66,7 @@
     {
         "name": "Akrew",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/6/63/Akrew_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Akrew.png",
         "region": "North America",
         "totalWinnings": "$16,125",
         "achievements": [
@@ -136,7 +136,7 @@
     {
         "name": "Built By Gamers",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/6/6f/Built_By_Gamers_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Built_By_Gamers.png",
         "region": "North America",
         "totalWinnings": "$16,075",
         "achievements": [
@@ -206,7 +206,7 @@
     {
         "name": "Cloud9",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/01/Cloud9_full_lightmode.png/600px-Cloud9_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Cloud9.png",
         "region": "North America",
         "totalWinnings": "$186,800",
         "achievements": [
@@ -270,7 +270,7 @@
     {
         "name": "Cloud9 White",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/01/Cloud9_full_lightmode.png/600px-Cloud9_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Cloud9_White.png",
         "region": "North America",
         "totalWinnings": "$81,500",
         "achievements": [
@@ -340,7 +340,7 @@
     {
         "name": "Complexity Gaming",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/21/Complexity_Gaming_2019_lightmode_full.png/600px-Complexity_Gaming_2019_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Complexity_Gaming.png",
         "region": "North America",
         "totalWinnings": "$23,375",
         "achievements": [
@@ -410,7 +410,7 @@
     {
         "name": "Complexity GX3",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/21/Complexity_Gaming_2019_lightmode_full.png/600px-Complexity_Gaming_2019_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Complexity_GX3.png",
         "region": "North America",
         "totalWinnings": "$1,200",
         "achievements": [
@@ -444,7 +444,7 @@
     {
         "name": "Counter Logic Gaming Red",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/8/89/Counter_Logic_Gaming_Red_allmode.png/600px-Counter_Logic_Gaming_Red_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Counter_Logic_Gaming_Red.png",
         "region": "North America",
         "totalWinnings": "$40,100",
         "achievements": [
@@ -514,7 +514,7 @@
     {
         "name": "DarkZero Esports",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/b/bf/DarkZero_Esports_lightmode_full.png/600px-DarkZero_Esports_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/DarkZero_Esports.png",
         "region": "North America",
         "totalWinnings": "$2,500",
         "achievements": [
@@ -584,7 +584,7 @@
     {
         "name": "Dignitas Female",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/56/Dignitas_2021_allmode.png/600px-Dignitas_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Dignitas_Female.png",
         "region": "North America",
         "totalWinnings": "$42,800",
         "achievements": [
@@ -654,7 +654,7 @@
     {
         "name": "Elysium",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/c/c6/TeamElysium.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Elysium.png",
         "region": "North America",
         "totalWinnings": "$12,625",
         "achievements": [
@@ -724,7 +724,7 @@
     {
         "name": "Evil Geniuses",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/a2/Evil_Geniuses_2020_full_lightmode.png/600px-Evil_Geniuses_2020_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Evil_Geniuses.png",
         "region": "North America",
         "totalWinnings": "$14,500",
         "achievements": [
@@ -794,7 +794,7 @@
     {
         "name": "FaZe Clan",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/7/79/FaZe_Clan_November_2021_full_lightmode.png/600px-FaZe_Clan_November_2021_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/FaZe_Clan.png",
         "region": "North America",
         "totalWinnings": "$103,250",
         "achievements": [
@@ -864,7 +864,7 @@
     {
         "name": "Gen.G Black",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/0b/Gen.G_Esports_2019_full_lightmode.png/600px-Gen.G_Esports_2019_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Gen.G_Black.png",
         "region": "North America",
         "totalWinnings": "$7,750",
         "achievements": [
@@ -934,7 +934,7 @@
     {
         "name": "Gen.G Esports",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/0b/Gen.G_Esports_2019_full_lightmode.png/600px-Gen.G_Esports_2019_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Gen.G_Esports.png",
         "region": "North America",
         "totalWinnings": "$86,500",
         "achievements": [
@@ -1004,7 +1004,7 @@
     {
         "name": "Ghost Gaming",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/0e/Ghost_Gaming_2017_full_lightmode.png/600px-Ghost_Gaming_2017_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Ghost_Gaming.png",
         "region": "North America",
         "totalWinnings": "$11,600",
         "achievements": [
@@ -1074,7 +1074,7 @@
     {
         "name": "Immortals",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/3/3a/Immortals_2021_allmode_full.png/600px-Immortals_2021_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Immortals.png",
         "region": "North America",
         "totalWinnings": "$59,100",
         "achievements": [
@@ -1144,7 +1144,7 @@
     {
         "name": "Knights",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/e2/Pittsburgh_Knights_2021_allmode.png/600px-Pittsburgh_Knights_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Knights.png",
         "region": "North America",
         "totalWinnings": "$28,250",
         "achievements": [
@@ -1214,7 +1214,7 @@
     {
         "name": "Last Round Save",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/d8/LastRoundSave.png/600px-LastRoundSave.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Last_Round_Save.png",
         "region": "North America",
         "totalWinnings": "$5,815",
         "achievements": [
@@ -1284,7 +1284,7 @@
     {
         "name": "Luminosity Gaming",
         "location": "Canada",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/f4/Luminosity_Gaming_2018_allmode_full.png/600px-Luminosity_Gaming_2018_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Luminosity_Gaming.png",
         "region": "North America",
         "totalWinnings": "$73,750",
         "achievements": [
@@ -1354,7 +1354,7 @@
     {
         "name": "Man I Love Fwogs",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/2/27/Man_I_Love_Fwogs_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Man_I_Love_Fwogs.png",
         "region": "North America",
         "totalWinnings": "$5,450",
         "achievements": [
@@ -1424,7 +1424,7 @@
     {
         "name": "Misfits Black",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/1/14/Misfits_Gaming_2019_full_allmode.png/600px-Misfits_Gaming_2019_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Misfits_Black.png",
         "region": "North America",
         "totalWinnings": "",
         "achievements": [
@@ -1440,7 +1440,7 @@
     {
         "name": "Moon Raccoons",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/1/13/Moon_Raccoons_allmode.png/600px-Moon_Raccoons_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Moon_Raccoons.png",
         "region": "North America",
         "totalWinnings": "$8,425",
         "achievements": [
@@ -1510,7 +1510,7 @@
     {
         "name": "NRG",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/dc/NRG_2020_lightmode.png/600px-NRG_2020_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/NRG.png",
         "region": "North America",
         "totalWinnings": "$60,375",
         "achievements": [
@@ -1580,7 +1580,7 @@
     {
         "name": "NYFU",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/3/3d/NYFU_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/NYFU.png",
         "region": "North America",
         "totalWinnings": "$33,425",
         "achievements": [
@@ -1650,7 +1650,7 @@
     {
         "name": "OpTic Gaming",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/7/79/OpTic_Gaming_lightmode.png/600px-OpTic_Gaming_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/OpTic_Gaming.png",
         "region": "North America",
         "totalWinnings": "$32,000",
         "achievements": [
@@ -1666,7 +1666,7 @@
     {
         "name": "Renegades",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/6/68/Renegades_2019_allmode_full.png/600px-Renegades_2019_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Renegades.png",
         "region": "North America",
         "totalWinnings": "$31,094",
         "achievements": [
@@ -1736,7 +1736,7 @@
     {
         "name": "Rise",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/a4/Rise_2020_lightmode.png/600px-Rise_2020_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Rise.png",
         "region": "North America",
         "totalWinnings": "$43,400",
         "achievements": [
@@ -1806,7 +1806,7 @@
     {
         "name": "Sentinels",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/1/13/Sentinels_2020_allmode.png/600px-Sentinels_2020_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Sentinels.png",
         "region": "North America",
         "totalWinnings": "$561,500",
         "achievements": [
@@ -1870,7 +1870,7 @@
     {
         "name": "Shopify Rebellion",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/5a/Shopify_Rebellion.png/600px-Shopify_Rebellion.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Shopify_Rebellion.png",
         "region": "North America",
         "totalWinnings": "$46,400",
         "achievements": [
@@ -1958,7 +1958,7 @@
     {
         "name": "SoaR",
         "location": "Canada",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/26/SoaR_Gaming_lightmode.png/600px-SoaR_Gaming_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/SoaR.png",
         "region": "North America",
         "totalWinnings": "$9,900",
         "achievements": [
@@ -2028,7 +2028,7 @@
     {
         "name": "Soniqs",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/a8/Susquehanna_Soniqs_allmode.png/600px-Susquehanna_Soniqs_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Susquehanna_Soniqs.png",
         "region": "North America",
         "totalWinnings": "$14,000",
         "achievements": [
@@ -2098,7 +2098,7 @@
     {
         "name": "T1",
         "location": "South Korea",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/4e/T1_allmode.png/600px-T1_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/T1.png",
         "region": "North America",
         "totalWinnings": "$29,750",
         "achievements": [
@@ -2168,7 +2168,7 @@
     {
         "name": "T1 Academy",
         "location": "South Korea",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/4e/T1_allmode.png/600px-T1_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/T1_Academy.png",
         "region": "North America",
         "totalWinnings": "$500",
         "achievements": [
@@ -2214,7 +2214,7 @@
     {
         "name": "The Guard",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/20/The_Guard_lightmode_full.png/600px-The_Guard_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/The_Guard.png",
         "region": "North America",
         "totalWinnings": "$54,250",
         "achievements": [
@@ -2260,7 +2260,7 @@
     {
         "name": "TSM",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/c8/TSM_2019_lightmode.png/600px-TSM_2019_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/TSM.png",
         "region": "North America",
         "totalWinnings": "$126,250",
         "achievements": [
@@ -2330,7 +2330,7 @@
     {
         "name": "TSM Academy",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/c8/TSM_2019_lightmode.png/600px-TSM_2019_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/TSM_Academy.png",
         "region": "North America",
         "totalWinnings": "$7,500",
         "achievements": [
@@ -2400,7 +2400,7 @@
     {
         "name": "TSM X",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/c8/TSM_2019_lightmode.png/600px-TSM_2019_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/TSM_X.png",
         "region": "North America",
         "totalWinnings": "$31,150",
         "achievements": [
@@ -2470,7 +2470,7 @@
     {
         "name": "University of Houston Premiere",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/1/1f/University_of_Houston_Premiere_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/University_of_Houston_Premiere.png",
         "region": "North America",
         "totalWinnings": "$13,900",
         "achievements": [
@@ -2534,7 +2534,7 @@
     {
         "name": "Version1",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/93/Version1_2021.png/600px-Version1_2021.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Version1.png",
         "region": "North America",
         "totalWinnings": "$96,375",
         "achievements": [
@@ -2598,7 +2598,7 @@
     {
         "name": "VersionX",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/b/b4/VersionX_allmode_full.png/600px-VersionX_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/VersionX.png",
         "region": "North America",
         "totalWinnings": "$1,000",
         "achievements": [
@@ -2650,7 +2650,7 @@
     {
         "name": "XSET",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/24/XSET_lightmode.png/600px-XSET_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/XSET.png",
         "region": "North America",
         "totalWinnings": "$108,250",
         "achievements": [
@@ -2720,7 +2720,7 @@
     {
         "name": "XSET Female",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/0a/XSET_Female_lightmode.png/600px-XSET_Female_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/XSET_Female.png",
         "region": "North America",
         "totalWinnings": "$9,250",
         "achievements": [
@@ -2772,7 +2772,7 @@
     {
         "name": "Acend",
         "location": "Europe",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/c5/Acend_full_lightmode.png/600px-Acend_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Acend.png",
         "region": "Europe",
         "totalWinnings": "$498,859",
         "achievements": [
@@ -2830,7 +2830,7 @@
     {
         "name": "Alliance",
         "location": "Sweden",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/57/Alliance_2016_allmode_full.png/600px-Alliance_2016_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Alliance.png",
         "region": "Europe",
         "totalWinnings": "$28,370",
         "achievements": [
@@ -2900,7 +2900,7 @@
     {
         "name": "Alliance.Coven",
         "location": "Sweden",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/02/Alliance_Coven_allmode.png/600px-Alliance_Coven_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Alliance.Coven.png",
         "region": "Europe",
         "totalWinnings": "",
         "achievements": [
@@ -2922,7 +2922,7 @@
     {
         "name": "Angry Titans",
         "location": "Germany",
-        "logo": "https://liquipedia.net/commons/images/thumb/6/6f/Angry_Titans_2021_allmode.png/600px-Angry_Titans_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Angry_Titans.png",
         "region": "Europe",
         "totalWinnings": "$5,388",
         "achievements": [
@@ -2992,7 +2992,7 @@
     {
         "name": "Anorthosis Famagusta Esports",
         "location": "Cyprus",
-        "logo": "https://liquipedia.net/commons/images/thumb/7/7f/Anorthosis_Esports_allmode.png/600px-Anorthosis_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Anorthosis_Famagusta_Esports.png",
         "region": "Europe",
         "totalWinnings": "$5,874",
         "achievements": [
@@ -3062,7 +3062,7 @@
     {
         "name": "Arctic",
         "location": "Spain",
-        "logo": "https://liquipedia.net/commons/images/thumb/b/ba/Arctic_2022_allmode.png/600px-Arctic_2022_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Arctic.png",
         "region": "Europe",
         "totalWinnings": "$2,531",
         "achievements": [
@@ -3132,7 +3132,7 @@
     {
         "name": "BIG",
         "location": "Germany",
-        "logo": "https://liquipedia.net/commons/images/thumb/3/31/BIG_lightmode.png/600px-BIG_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/BIG.png",
         "region": "Europe",
         "totalWinnings": "$34,360",
         "achievements": [
@@ -3202,7 +3202,7 @@
     {
         "name": "Case Esports",
         "location": "Spain",
-        "logo": "https://liquipedia.net/commons/images/2/26/Case_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Case_Esports.png",
         "region": "Europe",
         "totalWinnings": "$555",
         "achievements": [
@@ -3266,7 +3266,7 @@
     {
         "name": "CGN Esports",
         "location": "Germany",
-        "logo": "https://liquipedia.net/commons/images/thumb/1/15/CGN_Esports_full_lightmode.png/600px-CGN_Esports_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/CGN_Esports.png",
         "region": "Europe",
         "totalWinnings": "$9,055",
         "achievements": [
@@ -3336,7 +3336,7 @@
     {
         "name": "Diamant Esports",
         "location": "Slovenia",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/9a/Diamant_Esports_lightmode.png/600px-Diamant_Esports_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Diamant_Esports.png",
         "region": "Europe",
         "totalWinnings": "$1,687",
         "achievements": [
@@ -3406,7 +3406,7 @@
     {
         "name": "ehehxd",
         "location": "Portugal",
-        "logo": "https://liquipedia.net/commons/images/2/27/Ehehxd_logo.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Ehehxd.png",
         "region": "Europe",
         "totalWinnings": "$4,034",
         "achievements": [
@@ -3476,7 +3476,7 @@
     {
         "name": "Enterprise Esports",
         "location": "Czech Republic",
-        "logo": "https://liquipedia.net/commons/images/thumb/6/67/ENTERPRISE_esports_allmode.png/600px-ENTERPRISE_esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Enterprise_Esports.png",
         "region": "Europe",
         "totalWinnings": "$1,586",
         "achievements": [
@@ -3546,7 +3546,7 @@
     {
         "name": "Entropiq",
         "location": "Czech Republic",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/f7/Entropiq_full_allmode.png/600px-Entropiq_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Entropiq.png",
         "region": "Europe",
         "totalWinnings": "$5,062",
         "achievements": [
@@ -3616,7 +3616,7 @@
     {
         "name": "eSuba",
         "location": "Czech Republic",
-        "logo": "https://liquipedia.net/commons/images/thumb/8/8f/ESuba_2021_full_lightmode.png/600px-ESuba_2021_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/ESuba.png",
         "region": "Europe",
         "totalWinnings": "$1,701",
         "achievements": [
@@ -3686,7 +3686,7 @@
     {
         "name": "Excel Esports",
         "location": "United Kingdom",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/57/Excel_Esports_2020_lightmode.png/600px-Excel_Esports_2020_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Excel_Esports.png",
         "region": "Europe",
         "totalWinnings": "$8,666",
         "achievements": [
@@ -3738,7 +3738,7 @@
     {
         "name": "Fadee Gaming",
         "location": "Czech Republic",
-        "logo": "https://liquipedia.net/commons/images/f/fd/Fadee_Gaming_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Fadee_Gaming.png",
         "region": "Europe",
         "totalWinnings": "$1,633",
         "achievements": [
@@ -3808,7 +3808,7 @@
     {
         "name": "Fnatic",
         "location": "United Kingdom",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/f9/Fnatic_2020_allmode.png/600px-Fnatic_2020_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Fnatic.png",
         "region": "Europe",
         "totalWinnings": "$220,888",
         "achievements": [
@@ -3866,7 +3866,7 @@
     {
         "name": "FOKUS",
         "location": "Germany",
-        "logo": "https://liquipedia.net/commons/images/1/12/FOKUS_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/FOKUS.png",
         "region": "Europe",
         "totalWinnings": "$7,843",
         "achievements": [
@@ -3894,7 +3894,7 @@
     {
         "name": "For The Win Esports",
         "location": "Portugal",
-        "logo": "https://liquipedia.net/commons/images/thumb/b/b6/For_The_Win_Esports_allmode.png/600px-For_The_Win_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/For_The_Win_Esports.png",
         "region": "Europe",
         "totalWinnings": "$9,969",
         "achievements": [
@@ -3964,7 +3964,7 @@
     {
         "name": "FunPlus Phoenix",
         "location": "China",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/20/FunPlus_Phoenix_2021_allmode.png/600px-FunPlus_Phoenix_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/FunPlus_Phoenix.png",
         "region": "Europe",
         "totalWinnings": "$165,972",
         "achievements": [
@@ -4034,7 +4034,7 @@
     {
         "name": "Futbolist Female",
         "location": "Europe",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/90/Futbolist_2021_lightmode.png/600px-Futbolist_2021_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Futbolist_Female.png",
         "region": "Europe",
         "totalWinnings": "$2,240",
         "achievements": [
@@ -4074,7 +4074,7 @@
     {
         "name": "G2 Esports",
         "location": "Germany",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/4b/G2_Esports_2020_lightmode.png/600px-G2_Esports_2020_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/G2_Esports.png",
         "region": "Europe",
         "totalWinnings": "$258,097",
         "achievements": [
@@ -4138,7 +4138,7 @@
     {
         "name": "G2 Gozen",
         "location": "Germany",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/4b/G2_Esports_2020_lightmode.png/600px-G2_Esports_2020_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/G2_Gozen.png",
         "region": "Europe",
         "totalWinnings": "$31,956",
         "achievements": [
@@ -4166,7 +4166,7 @@
     {
         "name": "Giants",
         "location": "Spain",
-        "logo": "https://liquipedia.net/commons/images/thumb/1/1c/Giants_Gaming_2021_full_lightmode.png/600px-Giants_Gaming_2021_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Giants.png",
         "region": "Europe",
         "totalWinnings": "$42,976",
         "achievements": [
@@ -4306,7 +4306,7 @@
     {
         "name": "GODSENT IRIS",
         "location": "Sweden",
-        "logo": "https://liquipedia.net/commons/images/thumb/6/6e/GODSENT_full_allmode.png/600px-GODSENT_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/GODSENT_IRIS.png",
         "region": "Europe",
         "totalWinnings": "",
         "achievements": [
@@ -4322,7 +4322,7 @@
     {
         "name": "Guild Esports",
         "location": "United Kingdom",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/f8/Guild_Esports_allmode.png/600px-Guild_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Guild_Esports.png",
         "region": "Europe",
         "totalWinnings": "$73,984",
         "achievements": [
@@ -4392,7 +4392,7 @@
     {
         "name": "Guild X",
         "location": "United Kingdom",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/f8/Guild_Esports_allmode.png/600px-Guild_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Guild_X.png",
         "region": "Europe",
         "totalWinnings": "$23,941",
         "achievements": [
@@ -4438,7 +4438,7 @@
     {
         "name": "HEET",
         "location": "Belgium",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/ea/HEET_lightmode.png/600px-HEET_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/HEET.png",
         "region": "Europe",
         "totalWinnings": "$15,305",
         "achievements": [
@@ -4508,7 +4508,7 @@
     {
         "name": "iPon Esport",
         "location": "Hungary",
-        "logo": "https://liquipedia.net/commons/images/6/6b/IPon_Esport_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/IPon_Esport.png",
         "region": "Europe",
         "totalWinnings": "$12,358",
         "achievements": [
@@ -4578,7 +4578,7 @@
     {
         "name": "KOI",
         "location": "Spain",
-        "logo": "https://liquipedia.net/commons/images/b/b4/KOI_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/KOI.png",
         "region": "Europe",
         "totalWinnings": "",
         "achievements": [
@@ -4600,7 +4600,7 @@
     {
         "name": "KOVA",
         "location": "Finland",
-        "logo": "https://liquipedia.net/commons/images/thumb/6/62/KOVA_2021_allmode.png/600px-KOVA_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/KOVA.png",
         "region": "Europe",
         "totalWinnings": "$8,206",
         "achievements": [
@@ -4658,7 +4658,7 @@
     {
         "name": "LDN UTD",
         "location": "United Kingdom",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/2d/LDN_UTD_2021_lightmode.png/600px-LDN_UTD_2021_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/LDN_UTD.png",
         "region": "Europe",
         "totalWinnings": "$22,864",
         "achievements": [
@@ -4728,7 +4728,7 @@
     {
         "name": "MOUZ",
         "location": "Germany",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/04/MOUZ_2021_allmode_full.png/600px-MOUZ_2021_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/MOUZ.png",
         "region": "Europe",
         "totalWinnings": "$4,266",
         "achievements": [
@@ -4744,7 +4744,7 @@
     {
         "name": "Movistar Riders",
         "location": "Spain",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/5e/Movistar_Riders_allmode_full.png/600px-Movistar_Riders_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Movistar_Riders.png",
         "region": "Europe",
         "totalWinnings": "$16,487",
         "achievements": [
@@ -4814,7 +4814,7 @@
     {
         "name": "OG",
         "location": "Denmark",
-        "logo": "https://liquipedia.net/commons/images/thumb/7/70/OG_RB_allmode.png/600px-OG_RB_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/OG.png",
         "region": "Europe",
         "totalWinnings": "$2,890",
         "achievements": [
@@ -4854,7 +4854,7 @@
     {
         "name": "Ovation eSports",
         "location": "Switzerland",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/df/Ovation_eSports_allmode.png/600px-Ovation_eSports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Ovation_eSports.png",
         "region": "Europe",
         "totalWinnings": "$6,831",
         "achievements": [
@@ -4994,7 +4994,7 @@
     {
         "name": "PENTA",
         "location": "Germany",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/c7/PENTA_Sports-logo-notext.png/600px-PENTA_Sports-logo-notext.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/PENTA.png",
         "region": "Europe",
         "totalWinnings": "$8,409",
         "achievements": [
@@ -5064,7 +5064,7 @@
     {
         "name": "Real Betis",
         "location": "Spain",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/5b/Real_Betis_allmode.png/600px-Real_Betis_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Real_Betis.png",
         "region": "Europe",
         "totalWinnings": "$3,030",
         "achievements": [
@@ -5134,7 +5134,7 @@
     {
         "name": "Rebels Gaming",
         "location": "Spain",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/ac/Rebels_Gaming_2021_allmode.png/600px-Rebels_Gaming_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Rebels_Gaming.png",
         "region": "Europe",
         "totalWinnings": "$2,823",
         "achievements": [
@@ -5180,7 +5180,7 @@
     {
         "name": "Rix.GG Lightning",
         "location": "United Kingdom",
-        "logo": "https://liquipedia.net/commons/images/thumb/6/69/Rix.GG_April_2021_full_allmode.png/600px-Rix.GG_April_2021_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Rix.GG_Lightning.png",
         "region": "Europe",
         "totalWinnings": "$10,020",
         "achievements": [
@@ -5250,7 +5250,7 @@
     {
         "name": "Rix.GG Thunder",
         "location": "United Kingdom",
-        "logo": "https://liquipedia.net/commons/images/thumb/6/69/Rix.GG_April_2021_full_allmode.png/600px-Rix.GG_April_2021_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Rix.GG_Thunder.png",
         "region": "Europe",
         "totalWinnings": "$6,128",
         "achievements": [
@@ -5320,7 +5320,7 @@
     {
         "name": "SKADE",
         "location": "Norway",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/43/SKADE_December_2019_allmode.png/600px-SKADE_December_2019_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/SKADE.png",
         "region": "Europe",
         "totalWinnings": "$298",
         "achievements": [
@@ -5390,7 +5390,7 @@
     {
         "name": "Team BDS",
         "location": "Switzerland",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/ee/Team_BDS_2021_full_allmode.png/600px-Team_BDS_2021_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_BDS.png",
         "region": "Europe",
         "totalWinnings": "$21,099",
         "achievements": [
@@ -5460,7 +5460,7 @@
     {
         "name": "Team Finest",
         "location": "Israel",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/21/Team_Finest_lightmode.png/600px-Team_Finest_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Finest.png",
         "region": "Europe",
         "totalWinnings": "$9,463",
         "achievements": [
@@ -5530,7 +5530,7 @@
     {
         "name": "Team Heretics",
         "location": "Spain",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/e5/Team_Heretics_2020_infobox.png/600px-Team_Heretics_2020_infobox.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Heretics.png",
         "region": "Europe",
         "totalWinnings": "$97,745",
         "achievements": [
@@ -5600,7 +5600,7 @@
     {
         "name": "Team Liquid",
         "location": "Netherlands",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/ee/Team_Liquid_2020_full_lightmode.png/600px-Team_Liquid_2020_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Liquid.png",
         "region": "Europe",
         "totalWinnings": "$295,374",
         "achievements": [
@@ -5658,7 +5658,7 @@
     {
         "name": "Team Queso",
         "location": "Spain",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/ed/Team_Queso_2021_allmode.png/600px-Team_Queso_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Queso.png",
         "region": "Europe",
         "totalWinnings": "$5,570",
         "achievements": [
@@ -5728,7 +5728,7 @@
     {
         "name": "Team Vitality",
         "location": "France",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/55/Team_Vitality_2021_allmode.png/600px-Team_Vitality_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Vitality.png",
         "region": "Europe",
         "totalWinnings": "$24,158",
         "achievements": [
@@ -5798,7 +5798,7 @@
     {
         "name": "TENSTAR",
         "location": "United Kingdom",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/28/TENSTAR_lightmode_full.png/600px-TENSTAR_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/TENSTAR.png",
         "region": "Europe",
         "totalWinnings": "$22,650",
         "achievements": [
@@ -5868,7 +5868,7 @@
     {
         "name": "TENSTAR Nova",
         "location": "United Kingdom",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/c5/TENSTAR_Nova_lightmode_full.png/600px-TENSTAR_Nova_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/TENSTAR_Nova.png",
         "region": "Europe",
         "totalWinnings": "$33,640",
         "achievements": [
@@ -5938,7 +5938,7 @@
     {
         "name": "UCAM Esports Club",
         "location": "Spain",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/a0/UCAM_Esports_Club.png/600px-UCAM_Esports_Club.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/UCAM_Esports_Club.png",
         "region": "Europe",
         "totalWinnings": "$16,250",
         "achievements": [
@@ -6008,7 +6008,7 @@
     {
         "name": "Unicorns of Love",
         "location": "Germany",
-        "logo": "https://liquipedia.net/commons/images/thumb/1/1a/Unicorns_Of_Love_full_allmode.png/600px-Unicorns_Of_Love_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Unicorns_of_Love.png",
         "region": "Europe",
         "totalWinnings": "$282",
         "achievements": [
@@ -6078,7 +6078,7 @@
     {
         "name": "WATAHA",
         "location": "Poland",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/a1/WATAHA_allmode.png/600px-WATAHA_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/WATAHA.png",
         "region": "Europe",
         "totalWinnings": "$2,022",
         "achievements": [
@@ -6148,7 +6148,7 @@
     {
         "name": "Wave Esports",
         "location": "Austria",
-        "logo": "https://liquipedia.net/commons/images/thumb/6/68/Wave_Esports_2020.png/600px-Wave_Esports_2020.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Wave_Esports.png",
         "region": "Europe",
         "totalWinnings": "$26,328",
         "achievements": [
@@ -6218,7 +6218,7 @@
     {
         "name": "Wygers",
         "location": "Spain",
-        "logo": "https://liquipedia.net/commons/images/4/4d/Wygers_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Wygers.png",
         "region": "Europe",
         "totalWinnings": "$3,734",
         "achievements": [
@@ -6288,7 +6288,7 @@
     {
         "name": "Divinity",
         "location": "CIS",
-        "logo": "https://liquipedia.net/commons/images/9/95/Divinity_logo.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Divinity.png",
         "region": "Europe",
         "totalWinnings": "$7,783",
         "achievements": [
@@ -6340,7 +6340,7 @@
     {
         "name": "Gambit Esports",
         "location": "CIS",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/fa/Gambit_Esports_2020_full_allmode.png/600px-Gambit_Esports_2020_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Gambit_Esports.png",
         "region": "Europe",
         "totalWinnings": "$495,638",
         "achievements": [
@@ -6404,7 +6404,7 @@
     {
         "name": "KPI Gaming",
         "location": "CIS",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/09/KPI_2019_lightmode.png/600px-KPI_2019_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/KPI_Gaming.png",
         "region": "Europe",
         "totalWinnings": "$6,780",
         "achievements": [
@@ -6474,7 +6474,7 @@
     {
         "name": "Natus Vincere",
         "location": "CIS",
-        "logo": "https://liquipedia.net/commons/images/thumb/3/3f/Natus_Vincere_2021_lightmode.png/600px-Natus_Vincere_2021_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Natus_Vincere.png",
         "region": "Europe",
         "totalWinnings": "$18,960",
         "achievements": [
@@ -6544,7 +6544,7 @@
     {
         "name": "One Breath Gaming",
         "location": "CIS",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/e9/One_Breath_Gaming_2022_allmode.png/600px-One_Breath_Gaming_2022_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/One_Breath_Gaming.png",
         "region": "Europe",
         "totalWinnings": "$38,131",
         "achievements": [
@@ -6614,7 +6614,7 @@
     {
         "name": "tyeasy",
         "location": "CIS",
-        "logo": "https://liquipedia.net/commons/images/thumb/8/83/Tyeasy_new_logo_2021.png/600px-Tyeasy_new_logo_2021.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Tyeasy.png",
         "region": "Europe",
         "totalWinnings": "$8,261",
         "achievements": [
@@ -6684,7 +6684,7 @@
     {
         "name": "BBL Esports",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/6/67/BBL_Esports_logo_2021.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/BBL_Esports.png",
         "region": "Europe",
         "totalWinnings": "$82,983",
         "achievements": [
@@ -6754,7 +6754,7 @@
     {
         "name": "BBL Queens",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/6/67/BBL_Esports_logo_2021.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/BBL_Queens.png",
         "region": "Europe",
         "totalWinnings": "$2,021",
         "achievements": [
@@ -6794,7 +6794,7 @@
     {
         "name": "Beşiktaş Esports",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/9f/Be%C5%9Fikta%C5%9F_JK.png/600px-Be%C5%9Fikta%C5%9F_JK.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Be%C5%9Fikta%C5%9F_Esports.png",
         "region": "Europe",
         "totalWinnings": "$4,196",
         "achievements": [
@@ -6864,7 +6864,7 @@
     {
         "name": "Dark Passage",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/af/Dark_Passage_allmode.png/600px-Dark_Passage_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Dark_Passage.png",
         "region": "Europe",
         "totalWinnings": "$564",
         "achievements": [
@@ -6898,7 +6898,7 @@
     {
         "name": "Digital Athletics",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/c1/Digital_Athletics.png/600px-Digital_Athletics.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Digital_Athletics.png",
         "region": "Europe",
         "totalWinnings": "$6,359",
         "achievements": [
@@ -6968,7 +6968,7 @@
     {
         "name": "Fenerbahçe Esports",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/1/11/Fenerbah%C3%A7e_Esports_2021_allmode.png/600px-Fenerbah%C3%A7e_Esports_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Fenerbah%C3%A7e_Esports.png",
         "region": "Europe",
         "totalWinnings": "$765",
         "achievements": [
@@ -7038,7 +7038,7 @@
     {
         "name": "Fire Flux Esports",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/b/b9/Fire_Flux_Esports_full_lightmode.png/600px-Fire_Flux_Esports_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Fire_Flux_Esports.png",
         "region": "Europe",
         "totalWinnings": "$18,300",
         "achievements": [
@@ -7108,7 +7108,7 @@
     {
         "name": "Fire Flux Female",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/aa/Fire_Flux_Female_full_lightmode.png/600px-Fire_Flux_Female_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Fire_Flux_Female.png",
         "region": "Europe",
         "totalWinnings": "",
         "achievements": [
@@ -7142,7 +7142,7 @@
     {
         "name": "Futbolist",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/90/Futbolist_2021_lightmode.png/600px-Futbolist_2021_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Futbolist.png",
         "region": "Europe",
         "totalWinnings": "$81,687",
         "achievements": [
@@ -7212,7 +7212,7 @@
     {
         "name": "Kafalar Esports",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/ab/Kafalar_Esports_2021_allmode.png/600px-Kafalar_Esports_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Kafalar_Esports.png",
         "region": "Europe",
         "totalWinnings": "$7,460",
         "achievements": [
@@ -7282,7 +7282,7 @@
     {
         "name": "OtherSide Esports",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/0b/OtherSide_Esports_allmode.png/600px-OtherSide_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/OtherSide_Esports.png",
         "region": "Europe",
         "totalWinnings": "$14,108",
         "achievements": [
@@ -7352,7 +7352,7 @@
     {
         "name": "Sangal Rebels",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/1/18/Sangal.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Sangal_Rebels.png",
         "region": "Europe",
         "totalWinnings": "",
         "achievements": [
@@ -7368,7 +7368,7 @@
     {
         "name": "SuperMassive Blaze",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/2d/SuperMassive_Blaze_lightmode_full.png/600px-SuperMassive_Blaze_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/SuperMassive_Blaze.png",
         "region": "Europe",
         "totalWinnings": "$47,731",
         "achievements": [
@@ -7432,7 +7432,7 @@
     {
         "name": "SuperMassive Blaze Female",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/2d/SuperMassive_Blaze_lightmode_full.png/600px-SuperMassive_Blaze_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/SuperMassive_Blaze_Female.png",
         "region": "Europe",
         "totalWinnings": "$4,668",
         "achievements": [
@@ -7490,7 +7490,7 @@
     {
         "name": "Surreal Esports",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/7/7a/Surreal_Esports_2021_allmode.png/600px-Surreal_Esports_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Surreal_Esports.png",
         "region": "Europe",
         "totalWinnings": "$3,364",
         "achievements": [
@@ -7560,7 +7560,7 @@
     {
         "name": "Team Lixa",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/b/ba/Team_Lixa_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Lixa.png",
         "region": "Europe",
         "totalWinnings": "$3,744",
         "achievements": [
@@ -7630,7 +7630,7 @@
     {
         "name": "Thunderbolts Gaming",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/d6/Thunderbolts_Gaming_2022_allmode.png/600px-Thunderbolts_Gaming_2022_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Thunderbolts_Gaming.png",
         "region": "Europe",
         "totalWinnings": "$6,296",
         "achievements": [
@@ -7700,7 +7700,7 @@
     {
         "name": "Zero Zone",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/4/42/Zero_Zone_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Zero_Zone.png",
         "region": "Europe",
         "totalWinnings": "$8,057",
         "achievements": [
@@ -7770,7 +7770,7 @@
     {
         "name": "İstanbul Wildcats",
         "location": "Turkey",
-        "logo": "https://liquipedia.net/commons/images/thumb/1/18/%C4%B0stanbul_Wildcats_allmode.png/600px-%C4%B0stanbul_Wildcats_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/%C4%B0stanbul_Wildcats.png",
         "region": "Europe",
         "totalWinnings": "$8,848",
         "achievements": [
@@ -7840,7 +7840,7 @@
     {
         "name": "DAMWON Gaming",
         "location": "South Korea",
-        "logo": "https://liquipedia.net/commons/images/thumb/8/83/DAMWON_Gaming_2021_lightmode.png/600px-DAMWON_Gaming_2021_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/DAMWON_Gaming.png",
         "region": "South Korea",
         "totalWinnings": "$42,826",
         "achievements": [
@@ -7910,7 +7910,7 @@
     {
         "name": "DRX",
         "location": "South Korea",
-        "logo": "https://liquipedia.net/commons/images/thumb/7/7c/DRX_full_allmode.png/600px-DRX_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/DRX.png",
         "region": "South Korea",
         "totalWinnings": "$24,681",
         "achievements": [
@@ -7932,7 +7932,7 @@
     {
         "name": "F4Q",
         "location": "South Korea",
-        "logo": "https://liquipedia.net/commons/images/0/09/F4q_logo.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/F4Q.png",
         "region": "South Korea",
         "totalWinnings": "$34,545",
         "achievements": [
@@ -7996,7 +7996,7 @@
     {
         "name": "On Sla2ers",
         "location": "South Korea",
-        "logo": "https://liquipedia.net/commons/images/1/1b/On_Sla2ers_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/On_Sla2ers.png",
         "region": "South Korea",
         "totalWinnings": "$16,454",
         "achievements": [
@@ -8024,7 +8024,7 @@
     {
         "name": "Prince",
         "location": "South Korea",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/97/GoNGo_Prince_full_lightmode.png/600px-GoNGo_Prince_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Prince.png",
         "region": "South Korea",
         "totalWinnings": "$16,714",
         "achievements": [
@@ -8094,7 +8094,7 @@
     {
         "name": "World Game Star",
         "location": "South Korea",
-        "logo": "https://liquipedia.net/commons/images/f/fb/WGS_X-IT_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/World_Game_Star.png",
         "region": "South Korea",
         "totalWinnings": "$20,687",
         "achievements": [
@@ -8164,7 +8164,7 @@
     {
         "name": "BLUE BEES",
         "location": "Japan",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/fe/Blue_Bees_2019.png/600px-Blue_Bees_2019.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/BLUE_BEES.png",
         "region": "Japan",
         "totalWinnings": "$3,813",
         "achievements": [
@@ -8234,7 +8234,7 @@
     {
         "name": "Crazy Raccoon",
         "location": "Japan",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/fc/Crazy_Raccoon_2021_allmode.png/600px-Crazy_Raccoon_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Crazy_Raccoon.png",
         "region": "Japan",
         "totalWinnings": "$102,100",
         "achievements": [
@@ -8286,7 +8286,7 @@
     {
         "name": "DetonatioN Gaming White",
         "location": "Japan",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/44/DetonatioN_Gaming_Black.png/600px-DetonatioN_Gaming_Black.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/DetonatioN_Gaming_White.png",
         "region": "Japan",
         "totalWinnings": "",
         "achievements": [
@@ -8308,7 +8308,7 @@
     {
         "name": "DeToNator",
         "location": "Japan",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/51/DeToNator_2021_allmode.png/600px-DeToNator_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/DeToNator.png",
         "region": "Japan",
         "totalWinnings": "$955",
         "achievements": [
@@ -8360,7 +8360,7 @@
     {
         "name": "FAV gaming",
         "location": "Japan",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/55/FAV_gaming_full_2022_lightmode.png/600px-FAV_gaming_full_2022_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/FAV_gaming.png",
         "region": "Japan",
         "totalWinnings": "$13,887",
         "achievements": [
@@ -8430,7 +8430,7 @@
     {
         "name": "FENNEL",
         "location": "Japan",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/f8/FENNEL_2021_May_full_lightmode.png/600px-FENNEL_2021_May_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/FENNEL.png",
         "region": "Japan",
         "totalWinnings": "$2,287",
         "achievements": [
@@ -8500,7 +8500,7 @@
     {
         "name": "Northeption",
         "location": "Japan",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/cb/Team_Northeption_2021_allmode_full.png/600px-Team_Northeption_2021_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Northeption.png",
         "region": "Japan",
         "totalWinnings": "$2,691",
         "achievements": [
@@ -8570,7 +8570,7 @@
     {
         "name": "REJECT",
         "location": "Japan",
-        "logo": "https://liquipedia.net/commons/images/thumb/7/74/REJECT_2020_lightmode_full.png/600px-REJECT_2020_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/REJECT.png",
         "region": "Japan",
         "totalWinnings": "$15,455",
         "achievements": [
@@ -8640,7 +8640,7 @@
     {
         "name": "SCARZ",
         "location": "Japan",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/fe/SCARZ_2021_lightmode.png/600px-SCARZ_2021_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/SCARZ.png",
         "region": "Japan",
         "totalWinnings": "$18,070",
         "achievements": [
@@ -8710,7 +8710,7 @@
     {
         "name": "ZETA DIVISION",
         "location": "Japan",
-        "logo": "https://liquipedia.net/commons/images/4/4f/ZETA_DIVISION_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/ZETA_DIVISION.png",
         "region": "Japan",
         "totalWinnings": "$146,786",
         "achievements": [
@@ -8780,7 +8780,7 @@
     {
         "name": "Action PH",
         "location": "Philippines",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/22/Action_PH_allmode.png/600px-Action_PH_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Action_PH.png",
         "region": "Asia",
         "totalWinnings": "$15,948",
         "achievements": [
@@ -8850,7 +8850,7 @@
     {
         "name": "Alter Ego",
         "location": "Indonesia",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/f2/Alter_Ego_July2021_allmode.png/600px-Alter_Ego_July2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Alter_Ego.png",
         "region": "Asia",
         "totalWinnings": "$42,237",
         "achievements": [
@@ -8920,7 +8920,7 @@
     {
         "name": "Alter Ego Celestè",
         "location": "Indonesia",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/f2/Alter_Ego_July2021_allmode.png/600px-Alter_Ego_July2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Alter_Ego_Celest%C3%A8.png",
         "region": "Asia",
         "totalWinnings": "$19,977",
         "achievements": [
@@ -8990,7 +8990,7 @@
     {
         "name": "Aricat Esport",
         "location": "Thailand",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/c6/Aricat_Esport_allmode.png/600px-Aricat_Esport_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Aricat_Esport.png",
         "region": "Asia",
         "totalWinnings": "$4,798",
         "achievements": [
@@ -9060,7 +9060,7 @@
     {
         "name": "Attack All Around",
         "location": "Thailand",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/5a/Attack_All_Around_2021_allmode_full.png/600px-Attack_All_Around_2021_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Attack_All_Around.png",
         "region": "Asia",
         "totalWinnings": "$29,986",
         "achievements": [
@@ -9130,7 +9130,7 @@
     {
         "name": "Bleed eSports",
         "location": "Singapore",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/42/Bleed_eSports_2021_allmode.png/600px-Bleed_eSports_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Bleed_eSports.png",
         "region": "Asia",
         "totalWinnings": "$23,611",
         "achievements": [
@@ -9200,7 +9200,7 @@
     {
         "name": "BOOM Esports",
         "location": "Indonesia",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/d0/Boom_Esports_allmode.png/600px-Boom_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/BOOM_Esports.png",
         "region": "Asia",
         "totalWinnings": "$62,092",
         "achievements": [
@@ -9270,7 +9270,7 @@
     {
         "name": "Bren Esports",
         "location": "Philippines",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/d7/Bren_Esports_allmode_full.png/600px-Bren_Esports_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Bren_Esports.png",
         "region": "Asia",
         "totalWinnings": "$63,308",
         "achievements": [
@@ -9340,7 +9340,7 @@
     {
         "name": "CERBERUS Esports",
         "location": "Vietnam",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/0e/CERBERUS_Esports_allmode.png/600px-CERBERUS_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/CERBERUS_Esports.png",
         "region": "Asia",
         "totalWinnings": "$35,368",
         "achievements": [
@@ -9410,7 +9410,7 @@
     {
         "name": "Fancy United Esports",
         "location": "Vietnam",
-        "logo": "https://liquipedia.net/commons/images/thumb/1/19/Fancy_United_Esports_2021_full_lightmode.png/600px-Fancy_United_Esports_2021_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Fancy_United_Esports.png",
         "region": "Asia",
         "totalWinnings": "$15,613",
         "achievements": [
@@ -9480,7 +9480,7 @@
     {
         "name": "FULL SENSE",
         "location": "Thailand",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/25/FULL_SENSE_lightmode_full.png/600px-FULL_SENSE_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/FULL_SENSE.png",
         "region": "Asia",
         "totalWinnings": "$68,526",
         "achievements": [
@@ -9544,7 +9544,7 @@
     {
         "name": "FW ESPORTS",
         "location": "Thailand",
-        "logo": "https://liquipedia.net/commons/images/3/35/FW_ESPORTS_202107_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/FW_ESPORTS.png",
         "region": "Asia",
         "totalWinnings": "$3,256",
         "achievements": [
@@ -9614,7 +9614,7 @@
     {
         "name": "Made in Thailand",
         "location": "Thailand",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/9a/Made_in_Thailand_2021_lightmode_full.png/600px-Made_in_Thailand_2021_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Made_in_Thailand.png",
         "region": "Asia",
         "totalWinnings": "$23,237",
         "achievements": [
@@ -9684,7 +9684,7 @@
     {
         "name": "Nigma Galaxy",
         "location": "Philippines",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/eb/Nigma_Galaxy_allmode_full.png/600px-Nigma_Galaxy_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Nigma_Galaxy.png",
         "region": "Asia",
         "totalWinnings": "$7,511",
         "achievements": [
@@ -9754,7 +9754,7 @@
     {
         "name": "Nigma Galaxy Female",
         "location": "Philippines",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/eb/Nigma_Galaxy_allmode_full.png/600px-Nigma_Galaxy_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Nigma_Galaxy_Female.png",
         "region": "Asia",
         "totalWinnings": "$7,470",
         "achievements": [
@@ -9824,7 +9824,7 @@
     {
         "name": "Oasis Gaming",
         "location": "Philippines",
-        "logo": "https://liquipedia.net/commons/images/b/b4/Oasis_Gaming_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Oasis_Gaming.png",
         "region": "Asia",
         "totalWinnings": "$8,405",
         "achievements": [
@@ -9894,7 +9894,7 @@
     {
         "name": "Paper Rex",
         "location": "Singapore",
-        "logo": "https://liquipedia.net/commons/images/thumb/3/3c/Paper_Rex_lightmode_full.png/600px-Paper_Rex_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Paper_Rex.png",
         "region": "Asia",
         "totalWinnings": "$91,522",
         "achievements": [
@@ -9964,7 +9964,7 @@
     {
         "name": "Rex Regum Qeon",
         "location": "Indonesia",
-        "logo": "https://liquipedia.net/commons/images/thumb/1/1e/Rex_Regum_Qeon_allmode.png/600px-Rex_Regum_Qeon_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Rex_Regum_Qeon.png",
         "region": "Asia",
         "totalWinnings": "$1,355",
         "achievements": [
@@ -10034,7 +10034,7 @@
     {
         "name": "Sharper Esport",
         "location": "Thailand",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/06/Sharper_Esport_2021_full_lightmode.png/600px-Sharper_Esport_2021_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Sharper_Esport.png",
         "region": "Asia",
         "totalWinnings": "$17,544",
         "achievements": [
@@ -10104,7 +10104,7 @@
     {
         "name": "South Built Esports",
         "location": "Philippines",
-        "logo": "https://liquipedia.net/commons/images/thumb/7/73/South_Built_Esports_2022_allmode.png/600px-South_Built_Esports_2022_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/South_Built_Esports.png",
         "region": "Asia",
         "totalWinnings": "$27,373",
         "achievements": [
@@ -10174,7 +10174,7 @@
     {
         "name": "Team Big BAAM",
         "location": "Vietnam",
-        "logo": "https://liquipedia.net/commons/images/thumb/b/b5/Big_BAAM_logo_full_lightmode.png/600px-Big_BAAM_logo_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Big_BAAM.png",
         "region": "Asia",
         "totalWinnings": "$22,136",
         "achievements": [
@@ -10244,7 +10244,7 @@
     {
         "name": "Team Secret",
         "location": "Philippines",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/5a/Team_Secret_lightmode_full.png/600px-Team_Secret_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Secret.png",
         "region": "Asia",
         "totalWinnings": "$42,745",
         "achievements": [
@@ -10272,7 +10272,7 @@
     {
         "name": "Team SMG",
         "location": "Singapore",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/9a/Team_SMG_2022_full_allmode.png/600px-Team_SMG_2022_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_SMG.png",
         "region": "Asia",
         "totalWinnings": "$30,832",
         "achievements": [
@@ -10342,7 +10342,7 @@
     {
         "name": "Todak",
         "location": "Malaysia",
-        "logo": "https://liquipedia.net/commons/images/6/6d/Todak_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Todak.png",
         "region": "Asia",
         "totalWinnings": "$9,707",
         "achievements": [
@@ -10412,7 +10412,7 @@
     {
         "name": "X10 CRIT",
         "location": "Thailand",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/f9/X10_CRIT_lightmode.png/600px-X10_CRIT_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/X10_CRIT.png",
         "region": "Asia",
         "totalWinnings": "$116,307",
         "achievements": [
@@ -10476,7 +10476,7 @@
     {
         "name": "XERXIA",
         "location": "Thailand",
-        "logo": "https://liquipedia.net/commons/images/1/1f/Xerxia_Esports_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/XERXIA.png",
         "region": "Asia",
         "totalWinnings": "$43,884",
         "achievements": [
@@ -10510,7 +10510,7 @@
     {
         "name": "Zeal Esports",
         "location": "Philippines",
-        "logo": "https://liquipedia.net/commons/images/e/ee/Zeal_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Zeal_Esports.png",
         "region": "Asia",
         "totalWinnings": "$4,087",
         "achievements": [
@@ -10580,7 +10580,7 @@
     {
         "name": "Enigma Gaming",
         "location": "India",
-        "logo": "https://liquipedia.net/commons/images/3/36/Enigma_Gaming_IND_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Enigma_Gaming.png",
         "region": "Asia",
         "totalWinnings": "$41,648",
         "achievements": [
@@ -10650,7 +10650,7 @@
     {
         "name": "Exceeli Esports",
         "location": "Bangladesh",
-        "logo": "https://liquipedia.net/commons/images/thumb/7/75/Exceeli_Esports_lightmode.png/600px-Exceeli_Esports_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Exceeli_Esports.png",
         "region": "Asia",
         "totalWinnings": "$3,976",
         "achievements": [
@@ -10720,7 +10720,7 @@
     {
         "name": "Global Esports",
         "location": "India",
-        "logo": "https://liquipedia.net/commons/images/2/23/Global_Esports_2020_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Global_Esports.png",
         "region": "Asia",
         "totalWinnings": "$76,498",
         "achievements": [
@@ -10790,7 +10790,7 @@
     {
         "name": "Reckoning Esports",
         "location": "India",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/d4/Reckoning_Esports_2020.png/600px-Reckoning_Esports_2020.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Reckoning_Esports.png",
         "region": "Asia",
         "totalWinnings": "$8,981",
         "achievements": [
@@ -10860,7 +10860,7 @@
     {
         "name": "True Rippers Esports",
         "location": "India",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/2e/True_Rippers_black.png/600px-True_Rippers_black.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/True_Rippers_Esports.png",
         "region": "Asia",
         "totalWinnings": "$8,095",
         "achievements": [
@@ -10930,7 +10930,7 @@
     {
         "name": "Velocity Gaming",
         "location": "India",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/4a/Velocity_Gaming_2021.png/600px-Velocity_Gaming_2021.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Velocity_Gaming.png",
         "region": "Asia",
         "totalWinnings": "$106,479",
         "achievements": [
@@ -11000,7 +11000,7 @@
     {
         "name": "B4 Angels",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/8/82/B4_Esports_lightmode.png/600px-B4_Esports_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/B4_Angels.png",
         "region": "Brazil",
         "totalWinnings": "$23,973",
         "achievements": [
@@ -11070,7 +11070,7 @@
     {
         "name": "B4 Esports",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/8/82/B4_Esports_lightmode.png/600px-B4_Esports_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/B4_Esports.png",
         "region": "Brazil",
         "totalWinnings": "$8,127",
         "achievements": [
@@ -11140,7 +11140,7 @@
     {
         "name": "DETONA Gaming",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/7/72/DETONA_Gaming_2019_allmode_full.png/600px-DETONA_Gaming_2019_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/DETONA_Gaming.png",
         "region": "Brazil",
         "totalWinnings": "$107",
         "achievements": [
@@ -11210,7 +11210,7 @@
     {
         "name": "FURIA Esports",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/b/bd/FURIA_Esports_full_lightmode.png/600px-FURIA_Esports_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/FURIA_Esports.png",
         "region": "Brazil",
         "totalWinnings": "$74,114",
         "achievements": [
@@ -11280,7 +11280,7 @@
     {
         "name": "Gamelanders Blue",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/6/67/Gamelanders_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Gamelanders_Blue.png",
         "region": "Brazil",
         "totalWinnings": "$71,318",
         "achievements": [
@@ -11350,7 +11350,7 @@
     {
         "name": "Gamelanders Purple",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/8/8c/Gamelanders_Purple_allmode.png/600px-Gamelanders_Purple_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Gamelanders_Purple.png",
         "region": "Brazil",
         "totalWinnings": "$36,997",
         "achievements": [
@@ -11420,7 +11420,7 @@
     {
         "name": "INGAMING Esports",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/4a/InGaming.png/600px-InGaming.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/INGAMING_Esports.png",
         "region": "Brazil",
         "totalWinnings": "$14,975",
         "achievements": [
@@ -11490,7 +11490,7 @@
     {
         "name": "Keyd Stars",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/96/Keyd_Stars_2017_allmode.png/600px-Keyd_Stars_2017_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Keyd_Stars.png",
         "region": "Brazil",
         "totalWinnings": "$55,989",
         "achievements": [
@@ -11548,7 +11548,7 @@
     {
         "name": "Keyd Stars Athenas",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/96/Keyd_Stars_2017_allmode.png/600px-Keyd_Stars_2017_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Keyd_Stars_Athenas.png",
         "region": "Brazil",
         "totalWinnings": "$7,838",
         "achievements": [
@@ -11618,7 +11618,7 @@
     {
         "name": "Liberty",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/59/Liberty_2021_lightmode_full.png/600px-Liberty_2021_lightmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Liberty.png",
         "region": "Brazil",
         "totalWinnings": "$44,321",
         "achievements": [
@@ -11682,7 +11682,7 @@
     {
         "name": "Los Grandes",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/6/60/Los_Grandes_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Los_Grandes.png",
         "region": "Brazil",
         "totalWinnings": "$2,600",
         "achievements": [
@@ -11734,7 +11734,7 @@
     {
         "name": "LOUD",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/8/8b/LOUD_allmode.png/600px-LOUD_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/LOUD.png",
         "region": "Brazil",
         "totalWinnings": "$21,094",
         "achievements": [
@@ -11750,7 +11750,7 @@
     {
         "name": "MIBR",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/8/85/MIBR_2018_lightmode.png/600px-MIBR_2018_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/MIBR.png",
         "region": "Brazil",
         "totalWinnings": "",
         "achievements": [
@@ -11796,7 +11796,7 @@
     {
         "name": "Ninjas in Pyjamas",
         "location": "Sweden",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/42/Ninjas_in_Pyjamas_2021_full_lightmode.png/600px-Ninjas_in_Pyjamas_2021_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Ninjas_in_Pyjamas.png",
         "region": "Brazil",
         "totalWinnings": "$87,097",
         "achievements": [
@@ -11866,7 +11866,7 @@
     {
         "name": "RED Canids",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/3/3b/Red_Canids_allmode.png/600px-Red_Canids_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/RED_Canids.png",
         "region": "Brazil",
         "totalWinnings": "",
         "achievements": [
@@ -11912,7 +11912,7 @@
     {
         "name": "Sharks Esports",
         "location": "Portugal",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/dd/Sharks_Esports.png/600px-Sharks_Esports.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Sharks_Esports.png",
         "region": "Brazil",
         "totalWinnings": "$40,049",
         "achievements": [
@@ -11976,7 +11976,7 @@
     {
         "name": "Stars Horizon",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/a6/Stars_Horizon_allmode_full.png/600px-Stars_Horizon_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Stars_Horizon.png",
         "region": "Brazil",
         "totalWinnings": "$9,285",
         "achievements": [
@@ -12046,7 +12046,7 @@
     {
         "name": "Stars Horizon Vênus",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/a6/Stars_Horizon_allmode_full.png/600px-Stars_Horizon_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Stars_Horizon_V%C3%AAnus.png",
         "region": "Brazil",
         "totalWinnings": "$8,554",
         "achievements": [
@@ -12116,7 +12116,7 @@
     {
         "name": "TBK Esports",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/da/TBK_Esports_allmode.png/600px-TBK_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/TBK_Esports.png",
         "region": "Brazil",
         "totalWinnings": "$6,855",
         "achievements": [
@@ -12144,7 +12144,7 @@
     {
         "name": "Team Liquid Brazil",
         "location": "Netherlands",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/ee/Team_Liquid_2020_full_lightmode.png/600px-Team_Liquid_2020_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Liquid_Brazil.png",
         "region": "Brazil",
         "totalWinnings": "$3,289",
         "achievements": [
@@ -12166,7 +12166,7 @@
     {
         "name": "Team Vikings",
         "location": "Brazil",
-        "logo": "https://liquipedia.net/commons/images/thumb/8/84/Team_Vikings_lightmode.png/600px-Team_Vikings_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Vikings.png",
         "region": "Brazil",
         "totalWinnings": "$108,747",
         "achievements": [
@@ -12230,7 +12230,7 @@
     {
         "name": "Akave Esports",
         "location": "Mexico",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/d4/Akave_Esports_2021_december_allmode_full.png/600px-Akave_Esports_2021_december_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Akave_Esports.png",
         "region": "Latin America North",
         "totalWinnings": "$3,000",
         "achievements": [
@@ -12300,7 +12300,7 @@
     {
         "name": "Border Monsters",
         "location": "Mexico",
-        "logo": "https://liquipedia.net/commons/images/thumb/a/ae/Border_Monsters_allmode.png/600px-Border_Monsters_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Border_Monsters.png",
         "region": "Latin America North",
         "totalWinnings": "$13,100",
         "achievements": [
@@ -12370,7 +12370,7 @@
     {
         "name": "E-Xolos LAZER",
         "location": "Mexico",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/d1/E-Xolos_LAZER_allmode.png/600px-E-Xolos_LAZER_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/E-Xolos_LAZER.png",
         "region": "Latin America North",
         "totalWinnings": "$53,017",
         "achievements": [
@@ -12440,7 +12440,7 @@
     {
         "name": "FUSION",
         "location": "United States",
-        "logo": "https://liquipedia.net/commons/images/thumb/5/5e/FUSION_allmode.png/600px-FUSION_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/FUSION.png",
         "region": "Latin America North",
         "totalWinnings": "$10,000",
         "achievements": [
@@ -12474,7 +12474,7 @@
     {
         "name": "Infinity",
         "location": "Costa Rica",
-        "logo": "https://liquipedia.net/commons/images/thumb/b/bc/Infinity_2021_lightmode.png/600px-Infinity_2021_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Infinity.png",
         "region": "Latin America North",
         "totalWinnings": "$35,918",
         "achievements": [
@@ -12544,7 +12544,7 @@
     {
         "name": "Six Karma",
         "location": "Mexico",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/de/Six_Karma_2021_allmode.png/600px-Six_Karma_2021_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Six_Karma.png",
         "region": "Latin America North",
         "totalWinnings": "$17,511",
         "achievements": [
@@ -12614,7 +12614,7 @@
     {
         "name": "Skull Cracker",
         "location": "Ecuador",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/d6/Skull_Cracker_allmode.png/600px-Skull_Cracker_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Skull_Cracker.png",
         "region": "Latin America North",
         "totalWinnings": "$2,350",
         "achievements": [
@@ -12684,7 +12684,7 @@
     {
         "name": "Skull Cracker Fem",
         "location": "Ecuador",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/d6/Skull_Cracker_allmode.png/600px-Skull_Cracker_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Skull_Cracker_Fem.png",
         "region": "Latin America North",
         "totalWinnings": "$5,746",
         "achievements": [
@@ -12748,7 +12748,7 @@
     {
         "name": "9z Team",
         "location": "Argentina",
-        "logo": "https://liquipedia.net/commons/images/thumb/6/62/9z_Team_allmode.png/600px-9z_Team_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/9z_Team.png",
         "region": "Category:Latin America South",
         "totalWinnings": "$21,330",
         "achievements": [
@@ -12818,7 +12818,7 @@
     {
         "name": "KRÜ Esports",
         "location": "Argentina",
-        "logo": "https://liquipedia.net/commons/images/thumb/b/bf/KRU_Esports_allmode.png/600px-KRU_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/KR%C3%9C_Esports.png",
         "region": "Category:Latin America South",
         "totalWinnings": "$201,000",
         "achievements": [
@@ -12870,7 +12870,7 @@
     {
         "name": "KRÜ Fem",
         "location": "Argentina",
-        "logo": "https://liquipedia.net/commons/images/thumb/b/bf/KRU_Esports_allmode.png/600px-KRU_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/KR%C3%9C_Fem.png",
         "region": "Category:Latin America South",
         "totalWinnings": "$4,445",
         "achievements": [
@@ -12898,7 +12898,7 @@
     {
         "name": "Leviatán",
         "location": "Argentina",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/c1/Leviat%C3%A1n_full_allmode.png/600px-Leviat%C3%A1n_full_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Leviat%C3%A1n.png",
         "region": "Category:Latin America South",
         "totalWinnings": "$21,500",
         "achievements": [
@@ -12968,7 +12968,7 @@
     {
         "name": "Optix",
         "location": "Chile",
-        "logo": "https://liquipedia.net/commons/images/thumb/d/d0/Movistar_Optix_lightmode.png/600px-Movistar_Optix_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Optix.png",
         "region": "Category:Latin America South",
         "totalWinnings": "$2,150",
         "achievements": [
@@ -13038,7 +13038,7 @@
     {
         "name": "Rebirth Esports",
         "location": "Chile",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/2f/Rebirth_Esports_2020_allmode.png/600px-Rebirth_Esports_2020_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Rebirth_Esports.png",
         "region": "Category:Latin America South",
         "totalWinnings": "$4,531",
         "achievements": [
@@ -13108,7 +13108,7 @@
     {
         "name": "3BL Esports",
         "location": "Egypt",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/cd/3BL_Esports_allmode.png/600px-3BL_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/3BL_Esports.png",
         "region": "Middle East",
         "totalWinnings": "$7,209",
         "achievements": [
@@ -13178,7 +13178,7 @@
     {
         "name": "Geekay Esports",
         "location": "United Arab Emirates",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/ec/Geekay_Esports_allmode.png/600px-Geekay_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Geekay_Esports.png",
         "region": "Middle East",
         "totalWinnings": "$6,548",
         "achievements": [
@@ -13218,7 +13218,7 @@
     {
         "name": "NASR Esports",
         "location": "United Arab Emirates",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/fd/NASR_Esports_allmode.png/600px-NASR_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/NASR_Esports.png",
         "region": "Middle East",
         "totalWinnings": "$29,300",
         "achievements": [
@@ -13288,7 +13288,7 @@
     {
         "name": "Piercer Esports",
         "location": "Bahrain",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/0e/Piercer_Esports_allmode.png/600px-Piercer_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Piercer_Esports.png",
         "region": "Middle East",
         "totalWinnings": "$27,479",
         "achievements": [
@@ -13358,7 +13358,7 @@
     {
         "name": "QLASH Egypt",
         "location": "Egypt",
-        "logo": "https://liquipedia.net/commons/images/thumb/4/46/QLASH_allmode_full.png/600px-QLASH_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/QLASH_Egypt.png",
         "region": "Middle East",
         "totalWinnings": "$1,318",
         "achievements": [
@@ -13398,7 +13398,7 @@
     {
         "name": "Team Falcons",
         "location": "Saudi Arabia",
-        "logo": "https://liquipedia.net/commons/images/thumb/b/b3/Falcons_Esports_allmode_full.png/600px-Falcons_Esports_allmode_full.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Falcons.png",
         "region": "Middle East",
         "totalWinnings": "$6,250",
         "achievements": [
@@ -13432,7 +13432,7 @@
     {
         "name": "Team RA'AD",
         "location": "Africa",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/20/Team_RA%27AD_allmode.png/600px-Team_RA%27AD_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_RA%27AD.png",
         "region": "Middle East",
         "totalWinnings": "$42,953",
         "achievements": [
@@ -13502,7 +13502,7 @@
     {
         "name": "XPLDZ",
         "location": "United Arab Emirates",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/93/XPLDZ_allmode.png/600px-XPLDZ_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/XPLDZ.png",
         "region": "Middle East",
         "totalWinnings": "$6,005",
         "achievements": [
@@ -13524,7 +13524,7 @@
     {
         "name": "YaLLa Esports",
         "location": "United Arab Emirates",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/22/YaLLa_Esports_allmode.png/600px-YaLLa_Esports_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/YaLLa_Esports.png",
         "region": "Middle East",
         "totalWinnings": "$16,550",
         "achievements": [
@@ -13594,7 +13594,7 @@
     {
         "name": "EDward Gaming",
         "location": "China",
-        "logo": "https://liquipedia.net/commons/images/thumb/9/98/EDward_Gaming_2017_lightmode.png/600px-EDward_Gaming_2017_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/EDward_Gaming.png",
         "region": "China",
         "totalWinnings": "$7,260",
         "achievements": [],
@@ -13603,7 +13603,7 @@
     {
         "name": "KONE",
         "location": "China",
-        "logo": "https://liquipedia.net/commons/images/e/ef/KONE_2022_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/KONE.png",
         "region": "China",
         "totalWinnings": "$6,034",
         "achievements": [],
@@ -13612,7 +13612,7 @@
     {
         "name": "Royal Never Give Up",
         "location": "China",
-        "logo": "https://liquipedia.net/commons/images/thumb/7/79/Royal_Never_Give_Up_allmode.png/600px-Royal_Never_Give_Up_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Royal_Never_Give_Up.png",
         "region": "China",
         "totalWinnings": "$14,959",
         "achievements": [],
@@ -13621,7 +13621,7 @@
     {
         "name": "Tales of Eastern",
         "location": "China",
-        "logo": "https://liquipedia.net/commons/images/thumb/c/c3/Tales_of_Eastern.png/600px-Tales_of_Eastern.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Tales_of_Eastern.png",
         "region": "China",
         "totalWinnings": "$13,519",
         "achievements": [],
@@ -13630,7 +13630,7 @@
     {
         "name": "Team Weibo",
         "location": "China",
-        "logo": "https://liquipedia.net/commons/images/thumb/2/20/Weibo_allmode.png/600px-Weibo_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Team_Weibo.png",
         "region": "China",
         "totalWinnings": "$4,108",
         "achievements": [
@@ -13700,7 +13700,7 @@
     {
         "name": "Totoro Gaming",
         "location": "China",
-        "logo": "https://liquipedia.net/commons/images/thumb/f/f9/Totoro_gaming_November2020_logo.png/600px-Totoro_gaming_November2020_logo.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Totoro_Gaming.png",
         "region": "China",
         "totalWinnings": "$16,837",
         "achievements": [],
@@ -13709,7 +13709,7 @@
     {
         "name": "Dire Wolves",
         "location": "Australia",
-        "logo": "https://liquipedia.net/commons/images/thumb/8/88/Dire_Wolves_2020_Logo.png/600px-Dire_Wolves_2020_Logo.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Dire_Wolves.png",
         "region": "Oceania",
         "totalWinnings": "$1,897",
         "achievements": [
@@ -13779,7 +13779,7 @@
     {
         "name": "FURY",
         "location": "Australia",
-        "logo": "https://liquipedia.net/commons/images/thumb/0/05/FURY_2020_allmode.png/600px-FURY_2020_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/FURY.png",
         "region": "Oceania",
         "totalWinnings": "$363",
         "achievements": [
@@ -13801,7 +13801,7 @@
     {
         "name": "Mindfreak",
         "location": "Australia",
-        "logo": "https://liquipedia.net/commons/images/thumb/1/10/Mindfreak_allmode.png/600px-Mindfreak_allmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/Mindfreak.png",
         "region": "Oceania",
         "totalWinnings": "$11,832",
         "achievements": [
@@ -13871,7 +13871,7 @@
     {
         "name": "ORDER",
         "location": "Australia",
-        "logo": "https://liquipedia.net/commons/images/thumb/3/37/ORDER_2022_full_lightmode.png/600px-ORDER_2022_full_lightmode.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/ORDER.png",
         "region": "Oceania",
         "totalWinnings": "$35,831",
         "achievements": [
@@ -13941,7 +13941,7 @@
     {
         "name": "PEACE",
         "location": "Australia",
-        "logo": "https://liquipedia.net/commons/images/thumb/e/e0/PEACE_OCE_Logo.png/600px-PEACE_OCE_Logo.png",
+        "logo": "https://toc-web-scraping.github.io/scraping/data/images/teams/PEACE.png",
         "region": "Oceania",
         "totalWinnings": "$5,066",
         "achievements": [
