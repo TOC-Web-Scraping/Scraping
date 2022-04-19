@@ -123,8 +123,8 @@ if __name__ == "__main__":
     # with open('data/matchs.json', mode='r', encoding='utf-8') as j:
     #     matchs = json.load(j)
     # print(len(matchs))
-    # with open('data/matchs1.json', mode='r', encoding='utf-8') as j:
-    #     matchs1 = json.load(j)
+    with open('data/matchs1.json', mode='r', encoding='utf-8') as j:
+        matchs1 = json.load(j)
     with open('data/matchs2.json', mode='r', encoding='utf-8') as j:
         matchs2 = json.load(j)
     with open('data/matchs3.json', mode='r', encoding='utf-8') as j:
@@ -135,7 +135,7 @@ if __name__ == "__main__":
         matchs5 = json.load(j)
 
     matchs = []
-    # matchs.extend(matchs1)
+    matchs.extend(matchs1)
     matchs.extend(matchs2)
     matchs.extend(matchs3)
     matchs.extend(matchs4)
