@@ -5,6 +5,7 @@ from util.sleep import sleep_interval
 from request.pool import ProxyPool, UserAgentPool
 import json
 
+
 PATTERN = {
     "next_page_pattern": r'<div class="gallerytext">.*?<a href="(?P<next_pages>.*?)".*?</div>',
 
@@ -118,3 +119,35 @@ class AgentScraper:
 
     def get_data(self):
         return self.data
+
+
+
+''' download image from liquidpedia'''
+
+# import json
+# import time
+# import urllib.request
+# def loadImage(url, filename):
+#     urllib.request.urlretrieve(url, filename)
+
+# if __name__ == "__main__":
+#     with open("../data/agents.json", mode='r', encoding='utf-8') as j:
+#         agents = json.load(j)
+#     agentCount=0
+#     for agent in agents:
+#         print(agent["name"])
+#         if(agent["imageUrl"] != ""):
+#             loadImage("https://liquipedia.net"+agent["imageUrl"], "../data/images/agents/"+str(agentCount)+".png")
+#             agent["imageUrl"]="/data/images/agents/"+str(agentCount)+".png"
+#             time.sleep(3)
+#         abilityCount=0
+#         for ability in agent["abilities"]:
+#             print(ability["name"])
+#             if(ability["imageUrl"] != ""):
+#                 loadImage("https://liquipedia.net"+ability["imageUrl"], "../data/images/agents/"+str(agentCount)+str(abilityCount)+".png")
+#                 ability["imageUrl"]="/data/images/agents/"+str(agentCount)+str(abilityCount)+".png"
+#                 time.sleep(3)
+#                 abilityCount+=1
+#         agentCount+=1
+#     with open("../data/agents2.json", "w") as f:
+#         json.dump(agents, f, indent=4)
