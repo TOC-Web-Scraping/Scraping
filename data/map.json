@@ -1,1 +1,51 @@
-b'{\n     "Fracture": {\n          "Country": "United_States",\n          "Release Date": "2021-09-08",\n          "Bomb Sites": "2",\n          "Teloporters": "0",\n          "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"\n     },\n     "Bind": {\n          "Country": "United_States",\n          "Release Date": "2021-09-08",\n          "Bomb Sites": "2",\n          "Teloporters": "0",\n          "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"\n     },\n     "Split": {\n          "Country": "United_States",\n          "Release Date": "2021-09-08",\n          "Bomb Sites": "2",\n          "Teloporters": "0",\n          "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"\n     },\n     "Icebox": {\n          "Country": "United_States",\n          "Release Date": "2021-09-08",\n          "Bomb Sites": "2",\n          "Teloporters": "0",\n          "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"\n     },\n     "Breeze": {\n          "Country": "United_States",\n          "Release Date": "2021-09-08",\n          "Bomb Sites": "2",\n          "Teloporters": "0",\n          "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"\n     },\n     "Ascent": {\n          "Country": "United_States",\n          "Release Date": "2021-09-08",\n          "Bomb Sites": "2",\n          "Teloporters": "0",\n          "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"\n     },\n     "Haven": {\n          "Country": "United_States",\n          "Release Date": "2021-09-08",\n          "Bomb Sites": "2",\n          "Teloporters": "0",\n          "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"\n     }\n}'
+{
+      "Fracture": {
+            "Country": "United_States",
+            "Release Date": "2021-09-08",
+            "Bomb Sites": "2",
+            "Teloporters": "0",
+            "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+      },
+      "Bind": {
+            "Country": "United_States",
+            "Release Date": "2021-09-08",
+            "Bomb Sites": "2",
+            "Teloporters": "0",
+            "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+      },
+      "Split": {
+            "Country": "United_States",
+            "Release Date": "2021-09-08",
+            "Bomb Sites": "2",
+            "Teloporters": "0",
+            "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+      },
+      "Icebox": {
+            "Country": "United_States",
+            "Release Date": "2021-09-08",
+            "Bomb Sites": "2",
+            "Teloporters": "0",
+            "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+      },
+      "Breeze": {
+            "Country": "United_States",
+            "Release Date": "2021-09-08",
+            "Bomb Sites": "2",
+            "Teloporters": "0",
+            "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+      },
+      "Ascent": {
+            "Country": "United_States",
+            "Release Date": "2021-09-08",
+            "Bomb Sites": "2",
+            "Teloporters": "0",
+            "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+      },
+      "Haven": {
+            "Country": "United_States",
+            "Release Date": "2021-09-08",
+            "Bomb Sites": "2",
+            "Teloporters": "0",
+            "Image Url": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+      }
+}
