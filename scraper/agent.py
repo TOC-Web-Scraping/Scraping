@@ -134,18 +134,19 @@ class AgentScraper:
 #     with open("../data/agents.json", mode='r', encoding='utf-8') as j:
 #         agents = json.load(j)
 #     agentCount=0
+#     agentName="abcdefghijklmnopqrstuvwxyz"
 #     for agent in agents:
 #         print(agent["name"])
 #         if(agent["imageUrl"] != ""):
-#             loadImage("https://liquipedia.net"+agent["imageUrl"], "../data/images/agents/"+str(agentCount)+".png")
-#             agent["imageUrl"]="/data/images/agents/"+str(agentCount)+".png"
+#             loadImage("https://liquipedia.net"+agent["imageUrl"], "../data/images/agents/"+agentName[agentCount]+".png")
+#             agent["imageUrl"]="/data/images/agents/"+agentName[agentCount]+".png"
 #             time.sleep(3)
 #         abilityCount=0
 #         for ability in agent["abilities"]:
 #             print(ability["name"])
 #             if(ability["imageUrl"] != ""):
-#                 loadImage("https://liquipedia.net"+ability["imageUrl"], "../data/images/agents/"+str(agentCount)+str(abilityCount)+".png")
-#                 ability["imageUrl"]="/data/images/agents/"+str(agentCount)+str(abilityCount)+".png"
+#                 loadImage("https://liquipedia.net"+ability["imageUrl"], "../data/images/agents/"+agentName[agentCount]+str(abilityCount)+".png")
+#                 ability["imageUrl"]="/data/images/agents/"+agentName[agentCount]+str(abilityCount)+".png"
 #                 time.sleep(3)
 #                 abilityCount+=1
 #         agentCount+=1

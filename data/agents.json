@@ -1,14 +1,14 @@
 [
     {
         "name": "Astra",
-        "imageUrl": "/data/images/agents/0.png",
+        "imageUrl": "/data/images/agents/a.png",
         "country": "Ghana",
         "role": "Controller",
         "releaseDate": "2021-03-02",
         "abilities": [
             {
                 "name": "Star",
-                "imageUrl": "/data/images/agents/00.png",
+                "imageUrl": "/data/images/agents/a0.png",
                 "type": "Passive",
                 "topDescription": "<b>Default diameter:</b> 10m\n<br /><b>Recall cooldown:</b> 25s\n<b> </b>\n",
                 "bottomDescription": "<b>Activate</b> (X) to enter Astral Form where you can place Stars with <b>Primary Fire</b>. Stars can be reactivated later, transforming them into a Nova Pulse, Nebula, or Gravity Well.",
@@ -16,7 +16,7 @@
             },
             {
                 "name": "Nova Pulse",
-                "imageUrl": "/data/images/agents/01.png",
+                "imageUrl": "/data/images/agents/a1.png",
                 "type": "Basic",
                 "topDescription": "<b>Cast time:</b> 1.2s\n<br /><b>Stun duration:</b> 4s\n<br /><b>Cooldown:</b> 45s\n<b> </b>\n",
                 "bottomDescription": "<b>Activate</b> a Star to detonate a Nova Pulse. The Nova Pulse charges briefly then strikes, concussing all players in its area.",
@@ -24,7 +24,7 @@
             },
             {
                 "name": "Gravity Well",
-                "imageUrl": "/data/images/agents/02.png",
+                "imageUrl": "/data/images/agents/a2.png",
                 "type": "Basic",
                 "topDescription": "<b>Cast time:</b> 0.3s\n<br /><b>Gravity duration:</b> 2.4s\n<br /><b>Cooldown:</b> 45s\n<b> </b>\n",
                 "bottomDescription": "<b>Activate</b> a Star to form a Gravity Well. Players in the area are pulled toward the center before it explodes, making all players still trapped inside fragile.",
@@ -32,14 +32,14 @@
             },
             {
                 "name": "Nebula",
-                "imageUrl": "/data/images/agents/03.png",
+                "imageUrl": "/data/images/agents/a3.png",
                 "type": "Signature",
                 "topDescription": "<b>Full duration:</b> 15s\n<br /><b>Dissipate duration:</b> 1.5s\n<br /><b>Charges:</b> 2\n<br /><b>Cooldown:</b> 25s\n<b> </b>\n",
                 "bottomDescription": "<b>Activate</b> a Star to transform it into a Nebula (smoke). Use (F) on a Star to Dissipate it, returning the star to be placed in a new location after a delay. Dissipate briefly forms a fake Nebula at the Star\u2019s location before returning."
             },
             {
                 "name": "Astral Form / Cosmic Divide",
-                "imageUrl": "/data/images/agents/04.png",
+                "imageUrl": "/data/images/agents/a4.png",
                 "type": "Ultimate",
                 "topDescription": "",
                 "bottomDescription": "<b>Activate</b> (X) to enter Astral Form where you can place Stars with <b>Primary Fire</b>. Stars can be reactivated later, transforming them into a Nova Pulse, Nebula, or Gravity Well. When Cosmic Divide is charged, use <b>Secondary Fire</b> in Astral Form to begin aiming it, then <b>Primary Fire</b> to select two locations. An infinite Cosmic Divide connects the two points you select. Cosmic Divide blocks bullets and heavily dampens audio.",
@@ -49,14 +49,14 @@
     },
     {
         "name": "Breach",
-        "imageUrl": "/data/images/agents/1.png",
+        "imageUrl": "/data/images/agents/b.png",
         "country": "Sweden",
         "role": "Initiator",
         "releaseDate": "2020-04-07",
         "abilities": [
             {
                 "name": "Aftershock",
-                "imageUrl": "/data/images/agents/10.png",
+                "imageUrl": "/data/images/agents/b0.png",
                 "type": "Basic",
                 "topDescription": "<br /><b>Time to explode:</b> 2.5s\n",
                 "bottomDescription": "<b>Equip</b> a fusion charge.<br /><b>Fire</b> the charge to set a slow-acting burst through the wall. The three bursts does 60 damage each to anyone caught in its area. dazing all players in its zone and in a line up in the zone.",
@@ -64,7 +64,7 @@
             },
             {
                 "name": "Flashpoint",
-                "imageUrl": "/data/images/agents/11.png",
+                "imageUrl": "/data/images/agents/b1.png",
                 "type": "Basic",
                 "topDescription": "<br /><b>Max blind time:</b> 2s\n<br /><b>Windup delay:</b> 0.5s\n",
                 "bottomDescription": "<b>Equip</b> a blinding charge.<br /><b>Fire</b> the charge to set a fast-acting burst through the wall. The charge detonates to blind all players looking at it.",
@@ -72,7 +72,7 @@
             },
             {
                 "name": "Fault Line",
-                "imageUrl": "/data/images/agents/12.png",
+                "imageUrl": "/data/images/agents/b2.png",
                 "type": "Signature",
                 "topDescription": "<b>Concussion time:</b> 3s\n",
                 "bottomDescription": "<b>Equip</b> a seismic blast.<br /><b>Release</b> to set off the quake.",
@@ -80,7 +80,7 @@
             },
             {
                 "name": "Rolling Thunder",
-                "imageUrl": "/data/images/agents/13.png",
+                "imageUrl": "/data/images/agents/b3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Concussion time:</b> 6s\n",
                 "bottomDescription": "<b>Equip</b> a Seismic Charge.<br /><b>Fire</b> to send a cascading quake through all the terrain in a large cone. The quake dazes and kocks up anyone caught in it.",
@@ -90,14 +90,14 @@
     },
     {
         "name": "Brimstone",
-        "imageUrl": "/data/images/agents/2.png",
+        "imageUrl": "/data/images/agents/c.png",
         "country": "United States",
         "role": "Controller",
         "releaseDate": "2020-04-07",
         "abilities": [
             {
                 "name": "Stim Beacon",
-                "imageUrl": "/data/images/agents/20.png",
+                "imageUrl": "/data/images/agents/c0.png",
                 "type": "Basic",
                 "topDescription": "<b>Buff duration:</b> 4s\n<b>Beacon duration:</b> 12s\n",
                 "bottomDescription": "<b>Equip</b> to toss the stim beacon in front of <i>Brimstone</i>. Upon landing, the stim beacon will create a field that grants players <b>RapidFire</b>. The stim beacon grants also a rapid 15% speed boost.",
@@ -105,7 +105,7 @@
             },
             {
                 "name": "Incendiary",
-                "imageUrl": "/data/images/agents/21.png",
+                "imageUrl": "/data/images/agents/c1.png",
                 "type": "Basic",
                 "topDescription": "<b>Duration:</b> 8s\n",
                 "bottomDescription": "<b>Equip</b> an incendiary grenade launcher.<br /><b>Fire</b> to launch a grenade that detonates as it comes to rest on the floor, creating a lingering fire zone that damages players within the zone.",
@@ -113,7 +113,7 @@
             },
             {
                 "name": "Sky Smoke",
-                "imageUrl": "/data/images/agents/22.png",
+                "imageUrl": "/data/images/agents/c2.png",
                 "type": "Signature",
                 "topDescription": "<b>Smoke duration:</b> 19.25s\n<b>Smoke diameter:</b> 10m\n<b>Tablet range:</b> 55m\n",
                 "bottomDescription": "<b>Equip</b> a tactical map.<br /><b>Fire'</b> to set locatons where Brimstone where <b>Brimstone's</b>smoke clouds will land.<br /><b>Alternate fire</b> to confirm, launching long-lasting smoke clouds that block vision in the selected area.",
@@ -121,7 +121,7 @@
             },
             {
                 "name": "Orbital Strike",
-                "imageUrl": "/data/images/agents/23.png",
+                "imageUrl": "/data/images/agents/c3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Cast time:</b> 2s\n<br /><b>Ult duration:</b> 4s\n",
                 "bottomDescription": "<b>Equip</b> a tactical map.<br /><b>Fire</b> to launch a lingering orbital strike laser at the slected location, dealing high damage-over-time to players caught in the selected area.",
@@ -131,14 +131,14 @@
     },
     {
         "name": "Chamber",
-        "imageUrl": "/data/images/agents/3.png",
+        "imageUrl": "/data/images/agents/d.png",
         "country": "France",
         "role": "Sentinel",
         "releaseDate": "2021-11-16",
         "abilities": [
             {
                 "name": "Trademark",
-                "imageUrl": "/data/images/agents/30.png",
+                "imageUrl": "/data/images/agents/d0.png",
                 "type": "Basic",
                 "topDescription": "",
                 "bottomDescription": "<b>PLACE</b> a trap that scans for enemies. When a visible enemy comes in range, the trap counts down and then destabilizes the terrain around them, creating a lingering field that slows players caught inside of it.",
@@ -146,7 +146,7 @@
             },
             {
                 "name": "Headhunter",
-                "imageUrl": "/data/images/agents/31.png",
+                "imageUrl": "/data/images/agents/d1.png",
                 "type": "Basic",
                 "topDescription": "<b>Bullets:</b> 8<br />\n<b>Damage</b> 159 Head, 55 Body, 46 Legs\n",
                 "bottomDescription": "<b>ACTIVATE</b> to equip a heavy pistol. <b>ALT FIRE</b> with the pistol equipped to aim down sights.",
@@ -154,7 +154,7 @@
             },
             {
                 "name": "Rendezvous",
-                "imageUrl": "/data/images/agents/32.png",
+                "imageUrl": "/data/images/agents/d2.png",
                 "type": "Signature",
                 "topDescription": "<b>Cooldown:</b> 15s\n",
                 "bottomDescription": "<b>PLACE</b> two teleport anchors. While on the ground and in range of an anchor, <b>REACTIVATE</b> to quickly teleport to the other anchor. Anchors can be picked up to be REDEPLOYED.",
@@ -162,7 +162,7 @@
             },
             {
                 "name": "Tour De Force",
-                "imageUrl": "/data/images/agents/33.png",
+                "imageUrl": "/data/images/agents/d3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Bullets:</b> 5\n",
                 "bottomDescription": "<b>ACTIVATE</b> to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit. Killing an enemy creates a lingering field that slows players caught inside of it.",
@@ -172,14 +172,14 @@
     },
     {
         "name": "Cypher",
-        "imageUrl": "/data/images/agents/4.png",
+        "imageUrl": "/data/images/agents/e.png",
         "country": "Morocco",
         "role": "Sentinel",
         "releaseDate": "2020-04-07",
         "abilities": [
             {
                 "name": "Trapwire",
-                "imageUrl": "/data/images/agents/40.png",
+                "imageUrl": "/data/images/agents/e0.png",
                 "type": "Basic",
                 "topDescription": "",
                 "bottomDescription": "<b>Equip</b> a trapwire.<br /><b>Fire</b> to place a destructible and cover tripwire at the targeted location, creating a line that spans between the placed location and the wall opposite. Enemy players who cross a tripwire will be tethered, revealed and dazed after a short period if they do not destroy the device in time. This ability can be picked up to be <b>redeployed</b>.",
@@ -187,7 +187,7 @@
             },
             {
                 "name": "Cyber Cage",
-                "imageUrl": "/data/images/agents/41.png",
+                "imageUrl": "/data/images/agents/e1.png",
                 "type": "Basic",
                 "topDescription": "<b>Duration:</b> 7sec\n",
                 "bottomDescription": "<b>Equip</b> a cyber cage.<br /><b>Fire</b> to toss the cyber cage in front of <i>Cypher</i>.<br /><b>Activate</b> to create a zone that blocks vision and creates a sound when enemy's enter it. ( Can be picked up during buy phase.)",
@@ -195,7 +195,7 @@
             },
             {
                 "name": "Spycam",
-                "imageUrl": "/data/images/agents/42.png",
+                "imageUrl": "/data/images/agents/e2.png",
                 "type": "Signature",
                 "topDescription": "<b>Pickup CD:</b> 15s<br /><b>Death CD:</b> 45s\n",
                 "bottomDescription": "<b>Equip</b> a spycam.<br /><b>Fire</b> to place the spycam at the targeted location.<br /><b>Re-use</b> this ability to take control of the camera's view. While in control of the camera.<br /><b>Fire</b> to shoot a marking dart. This dart will reveal the location of any player struck by the dart.",
@@ -203,7 +203,7 @@
             },
             {
                 "name": "Neural Theft",
-                "imageUrl": "/data/images/agents/43.png",
+                "imageUrl": "/data/images/agents/e3.png",
                 "type": "Ultimate",
                 "topDescription": "",
                 "bottomDescription": "<b>Instantly</b> use on a dead enemy player in your crosshairs to reveal the location of all living enemy players.",
@@ -213,14 +213,14 @@
     },
     {
         "name": "Jett",
-        "imageUrl": "/data/images/agents/5.png",
+        "imageUrl": "/data/images/agents/f.png",
         "country": "South Korea",
         "role": "Duelist",
         "releaseDate": "2020-04-07",
         "abilities": [
             {
                 "name": "Cloudburst",
-                "imageUrl": "/data/images/agents/50.png",
+                "imageUrl": "/data/images/agents/f0.png",
                 "type": "Basic",
                 "topDescription": "<b>Smoke duration:</b> 4.5s\n",
                 "bottomDescription": "<b>Instantly</b> throw your projectile that expands into a brief vision-blocking cloud on impact with a surface.<br /><b>Hold</b> the ability key to curve the smoke in the direction of your crosshair.",
@@ -228,7 +228,7 @@
             },
             {
                 "name": "Updraft",
-                "imageUrl": "/data/images/agents/51.png",
+                "imageUrl": "/data/images/agents/f1.png",
                 "type": "Basic",
                 "topDescription": "",
                 "bottomDescription": "<b>Instantly</b> propel <i>Jett</i> high into the air.",
@@ -236,7 +236,7 @@
             },
             {
                 "name": "Tailwind",
-                "imageUrl": "/data/images/agents/52.png",
+                "imageUrl": "/data/images/agents/f2.png",
                 "type": "Signature",
                 "topDescription": "",
                 "bottomDescription": "<b>Instantly</b> propel <i>Jett</i> in the direction she is moving. If <i>Jett</i> is standing still, she will propel forward.",
@@ -244,7 +244,7 @@
             },
             {
                 "name": "Blade Storm",
-                "imageUrl": "/data/images/agents/53.png",
+                "imageUrl": "/data/images/agents/f3.png",
                 "type": "Ultimate",
                 "topDescription": "",
                 "bottomDescription": "<b>Equip</b> a set of highly accurate throwing knives that recharge on killing an opponent.<br /><b>Fire</b> to throw a single knife at your target.<br /><b>Alternate fire</b> to throw all remaining daggers at your target. Right-click/Alternate Fire kills no longer recharge Jett\u2019s kunai",
@@ -254,14 +254,14 @@
     },
     {
         "name": "KAY/O",
-        "imageUrl": "/data/images/agents/6.png",
+        "imageUrl": "/data/images/agents/g.png",
         "country": null,
         "role": "Initiator",
         "releaseDate": "2021-06-22",
         "abilities": [
             {
                 "name": "FRAG/ment",
-                "imageUrl": "/data/images/agents/60.png",
+                "imageUrl": "/data/images/agents/g0.png",
                 "type": "Basic",
                 "topDescription": "",
                 "bottomDescription": "<b>EQUIP</b> an explosive fragment. <b>FIRE</b> to throw. The fragment sticks to the floor and explodes multiple times, dealing near lethal damage at the center with each explosion.",
@@ -269,7 +269,7 @@
             },
             {
                 "name": "FLASH/drive",
-                "imageUrl": "/data/images/agents/61.png",
+                "imageUrl": "/data/images/agents/g1.png",
                 "type": "Basic",
                 "topDescription": "",
                 "bottomDescription": "<b>EQUIP</b> a flash grenade. <b>FIRE</b> to throw. The flash grenade explodes after a short fuse, blinding anyone in line of sight.<br /><b>Right</b> clicking the flashbang, throws a charged flash, causing it to only have to cook for 1 second, as opposed to <b>left</b> click throwing a flash that cooks in 1.6 seconds.",
@@ -277,7 +277,7 @@
             },
             {
                 "name": "ZERO/point",
-                "imageUrl": "/data/images/agents/62.png",
+                "imageUrl": "/data/images/agents/g2.png",
                 "type": "Signature",
                 "topDescription": "",
                 "bottomDescription": "<b>EQUIP</b> a suppression blade. <b>FIRE</b> to throw. The blade sticks to the first surface it hits, winds up, and suppresses anyone in the radius of the explosion.",
@@ -285,7 +285,7 @@
             },
             {
                 "name": "NULL/cmd",
-                "imageUrl": "/data/images/agents/63.png",
+                "imageUrl": "/data/images/agents/g3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Ult duration:</b> 15s\n",
                 "bottomDescription": "<b>INSTANTLY</b> overload with polarized radianite energy that empowers <b>KAY/O</b> and causes large energy pulses to emit from his location. Enemies hit with these pulses are suppressed for a short duration.<br />While overloaded, <b>KAY/O</b> gains combat stim.<br />If <b>KAY/O</b> is killed while overloaded, he is downed and enters a destabilized state, allowing allies to stabilize his core and revive him.",
@@ -295,14 +295,14 @@
     },
     {
         "name": "Killjoy",
-        "imageUrl": "/data/images/agents/7.png",
+        "imageUrl": "/data/images/agents/h.png",
         "country": "Germany",
         "role": "Sentinel",
         "releaseDate": "2020-08-05",
         "abilities": [
             {
                 "name": "Alarmbot",
-                "imageUrl": "/data/images/agents/70.png",
+                "imageUrl": "/data/images/agents/h0.png",
                 "type": "Basic",
                 "topDescription": "<b>Detection radius:</b> 5m\n<b>Invisible until:</b> 7m\n<b>Pickup CD:</b> 20s\n",
                 "bottomDescription": "<b>Equip</b> a covert Alarmbot. <b>Fire</b> to deploy a bot that hunts down enemies that get in range. After reaching its target, the bot explodes applying the Vulnerable effect. <b>Hold equip</b> to recall a deployed bot.",
@@ -310,7 +310,7 @@
             },
             {
                 "name": "Nanoswarm",
-                "imageUrl": "/data/images/agents/71.png",
+                "imageUrl": "/data/images/agents/h1.png",
                 "type": "Basic",
                 "topDescription": "<b>Dmg:</b> 45 DPS\n<br /><b>Invisible until:</b> 3.5m\n<br /><b>Duration:</b> 0.4d + 4.0s\n",
                 "bottomDescription": "<b>Equip</b> a Nanoswarm grenade. <b>Fire</b> to throw the grenade. Upon landing, the Nanoswarm goes covert. <b>Activate</b> the Nanoswarm to deploy a damaging swarm of nanobots.",
@@ -318,7 +318,7 @@
             },
             {
                 "name": "Turret",
-                "imageUrl": "/data/images/agents/72.png",
+                "imageUrl": "/data/images/agents/h2.png",
                 "type": "Signature",
                 "topDescription": "<b>Dmg:</b> 3~8 HP\n<br /><b>Health:</b> 125 HP\n<b>Pickup CD:</b> 20s<br /><b>Death CD:</b> 45s\n",
                 "bottomDescription": "<b>Equip</b> a Turret. <b>Fire</b> to deploy a turret that fires at enemies in a 180 degree cone. <b>Hold equip</b> to recall the deployed turret.",
@@ -326,7 +326,7 @@
             },
             {
                 "name": "Lockdown",
-                "imageUrl": "/data/images/agents/73.png",
+                "imageUrl": "/data/images/agents/h3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Cast time:</b> 13s\n<br /><b>Debuff:</b> 8s\n",
                 "bottomDescription": "<b>Equip</b> the Lockdown device. <b>Fire</b> to deploy the device. After a long windup, the device Detains all enemies caught in the radius. The device can be destroyed by enemies.",
@@ -336,14 +336,14 @@
     },
     {
         "name": "Neon",
-        "imageUrl": "/data/images/agents/8.png",
+        "imageUrl": "/data/images/agents/i.png",
         "country": "Philippines",
         "role": "Duelist",
         "releaseDate": "2022-01-12",
         "abilities": [
             {
                 "name": "Fast Lane",
-                "imageUrl": "/data/images/agents/80.png",
+                "imageUrl": "/data/images/agents/i0.png",
                 "type": "Basic",
                 "topDescription": "<b>Cast time:</b> 1s",
                 "bottomDescription": "<b>FIRE</b> two energy lines forward on the ground that extend a short distance or until they hit a surface. The lines rise into two walls of static electricity that block vision and damage enemies passing through them.",
@@ -351,7 +351,7 @@
             },
             {
                 "name": "Relay Bolt",
-                "imageUrl": "/data/images/agents/81.png",
+                "imageUrl": "/data/images/agents/i1.png",
                 "type": "Basic",
                 "topDescription": "<b>Stun duration:</b> 3s",
                 "bottomDescription": "<b>INSTANTLY</b> throw an energy bolt that bounces once. Upon hitting each surface, the bolt electrifies the ground below with a concussive blast.",
@@ -359,7 +359,7 @@
             },
             {
                 "name": "High Gear",
-                "imageUrl": "/data/images/agents/82.png",
+                "imageUrl": "/data/images/agents/i2.png",
                 "type": "Signature",
                 "topDescription": "<b>Max duration:</b> 30s",
                 "bottomDescription": "<b>INSTANTLY</b> channel Neon's high power for increased speed. When charged, <b>ALT FIRE</b> to trigger an electric slide. Slide charge resets every two kills.",
@@ -367,7 +367,7 @@
             },
             {
                 "name": "Overdrive",
-                "imageUrl": "/data/images/agents/83.png",
+                "imageUrl": "/data/images/agents/i3.png",
                 "type": "Ultimate",
                 "topDescription": "",
                 "bottomDescription": "Unleash Neon's full power and speed for a short duration. <b>FIRE</b> to channel the power into a deadly lightning beam with high movement accuracy. The duration resets on each kill.",
@@ -377,14 +377,14 @@
     },
     {
         "name": "Omen",
-        "imageUrl": "/data/images/agents/9.png",
+        "imageUrl": "/data/images/agents/j.png",
         "country": null,
         "role": "Controller",
         "releaseDate": "2020-04-07",
         "abilities": [
             {
                 "name": "Shrouded Step",
-                "imageUrl": "/data/images/agents/90.png",
+                "imageUrl": "/data/images/agents/j0.png",
                 "type": "Basic",
                 "topDescription": "<b>TP range:</b> 15m\n<br /><b>Cast time:</b> 1s\n",
                 "bottomDescription": "<b>Equip</b> a shadow walk ability and see its range indicator.<br /><b>Fire</b> to begin a brief channel, then teleport the market location.",
@@ -392,7 +392,7 @@
             },
             {
                 "name": "Paranoia",
-                "imageUrl": "/data/images/agents/91.png",
+                "imageUrl": "/data/images/agents/j1.png",
                 "type": "Basic",
                 "topDescription": "<b>Blind duration:</b> 2.5s\n",
                 "bottomDescription": "<b>Equip</b> a blinding orb.<br /><b>Fire</b> to throw it forward, briefly reducing the vision range and deafening all players it touches. This projectile can pass straight through walls.",
@@ -400,7 +400,7 @@
             },
             {
                 "name": "Dark Cover",
-                "imageUrl": "/data/images/agents/92.png",
+                "imageUrl": "/data/images/agents/j2.png",
                 "type": "Signature",
                 "topDescription": "<b>Smoke duration:</b> 15s\n",
                 "bottomDescription": "<b>Equip</b> a shadow orb and see its range indicator.<br /><b>Press</b> the ability key to throw the shadow orb to the marked location, creaint a long-lasting shadow sphere that blocks vision.<br /><b>Press R</b> to switch the view between the two view types<b></b>\n<br /><b>Hold primary fire</b> while targeting to move the marker further away.<br /><b>Hold secondary fire</b> while targeting to move the marker closer.",
@@ -408,7 +408,7 @@
             },
             {
                 "name": "From the Shadows",
-                "imageUrl": "/data/images/agents/93.png",
+                "imageUrl": "/data/images/agents/j3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Cast time:</b> 4s\n",
                 "bottomDescription": "<b>Equip</b> a tactical map.<br /><b>Fire</b> to begin teleporting to the selected location. While teleporting <i>Omen</i> will appear as a Shade that can be destroyed by an enemy to cancel his teleport.<br /><b>Press</b> the ability key again to cancel the teleport.",
@@ -418,14 +418,14 @@
     },
     {
         "name": "Phoenix",
-        "imageUrl": "/data/images/agents/10.png",
+        "imageUrl": "/data/images/agents/k.png",
         "country": "United Kingdom",
         "role": "Duelist",
         "releaseDate": "2020-04-07",
         "abilities": [
             {
                 "name": "Blaze",
-                "imageUrl": "/data/images/agents/100.png",
+                "imageUrl": "/data/images/agents/k0.png",
                 "type": "Basic",
                 "topDescription": "<b>Maximum heal:</b> 50 HP\n<b>Duration:</b> 8s\n",
                 "bottomDescription": "<b>Equip</b> a flame wall.<br /><b>Fire</b> to create a line of flames that moves forward. Creating a wall of fire that blocks vision and damages players passing through it.<br /><b>Hold fire</b> to bend the wall in the direction of your crosshair.",
@@ -433,7 +433,7 @@
             },
             {
                 "name": "Curveball",
-                "imageUrl": "/data/images/agents/101.png",
+                "imageUrl": "/data/images/agents/k1.png",
                 "type": "Basic",
                 "topDescription": "<b>Blind time:</b> 1.1s\n",
                 "bottomDescription": "<b>Equip</b> a fire orb that takes a curving path and detonates shortly after throwing.<br /><b>Fire</b> to curve the flare orb to the left, detonating and blinding any player who sees the orb.<br /><b>Alternate fire</b> to curve the flare orb to the right.",
@@ -441,7 +441,7 @@
             },
             {
                 "name": "Hot Hands",
-                "imageUrl": "/data/images/agents/102.png",
+                "imageUrl": "/data/images/agents/k2.png",
                 "type": "Signature",
                 "topDescription": "<b>Maximum heal:</b> 50 HP\n<b>Duration:</b> 4s\n",
                 "bottomDescription": "<b>Equip</b> a fireball.<br /><b>Fire</b> to throw a fireball that explodes after a set amount of time or upon hitting the ground, creating a lingering fire zone that damages enemies.",
@@ -449,7 +449,7 @@
             },
             {
                 "name": "Run it Back",
-                "imageUrl": "/data/images/agents/103.png",
+                "imageUrl": "/data/images/agents/k3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Duration:</b> 10s\n",
                 "bottomDescription": "<b>Instantly</b> place a marker at <i>Phoenix's</i> location. While this ability is active, dying or allowing the timer to expire will end this ability and bring Phoenix back to his location with full health.",
@@ -459,14 +459,14 @@
     },
     {
         "name": "Raze",
-        "imageUrl": "/data/images/agents/11.png",
+        "imageUrl": "/data/images/agents/l.png",
         "country": "Brazil",
         "role": "Duelist",
         "releaseDate": "2020-04-07",
         "abilities": [
             {
                 "name": "Blast Pack",
-                "imageUrl": "/data/images/agents/110.png",
+                "imageUrl": "/data/images/agents/l0.png",
                 "type": "Basic",
                 "topDescription": "<b>Maximum duration:</b> 5s\n",
                 "bottomDescription": "<b>Instantly</b> throw a Blast Pack that will stick to surfaces.<br /> <b>Re-use</b> the ability after deployment to detonate, damaging and moving anything hit.",
@@ -474,7 +474,7 @@
             },
             {
                 "name": "Paint Shells",
-                "imageUrl": "/data/images/agents/111.png",
+                "imageUrl": "/data/images/agents/l1.png",
                 "type": "Signature",
                 "topDescription": "",
                 "bottomDescription": "<b>Equip</b> a cluster grenade.<br /><b>Fire</b> to throw the grenade, which does damage and creates sub-munitions, each doing damage to anyone in their range.",
@@ -482,7 +482,7 @@
             },
             {
                 "name": "Boom Bot",
-                "imageUrl": "/data/images/agents/112.png",
+                "imageUrl": "/data/images/agents/l2.png",
                 "type": "Basic",
                 "topDescription": "<b>Duration:</b> 10s\n",
                 "bottomDescription": "<b>Equip</b> the Boom Bot.<br /><b>Fire</b> will deploy the bot, causing it to travel in a straight line on the ground, bouncing off walls. The Boom Bot will lock on to any enemies in its frontal cone and chase them, exploding for heavy damage if it reaches them.",
@@ -490,7 +490,7 @@
             },
             {
                 "name": "Showstopper",
-                "imageUrl": "/data/images/agents/113.png",
+                "imageUrl": "/data/images/agents/l3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Ult duration:</b> 10s\n",
                 "bottomDescription": "<b>Equip</b> a rocket launcher.<br /><b>Fire</b> shoots a rocket that does massive area damage on contact with anything.",
@@ -500,14 +500,14 @@
     },
     {
         "name": "Reyna",
-        "imageUrl": "/data/images/agents/12.png",
+        "imageUrl": "/data/images/agents/m.png",
         "country": "Mexico",
         "role": "Duelist",
         "releaseDate": "2020-06-02",
         "abilities": [
             {
                 "name": "Devour",
-                "imageUrl": "/data/images/agents/120.png",
+                "imageUrl": "/data/images/agents/m0.png",
                 "type": "Basic",
                 "topDescription": "",
                 "bottomDescription": "Enemies killed by Reyna leave behind Soul Orbs that last 3 seconds. <b>Instantly</b> consume a nearby soul orb, rapidly healing for a short duration. Health gained through this skill exceeding 100 will decay over time. If Empress is active, this skill will automatically cast and not consume the Soul Orb.",
@@ -515,7 +515,7 @@
             },
             {
                 "name": "Dismiss",
-                "imageUrl": "/data/images/agents/121.png",
+                "imageUrl": "/data/images/agents/m1.png",
                 "type": "Basic",
                 "topDescription": "<b>Duration:</b> 2s\n",
                 "bottomDescription": "<b>Instantly</b> consume a nearby Soul Orb, becoming instangible for a short duration. If Empress is active, also become invisible.",
@@ -523,7 +523,7 @@
             },
             {
                 "name": "Leer",
-                "imageUrl": "/data/images/agents/122.png",
+                "imageUrl": "/data/images/agents/m2.png",
                 "type": "Signature",
                 "topDescription": "<b>Duration:</b> 2s\n",
                 "bottomDescription": "<b>Equip</b> an ethereal, destructible eye. <b>Activate</b> to cast the eye a short distance forward. The eye will nearsight all enemies who look at it.",
@@ -531,7 +531,7 @@
             },
             {
                 "name": "Empress",
-                "imageUrl": "/data/images/agents/123.png",
+                "imageUrl": "/data/images/agents/m3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Duration:</b> 30s\n",
                 "bottomDescription": "<b>Instantly</b> enter a frenzy, increasing firing, equip and reload speed by 15%. Gain infinite charges of Soul Harvest abilities. When an enemy dies to Reyna, or dies within 3 seconds of taking damage from Reyna, the duration is renewed.",
@@ -541,14 +541,14 @@
     },
     {
         "name": "Sage",
-        "imageUrl": "/data/images/agents/13.png",
+        "imageUrl": "/data/images/agents/n.png",
         "country": "China",
         "role": "Sentinel",
         "releaseDate": "2020-04-07",
         "abilities": [
             {
                 "name": "Barrier Orb",
-                "imageUrl": "/data/images/agents/130.png",
+                "imageUrl": "/data/images/agents/n0.png",
                 "type": "Basic",
                 "topDescription": "<b>Initial HP:</b> 400 HP\n<br /><b>Final HP:</b> 800 HP\n<br /><b>Max duration:</b> 40s\n",
                 "bottomDescription": "<b>Equip</b> a barrier orb.<br /><b>Fire</b> places a solid wall.<br /><b>Alternate fire</b> rotates the targeter.",
@@ -556,7 +556,7 @@
             },
             {
                 "name": "Slow Orb",
-                "imageUrl": "/data/images/agents/131.png",
+                "imageUrl": "/data/images/agents/n1.png",
                 "type": "Basic",
                 "topDescription": "<b>Duration:</b> 7s\n",
                 "bottomDescription": "<b>Equip</b> a slow orb.<br /><b>Fire</b> to throw a slowing orb forward that detonates upon landing, creating a lingering field that slows players caught inside of it.",
@@ -564,7 +564,7 @@
             },
             {
                 "name": "Healing Orb",
-                "imageUrl": "/data/images/agents/132.png",
+                "imageUrl": "/data/images/agents/n2.png",
                 "type": "Signature",
                 "topDescription": "<b>Self-heal:</b> 60 HP over 10s\n<b>Team-heal:</b> 60 HP over 5s\n",
                 "bottomDescription": "<b>Equip</b> a healing orb.<br /><b>Fire</b> with your crosshairs over a damaged ally to active a heal-over-time on them.<br /><b>Alternate fire</b> while <i>Sage</i> is damaged to activate a self heal-over-time.",
@@ -572,7 +572,7 @@
             },
             {
                 "name": "Resurrection",
-                "imageUrl": "/data/images/agents/133.png",
+                "imageUrl": "/data/images/agents/n3.png",
                 "type": "Ultimate",
                 "topDescription": "",
                 "bottomDescription": "<b>Equip</b> a resurrection ability.<br /><b>Fire</b> with your crosshairs placed over a dead ally to begin resurrecting them. After a brief channel, the ally will be brought back to life with full health.",
@@ -582,14 +582,14 @@
     },
     {
         "name": "Skye",
-        "imageUrl": "/data/images/agents/14.png",
+        "imageUrl": "/data/images/agents/o.png",
         "country": "Australia",
         "role": "Initiator",
         "releaseDate": "2020-10-27",
         "abilities": [
             {
                 "name": "Regrowth",
-                "imageUrl": "/data/images/agents/140.png",
+                "imageUrl": "/data/images/agents/o0.png",
                 "type": "Basic",
                 "topDescription": "",
                 "bottomDescription": "<b>Equip</b> a healing trinket. <b>Hold fire</b> to channel, healing allies in range and line of sight. Can be used until her healing pool is depleted. Skye cannot heal herself.",
@@ -597,7 +597,7 @@
             },
             {
                 "name": "Trailblazer",
-                "imageUrl": "/data/images/agents/141.png",
+                "imageUrl": "/data/images/agents/o1.png",
                 "type": "Basic",
                 "topDescription": "<br />\n<b>Wolf duration:</b> 6.5s\n<b>Wolf vision range:</b> 15m\n<b>Concussion time:</b> 4s\n",
                 "bottomDescription": "<b>Equip</b> a Tasmanian tiger trinket. <b>Fire</b> to send out and take control of the predator. While in control, <b>Fire</b> to leap forward, exploding in a concussive blast and damaging directly hit enemies.",
@@ -605,7 +605,7 @@
             },
             {
                 "name": "Guiding Light",
-                "imageUrl": "/data/images/agents/142.png",
+                "imageUrl": "/data/images/agents/o2.png",
                 "type": "Signature",
                 "topDescription": "<b>Hawk duration:</b> 2.7s\n",
                 "bottomDescription": "<b>Equip</b> a hawk trinket. <b>Fire</b> to send it forward. <b>Hold fire</b> to guide the hawk in the direction of your crosshair. <b>Re-use</b> while the hawk is in flight to transform it into a flash. If the <b>Re-Use</b> is not pressed the bird will disappear without a flash",
@@ -613,7 +613,7 @@
             },
             {
                 "name": "Seekers",
-                "imageUrl": "/data/images/agents/143.png",
+                "imageUrl": "/data/images/agents/o3.png",
                 "type": "Ultimate <br />",
                 "topDescription": "",
                 "bottomDescription": "<b>Equip</b> a Seekers trinket. <b>Fire</b> to send out three Seekers to track down the three closest enemies. if a Seeker reaches its target, it nearsights them.",
@@ -623,14 +623,14 @@
     },
     {
         "name": "Sova",
-        "imageUrl": "/data/images/agents/15.png",
+        "imageUrl": "/data/images/agents/p.png",
         "country": "Russia",
         "role": "Initiator",
         "releaseDate": "2020-04-07",
         "abilities": [
             {
                 "name": "Owl Drone",
-                "imageUrl": "/data/images/agents/150.png",
+                "imageUrl": "/data/images/agents/p0.png",
                 "type": "Basic",
                 "topDescription": "<b>Fuel duration:</b> 10s\n",
                 "bottomDescription": "<b>Equip</b> an owl drone.<br /><b>Fire</b> to deploy and take control of movement of the drone. While in control of the drone, <b>Fire</b> to shoot a marking dart. This dart will reveal the location of any player struck by the dart.",
@@ -638,7 +638,7 @@
             },
             {
                 "name": "Shock Bolt",
-                "imageUrl": "/data/images/agents/151.png",
+                "imageUrl": "/data/images/agents/p1.png",
                 "type": "Basic",
                 "topDescription": "",
                 "bottomDescription": "<b>Equip</b> a bow with a shock bolt. <b>Fire</b> to send the explosive bolt forward, detonating upon collision and damaging players nearby.<br /><b>Hold fire</b> to extend the range of the projectile. <br /><b>Alternate fire</b> to add up to two bounces to this arrow.",
@@ -646,7 +646,7 @@
             },
             {
                 "name": "Recon Bolt",
-                "imageUrl": "/data/images/agents/152.png",
+                "imageUrl": "/data/images/agents/p2.png",
                 "type": "Signature",
                 "topDescription": "<b>Duration:</b> 5s\n",
                 "bottomDescription": "<b>Equip</b> a bow with recon bolt.<br /> <b>Fire</b> to send the recon bolt forward, activating upon collision and revealing the location of nearby enemies caught in the line of sight of the bolt. Enemies can destroy this bolt. The bolt will scan 3 times before breaking with 1 second between each scan.<br /><b>Hold fire</b> to extend the range of the projectile.<br /><b>Alternate fire</b> to add up to two bounces to this arrow.",
@@ -654,7 +654,7 @@
             },
             {
                 "name": "Hunter's Fury",
-                "imageUrl": "/data/images/agents/153.png",
+                "imageUrl": "/data/images/agents/p3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Ult duration:</b> 6.5s\n",
                 "bottomDescription": "<b>Equip</b> a bow with three long-range, wall-piercing energy blasts. <br />FIRE to release an energy blast in a line in front of <i>Sova</i>. Dealing damage and revealing the location of enemies caught in the line.<br />This ability can be <b>Re-used</b> up to two more times while the ability timer is active.",
@@ -664,14 +664,14 @@
     },
     {
         "name": "Viper",
-        "imageUrl": "/data/images/agents/16.png",
+        "imageUrl": "/data/images/agents/q.png",
         "country": "United States",
         "role": "Controller",
         "releaseDate": "2020-04-07",
         "abilities": [
             {
                 "name": "Snake Bite",
-                "imageUrl": "/data/images/agents/160.png",
+                "imageUrl": "/data/images/agents/q0.png",
                 "type": "Basic",
                 "topDescription": "<b>Debuff duration:</b> 2s\n<br /><b>Molly duration:</b> 5,5s\n",
                 "bottomDescription": "<b>Equip</b> a chemical launcher.<br /><b>Fire</b> to launch a canister that shatters upon hitting the floor, creating a lingering chemical zone that damages agents and inflicts the <b>Vulnerable</b> debuff for 2s, making them receive 200% damage from other sources.",
@@ -679,7 +679,7 @@
             },
             {
                 "name": "Poison Cloud",
-                "imageUrl": "/data/images/agents/161.png",
+                "imageUrl": "/data/images/agents/q1.png",
                 "type": "Basic",
                 "topDescription": "<b>Decay duration:</b> 1.5s\n<br /><b>Max duration:</b> 15s\n",
                 "bottomDescription": "<b>Equip</b> a gas emitter.<br /><b>Fire</b> to throw the emitter that perpetually remains throughout the round.<br /><b>Re-use</b> the ability to create a toxic gas cloud at the cost of fuel. This ability can be <b>re-used</b> more than once and can be picked up to be <b>redeployed</b>. If picked up <b>Poison Cloud</b> can be taken into the next round.",
@@ -687,7 +687,7 @@
             },
             {
                 "name": "Toxic Screen",
-                "imageUrl": "/data/images/agents/162.png",
+                "imageUrl": "/data/images/agents/q2.png",
                 "type": "Signature",
                 "topDescription": "<b>Max duration:</b> 15s\n",
                 "bottomDescription": "<b>Equip</b> a gas emitter launcher.<br /><b>Fire</b> to deploy a long line of gas emitters.<br /><b>Re-use</b> the ability to create a tall wall of toxic gas at the cost of fuel. This ability can be <b>re-used</b> more than once.",
@@ -695,7 +695,7 @@
             },
             {
                 "name": "Viper's Pit",
-                "imageUrl": "/data/images/agents/163.png",
+                "imageUrl": "/data/images/agents/q3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Duration outside pit:</b> 15s\n",
                 "bottomDescription": "<b>Equip</b> a chemical sprayer.<br /><b>Fire</b> to spray a chemical cloud in all directions arond <i>Viper</i>, creating a large cloud that reduces the vision range and maximum health of players inside of it.",
@@ -705,14 +705,14 @@
     },
     {
         "name": "Yoru",
-        "imageUrl": "/data/images/agents/17.png",
+        "imageUrl": "/data/images/agents/r.png",
         "country": "Japan",
         "role": "Duelist",
         "releaseDate": "2021-01-12",
         "abilities": [
             {
                 "name": "Blindside",
-                "imageUrl": "/data/images/agents/170.png",
+                "imageUrl": "/data/images/agents/r0.png",
                 "type": "Basic",
                 "topDescription": "<br /><b>Activation Time:</b> 0.6sec\n<br /><b>Duration:</b> 1.5sec\n",
                 "bottomDescription": "<b>EQUIP</b> to rip an unstable dimensional fragment from reality. <b>FIRE</b> to throw the fragment, activating a flash that winds up once it collides with a hard surface in the world",
@@ -720,7 +720,7 @@
             },
             {
                 "name": "Fakeout",
-                "imageUrl": "/data/images/agents/171.png",
+                "imageUrl": "/data/images/agents/r1.png",
                 "type": "Basic",
                 "topDescription": "<br /><b>Duration:</b> 10sec\n",
                 "bottomDescription": "<b>EQUIP</b> an echo that transforms into a mirror image of Yoru when activated. <b>FIRE</b> to instantly activate the mirror image and send it forward. <b>ALT FIRE</b> to place an inactive echo. <b>USE</b> to transform an inactive echo into a mirror image and send it forward. Mirror images explode in a blinding flash when destroyed by enemies.",
@@ -728,7 +728,7 @@
             },
             {
                 "name": "Gatecrash",
-                "imageUrl": "/data/images/agents/172.png",
+                "imageUrl": "/data/images/agents/r2.png",
                 "type": "Signature",
                 "topDescription": "<br /><b>Reveal distance:</b> 4m\n<br /><b>Duration:</b> 30sec\n",
                 "bottomDescription": "<b>EQUIP</b> to harness a rift tether. <b>FIRE</b> to send the tether out moving forward. <b>ALT FIRE</b> to place a tether in place. <b>ACTIVATE</b> to teleport to the tether's location. <b>USE</b> to trigger a fake teleport.",
@@ -736,7 +736,7 @@
             },
             {
                 "name": "Dimensional Drift",
-                "imageUrl": "/data/images/agents/173.png",
+                "imageUrl": "/data/images/agents/r3.png",
                 "type": "Ultimate",
                 "topDescription": "<b>Duration:</b> 10sec\n",
                 "bottomDescription": "<b>EQUIP</b> a mask that can see between dimensions. <b>FIRE</b> to drift into Yoru's dimension, unable to be affected or seen by enemies from the outside.",
