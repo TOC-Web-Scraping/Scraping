@@ -9,49 +9,49 @@
     },
     {
         "mapName": "Bind",
-        "country": "United_States",
-        "releaseDate": "2021-09-08",
+        "country": "Morocco",
+        "releaseDate": "2020-04-07",
         "bombSites": "2",
-        "teloporters": "0",
+        "teloporters": "2",
         "imageUrl": "/data/images/map/Bind.png"
     },
     {
         "mapName": "Split",
-        "country": "United_States",
-        "releaseDate": "2021-09-08",
+        "country": "Japan",
+        "releaseDate": "2020-04-07",
         "bombSites": "2",
         "teloporters": "0",
         "imageUrl": "/data/images/map/Split.png"
     },
     {
         "mapName": "Icebox",
-        "country": "United_States",
-        "releaseDate": "2021-09-08",
+        "country": "Russia",
+        "releaseDate": "2020-10-13",
         "bombSites": "2",
         "teloporters": "0",
         "imageUrl": "/data/images/map/Icebox.png"
     },
     {
         "mapName": "Breeze",
-        "country": "United_States",
-        "releaseDate": "2021-09-08",
+        "country": "None",
+        "releaseDate": "2021-04-27",
         "bombSites": "2",
         "teloporters": "0",
         "imageUrl": "/data/images/map/Breeze.png"
     },
     {
         "mapName": "Ascent",
-        "country": "United_States",
-        "releaseDate": "2021-09-08",
+        "country": "Italy",
+        "releaseDate": "2020-06-02",
         "bombSites": "2",
         "teloporters": "0",
         "imageUrl": "/data/images/map/Ascent.png"
     },
     {
         "mapName": "Haven",
-        "country": "United_States",
-        "releaseDate": "2021-09-08",
-        "bombSites": "2",
+        "country": "Bhutan",
+        "releaseDate": "2020-04-07",
+        "bombSites": "3",
         "teloporters": "0",
         "imageUrl": "/data/images/map/Haven.png"
     }
