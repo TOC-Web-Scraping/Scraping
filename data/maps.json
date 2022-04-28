@@ -7,10 +7,10 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/FracturePreview1.webp",
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/FracturePreview2.webp",
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/FracturePreview3.webp",
-		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-Fracture_Top_Down_View.png"
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview1.webp",
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview2.webp",
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview3.webp",
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Breeze_Top_Down_View.png"
           ]
      },
      {
@@ -21,9 +21,9 @@
           "bombSites": "2",
           "teleporters": "2",
           "imageUrl": [
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/BindPreview1.png",
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Bind_Market.webp",
-		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-VALORANT_Bind_2022_Top.png"
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/BindPreview1.png",
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Bind_Market.webp",
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Bind_2022_Top.png"
           ]
      },
      {
@@ -34,9 +34,9 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/SplitPreview1.webp",
-		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/SplitPreview2.webp",
-		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-Split_Top_Down_View.png"
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/SplitPreview1.webp",
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/SplitPreview2.jpg",
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Split_Top_Down_View.png"
           ]
      },
      {
@@ -47,9 +47,9 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Icebox_overpass.webp",
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Icebox_ziplines.webp",
-		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-VALORANT_Icebox_2022_Top.png"
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Icebox_overpass.webp",
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Icebox_ziplines.webp",
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Icebox_2022_Top.png"
           ]
      },
      {
@@ -60,11 +60,11 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
-		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Breeze-1.webp",
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Breeze-2.webp",
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Breeze-3.webp",
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Breeze-4.webp",
-		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-Breeze_Top_Down_View.png"
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-1.webp",
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-2.webp",
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-3.webp",
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-4.webp",
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Breeze_Top_Down_View.png"
           ]
      },
      {
@@ -75,9 +75,9 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Ascent1.webp",
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Gameplay_4.webp",
-		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-VALORANT_Ascent_2022_Top.png"
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Ascent1.webp",
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Gameplay_4.webp",
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Ascent_2022_Top.png"
           ]
      },
      {
@@ -88,9 +88,9 @@
           "bombSites": "3",
           "teleporters": "0",
           "imageUrl": [
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Gameplay_1.webp",
-               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Haven_Smokes_Featured.webp",
-		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-Haven_Top_Down_View.png"
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Gameplay_1.webp",
+               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Haven_Smokes_Featured.webp",
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Haven_Top_Down_View.png"
           ]
      }
 ]
