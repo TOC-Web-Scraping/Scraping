@@ -7,10 +7,10 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
-               "https://static.wikia.nocookie.net/valorant/images/7/78/FracturePreview1.jpg/revision/latest/scale-to-width-down/200?cb=20210901174013",
-               "https://static.wikia.nocookie.net/valorant/images/8/8c/FracturePreview2.jpg/revision/latest/scale-to-width-down/200?cb=20210901174015",
-               "https://static.wikia.nocookie.net/valorant/images/6/62/FracturePreview3.jpg/revision/latest/scale-to-width-down/200?cb=20210901174015",
-		"https://liquipedia.net/commons/images/thumb/3/35/Fracture_Top_Down_View.png/675px-Fracture_Top_Down_View.png",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/FracturePreview1.webp",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/FracturePreview2.webp",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/FracturePreview3.webp",
+		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-Fracture_Top_Down_View.png",
           ]
      },
      {
@@ -21,9 +21,9 @@
           "bombSites": "2",
           "teleporters": "2",
           "imageUrl": [
-               "https://static.wikia.nocookie.net/valorant/images/4/4e/Bind.png/revision/latest/scale-to-width-down/185?cb=20200421144107",
-               "https://static.wikia.nocookie.net/valorant/images/f/ff/Bind_Market.png/revision/latest/scale-to-width-down/185?cb=20210619194555",
-		"https://liquipedia.net/commons/images/thumb/0/08/VALORANT_Bind_2022_Top.png/675px-VALORANT_Bind_2022_Top.png",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/BindPreview1.png",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Bind_Market.webp",
+		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-VALORANT_Bind_2022_Top.png",
           ]
      },
      {
@@ -34,10 +34,9 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
-               "https://static.wikia.nocookie.net/valorant/images/4/4d/Split_Old-mid_%28Closed_Beta%29.jpg/revision/latest/scale-to-width-down/185?cb=20200601232030",
-               "https://static.wikia.nocookie.net/valorant/images/4/4e/Split_New-mid_%28Patch_1.0%29.jpg/revision/latest/scale-to-width-down/185?cb=20200601232025",
-               "https://static.wikia.nocookie.net/valorant/images/6/69/Split_map.png/revision/latest/scale-to-width-down/185?cb=20200408124830",
-		"https://liquipedia.net/commons/images/thumb/9/9a/Split_Top_Down_View.png/675px-Split_Top_Down_View.png",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/SplitPreview1.webp",
+		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/SplitPreview2.webp",
+		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-Split_Top_Down_View.png",
           ]
      },
      {
@@ -48,9 +47,9 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
-               "https://static.wikia.nocookie.net/valorant/images/c/c3/Icebox_overpass.png/revision/latest/scale-to-width-down/200?cb=20201006160517",
-               "https://static.wikia.nocookie.net/valorant/images/6/64/Icebox_ziplines.png/revision/latest/scale-to-width-down/200?cb=20201006160157",
-		"https://liquipedia.net/commons/images/thumb/5/5b/VALORANT_Icebox_2022_Top.png/675px-VALORANT_Icebox_2022_Top.png",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Icebox_overpass.webp",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Icebox_ziplines.webp",
+		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-VALORANT_Icebox_2022_Top.png",
           ]
      },
      {
@@ -61,11 +60,11 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
-		"https://static.wikia.nocookie.net/valorant/images/a/a1/Breeze-1.jpg/revision/latest/scale-to-width-down/200?cb=20210422091814",
-               "https://static.wikia.nocookie.net/valorant/images/6/6b/Breeze-2.jpg/revision/latest/scale-to-width-down/200?cb=20210422091821",
-               "https://static.wikia.nocookie.net/valorant/images/8/83/Breeze-3.png/revision/latest/scale-to-width-down/200?cb=20210422091942",
-               "https://static.wikia.nocookie.net/valorant/images/9/9b/Breeze-4.jpg/revision/latest/scale-to-width-down/200?cb=20210422171255",
-		"https://liquipedia.net/commons/images/thumb/6/6a/Breeze_Top_Down_View.png/675px-Breeze_Top_Down_View.png",
+		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Breeze-1.webp",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Breeze-2.webp",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Breeze-3.webp",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Breeze-4.webp",
+		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-Breeze_Top_Down_View.png",
           ]
      },
      {
@@ -76,9 +75,9 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
-               "https://static.wikia.nocookie.net/valorant/images/3/32/Valorant-Ascent.jpg/revision/latest/scale-to-width-down/185?cb=20200510031018",
-               "https://static.wikia.nocookie.net/valorant/images/f/fe/Gameplay_4.jpg/revision/latest/scale-to-width-down/185?cb=20200409115232",
-		"https://liquipedia.net/commons/images/thumb/1/1f/VALORANT_Ascent_2022_Top.png/675px-VALORANT_Ascent_2022_Top.png",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Ascent1.webp",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Gameplay_4.webp",
+		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-VALORANT_Ascent_2022_Top.png",
           ]
      },
      {
@@ -89,9 +88,9 @@
           "bombSites": "3",
           "teleporters": "0",
           "imageUrl": [
-               "https://static.wikia.nocookie.net/valorant/images/5/5c/Gameplay_1.jpeg/revision/latest/scale-to-width-down/185?cb=20200303004227",
-               "https://static.wikia.nocookie.net/valorant/images/5/59/Haven.png/revision/latest/scale-to-width-down/185?cb=20200421143945",
-		"https://liquipedia.net/commons/images/thumb/d/d7/Haven_Top_Down_View.png/675px-Haven_Top_Down_View.png",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Gameplay_1.webp",
+               "https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/Haven_Smokes_Featured.webp",
+		"https://github.com/TOC-Web-Scraping/scraping/blob/main/data/images/maps/675px-Haven_Top_Down_View.png",
           ]
      }
 ]
