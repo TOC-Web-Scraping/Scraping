@@ -7,6 +7,7 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Fracture.png"
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview1.webp",
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview2.webp",
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview3.webp",
@@ -21,6 +22,7 @@
           "bombSites": "2",
           "teleporters": "2",
           "imageUrl": [
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Bind.png"
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/BindPreview1.png",
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Bind_Market.webp",
 		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Bind_2022_Top.png"
@@ -34,6 +36,7 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Split.png"
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/SplitPreview1.webp",
 		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/SplitPreview2.jpg",
 		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Split_Top_Down_View.png"
@@ -47,6 +50,7 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Icebox.png"
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Icebox_overpass.webp",
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Icebox_ziplines.webp",
 		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Icebox_2022_Top.png"
@@ -60,6 +64,7 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze.png"
 		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-1.webp",
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-2.webp",
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-3.webp",
@@ -75,6 +80,7 @@
           "bombSites": "2",
           "teleporters": "0",
           "imageUrl": [
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Ascent.png"
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Ascent1.webp",
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Gameplay_4.webp",
 		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Ascent_2022_Top.png"
@@ -88,6 +94,7 @@
           "bombSites": "3",
           "teleporters": "0",
           "imageUrl": [
+		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Haven.png"
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Gameplay_1.webp",
                "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Haven_Smokes_Featured.webp",
 		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Haven_Top_Down_View.png"
