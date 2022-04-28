@@ -1,58 +1,98 @@
 [
      {
           "mapName": "Fracture",
+          "description": "A top secret research facility split apart by a failed radianite experiment. With defender options as divided as the map, the choice is yours: meet the attackers on their own turf or batten down the hatches to weather the assault.",
           "country": "United_States",
           "releaseDate": "2021-09-08",
           "bombSites": "2",
-          "teloporters": "0",
-          "imageUrl": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+          "teleporters": "0",
+          "imageUrl": [
+               "https://static.wikia.nocookie.net/valorant/images/7/78/FracturePreview1.jpg/revision/latest/scale-to-width-down/200?cb=20210901174013",
+               "https://static.wikia.nocookie.net/valorant/images/8/8c/FracturePreview2.jpg/revision/latest/scale-to-width-down/200?cb=20210901174015",
+               "https://static.wikia.nocookie.net/valorant/images/6/62/FracturePreview3.jpg/revision/latest/scale-to-width-down/200?cb=20210901174015",
+               "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+          ]
      },
      {
           "mapName": "Bind",
-          "country": "United_States",
-          "releaseDate": "2021-09-08",
+          "description": "Two sites. No middle. Gotta pick left or right. What's it going to be then? Both offer direct paths for attackers and a pair of one-way teleporters make it easier to flank.",
+          "country": "Morocco",
+          "releaseDate": "2020-04-07",
           "bombSites": "2",
-          "teloporters": "0",
-          "imageUrl": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+          "teleporters": "2",
+          "imageUrl": [
+               "https://static.wikia.nocookie.net/valorant/images/4/4e/Bind.png/revision/latest/scale-to-width-down/185?cb=20200421144107",
+               "https://static.wikia.nocookie.net/valorant/images/f/ff/Bind_Market.png/revision/latest/scale-to-width-down/185?cb=20210619194555",
+               "/commons/images/thumb/8/80/Bind_Map.png/600px-Bind_Map.png"
+          ]
      },
      {
           "mapName": "Split",
-          "country": "United_States",
-          "releaseDate": "2021-09-08",
+          "description": "If you want to go far, you'll have to go up. A pair of sites split by an elevated center allows for rapid movement using two rope ascenders. Each site is built with a looming tower vital for control. Remember to watch above before it all blows sky-high.",
+          "country": "Japan",
+          "releaseDate": "2020-04-07",
           "bombSites": "2",
-          "teloporters": "0",
-          "imageUrl": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+          "teleporters": "0",
+          "imageUrl": [
+               "https://static.wikia.nocookie.net/valorant/images/4/4d/Split_Old-mid_%28Closed_Beta%29.jpg/revision/latest/scale-to-width-down/185?cb=20200601232030",
+               "https://static.wikia.nocookie.net/valorant/images/4/4e/Split_New-mid_%28Patch_1.0%29.jpg/revision/latest/scale-to-width-down/185?cb=20200601232025",
+               "https://static.wikia.nocookie.net/valorant/images/6/69/Split_map.png/revision/latest/scale-to-width-down/185?cb=20200408124830",
+               "/commons/images/thumb/d/d4/Split_Map.png/600px-Split_Map.png"
+          ]
      },
      {
           "mapName": "Icebox",
-          "country": "United_States",
-          "releaseDate": "2021-09-08",
+          "description": "Take in the sights of historic ruins or seaside caves on this tropical paradise. But bring some cover. You'll need them for the wide open spaces and long range engagements. Watch your flanks and this will be a Breeze.",
+          "country": "Russia",
+          "releaseDate": "2020-10-13",
           "bombSites": "2",
-          "teloporters": "0",
-          "imageUrl": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+          "teleporters": "0",
+          "imageUrl": [
+               "https://static.wikia.nocookie.net/valorant/images/a/a1/Breeze-1.jpg/revision/latest/scale-to-width-down/200?cb=20210422091814",
+               "https://static.wikia.nocookie.net/valorant/images/6/6b/Breeze-2.jpg/revision/latest/scale-to-width-down/200?cb=20210422091821",
+               "https://static.wikia.nocookie.net/valorant/images/8/83/Breeze-3.png/revision/latest/scale-to-width-down/200?cb=20210422091942",
+               "https://static.wikia.nocookie.net/valorant/images/9/9b/Breeze-4.jpg/revision/latest/scale-to-width-down/200?cb=20210422171255",
+               "/commons/images/thumb/5/50/Breeze_Map.png/600px-Breeze_Map.png"
+          ]
      },
      {
           "mapName": "Breeze",
-          "country": "United_States",
-          "releaseDate": "2021-09-08",
+          "description": "Your next battleground is a secret Kingdom excavation site overtaken by the arctic. The two plant sites protected by snow and metal require some horizontal finesse. Take advantage of the ziplines and they'll never see you coming.",
+          "country": "None",
+          "releaseDate": "2021-04-27",
           "bombSites": "2",
-          "teloporters": "0",
-          "imageUrl": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+          "teleporters": "0",
+          "imageUrl": [
+               "https://static.wikia.nocookie.net/valorant/images/c/c3/Icebox_overpass.png/revision/latest/scale-to-width-down/200?cb=20201006160517",
+               "https://static.wikia.nocookie.net/valorant/images/6/64/Icebox_ziplines.png/revision/latest/scale-to-width-down/200?cb=20201006160157",
+               "/commons/images/thumb/e/ea/Icebox_Map.png/600px-Icebox_Map.png"
+          ]
      },
      {
           "mapName": "Ascent",
-          "country": "United_States",
-          "releaseDate": "2021-09-08",
+          "description": "An open playground for small wars of position and attrition divide two sites on Ascent. Each site can be fortified by irreversible bomb doors; once they're down, you'll have to destroy them or find another way. Yield as little territory as possible.",
+          "country": "Italy",
+          "releaseDate": "2020-06-02",
           "bombSites": "2",
-          "teloporters": "0",
-          "imageUrl": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+          "teleporters": "0",
+          "imageUrl": [
+               "https://static.wikia.nocookie.net/valorant/images/3/32/Valorant-Ascent.jpg/revision/latest/scale-to-width-down/185?cb=20200510031018",
+               "https://static.wikia.nocookie.net/valorant/images/f/fe/Gameplay_4.jpg/revision/latest/scale-to-width-down/185?cb=20200409115232",
+               "https://static.wikia.nocookie.net/valorant/images/6/61/Ascent_minimap_development.png/revision/latest/scale-to-width-down/185?cb=20200412002445",
+               "/commons/images/thumb/8/80/Ascent_Map.png/600px-Ascent_Map.png"
+          ]
      },
      {
           "mapName": "Haven",
-          "country": "United_States",
-          "releaseDate": "2021-09-08",
-          "bombSites": "2",
-          "teloporters": "0",
-          "imageUrl": "/commons/images/thumb/2/23/Fracture_Map.png/600px-Fracture_Map.png"
+          "description": "Beneath a forgotten monastery, a clamour emerges from rival Agents clashing to control three sites. There's more territory to control, but defenders can use the extra real estate for aggressive pushes.",
+          "country": "Bhutan",
+          "releaseDate": "2020-04-07",
+          "bombSites": "3",
+          "teleporters": "0",
+          "imageUrl": [
+               "https://static.wikia.nocookie.net/valorant/images/5/5c/Gameplay_1.jpeg/revision/latest/scale-to-width-down/185?cb=20200303004227",
+               "https://static.wikia.nocookie.net/valorant/images/5/59/Haven.png/revision/latest/scale-to-width-down/185?cb=20200421143945",
+               "/commons/images/thumb/7/73/Haven_Map.png/600px-Haven_Map.png"
+          ]
      }
 ]
