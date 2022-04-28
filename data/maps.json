@@ -1,103 +1,103 @@
 [
-     {
-          "mapName": "Fracture",
-          "description": "A top secret research facility split apart by a failed radianite experiment. With defender options as divided as the map, the choice is yours: meet the attackers on their own turf or batten down the hatches to weather the assault.",
-          "country": "United_States",
-          "releaseDate": "2021-09-08",
-          "bombSites": "2",
-          "teleporters": "0",
-          "imageUrl": [
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Fracture.png"
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview1.webp",
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview2.webp",
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview3.webp",
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Breeze_Top_Down_View.png"
-          ]
-     },
-     {
-          "mapName": "Bind",
-          "description": "Two sites. No middle. Gotta pick left or right. What's it going to be then? Both offer direct paths for attackers and a pair of one-way teleporters make it easier to flank.",
-          "country": "Morocco",
-          "releaseDate": "2020-04-07",
-          "bombSites": "2",
-          "teleporters": "2",
-          "imageUrl": [
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Bind.png"
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/BindPreview1.png",
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Bind_Market.webp",
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Bind_2022_Top.png"
-          ]
-     },
-     {
-          "mapName": "Split",
-          "description": "If you want to go far, you'll have to go up. A pair of sites split by an elevated center allows for rapid movement using two rope ascenders. Each site is built with a looming tower vital for control. Remember to watch above before it all blows sky-high.",
-          "country": "Japan",
-          "releaseDate": "2020-04-07",
-          "bombSites": "2",
-          "teleporters": "0",
-          "imageUrl": [
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Split.png"
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/SplitPreview1.webp",
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/SplitPreview2.jpg",
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Split_Top_Down_View.png"
-          ]
-     },
-     {
-          "mapName": "Icebox",
-          "description": "Take in the sights of historic ruins or seaside caves on this tropical paradise. But bring some cover. You'll need them for the wide open spaces and long range engagements. Watch your flanks and this will be a Breeze.",
-          "country": "Russia",
-          "releaseDate": "2020-10-13",
-          "bombSites": "2",
-          "teleporters": "0",
-          "imageUrl": [
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Icebox.png"
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Icebox_overpass.webp",
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Icebox_ziplines.webp",
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Icebox_2022_Top.png"
-          ]
-     },
-     {
-          "mapName": "Breeze",
-          "description": "Your next battleground is a secret Kingdom excavation site overtaken by the arctic. The two plant sites protected by snow and metal require some horizontal finesse. Take advantage of the ziplines and they'll never see you coming.",
-          "country": "None",
-          "releaseDate": "2021-04-27",
-          "bombSites": "2",
-          "teleporters": "0",
-          "imageUrl": [
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze.png"
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-1.webp",
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-2.webp",
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-3.webp",
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-4.webp",
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Breeze_Top_Down_View.png"
-          ]
-     },
-     {
-          "mapName": "Ascent",
-          "description": "An open playground for small wars of position and attrition divide two sites on Ascent. Each site can be fortified by irreversible bomb doors; once they're down, you'll have to destroy them or find another way. Yield as little territory as possible.",
-          "country": "Italy",
-          "releaseDate": "2020-06-02",
-          "bombSites": "2",
-          "teleporters": "0",
-          "imageUrl": [
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Ascent.png"
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Ascent1.webp",
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Gameplay_4.webp",
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Ascent_2022_Top.png"
-          ]
-     },
-     {
-          "mapName": "Haven",
-          "description": "Beneath a forgotten monastery, a clamour emerges from rival Agents clashing to control three sites. There's more territory to control, but defenders can use the extra real estate for aggressive pushes.",
-          "country": "Bhutan",
-          "releaseDate": "2020-04-07",
-          "bombSites": "3",
-          "teleporters": "0",
-          "imageUrl": [
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Haven.png"
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Gameplay_1.webp",
-               "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Haven_Smokes_Featured.webp",
-		"https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Haven_Top_Down_View.png"
-          ]
-     }
+  {
+    "mapName": "Fracture",
+    "description": "A top secret research facility split apart by a failed radianite experiment. With defender options as divided as the map, the choice is yours: meet the attackers on their own turf or batten down the hatches to weather the assault.",
+    "country": "United_States",
+    "releaseDate": "2021-09-08",
+    "bombSites": "2",
+    "teleporters": "0",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Fracture.png",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview1.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview2.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/FracturePreview3.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Breeze_Top_Down_View.png"
+    ]
+  },
+  {
+    "mapName": "Bind",
+    "description": "Two sites. No middle. Gotta pick left or right. What's it going to be then? Both offer direct paths for attackers and a pair of one-way teleporters make it easier to flank.",
+    "country": "Morocco",
+    "releaseDate": "2020-04-07",
+    "bombSites": "2",
+    "teleporters": "2",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Bind.png",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/BindPreview1.png",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Bind_Market.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Bind_2022_Top.png"
+    ]
+  },
+  {
+    "mapName": "Split",
+    "description": "If you want to go far, you'll have to go up. A pair of sites split by an elevated center allows for rapid movement using two rope ascenders. Each site is built with a looming tower vital for control. Remember to watch above before it all blows sky-high.",
+    "country": "Japan",
+    "releaseDate": "2020-04-07",
+    "bombSites": "2",
+    "teleporters": "0",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Split.png",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/SplitPreview1.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/SplitPreview2.jpg",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Split_Top_Down_View.png"
+    ]
+  },
+  {
+    "mapName": "Icebox",
+    "description": "Take in the sights of historic ruins or seaside caves on this tropical paradise. But bring some cover. You'll need them for the wide open spaces and long range engagements. Watch your flanks and this will be a Breeze.",
+    "country": "Russia",
+    "releaseDate": "2020-10-13",
+    "bombSites": "2",
+    "teleporters": "0",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Icebox.png",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Icebox_overpass.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Icebox_ziplines.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Icebox_2022_Top.png"
+    ]
+  },
+  {
+    "mapName": "Breeze",
+    "description": "Your next battleground is a secret Kingdom excavation site overtaken by the arctic. The two plant sites protected by snow and metal require some horizontal finesse. Take advantage of the ziplines and they'll never see you coming.",
+    "country": "None",
+    "releaseDate": "2021-04-27",
+    "bombSites": "2",
+    "teleporters": "0",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze.png",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-1.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-2.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-3.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Breeze-4.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Breeze_Top_Down_View.png"
+    ]
+  },
+  {
+    "mapName": "Ascent",
+    "description": "An open playground for small wars of position and attrition divide two sites on Ascent. Each site can be fortified by irreversible bomb doors; once they're down, you'll have to destroy them or find another way. Yield as little territory as possible.",
+    "country": "Italy",
+    "releaseDate": "2020-06-02",
+    "bombSites": "2",
+    "teleporters": "0",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Ascent.png",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Ascent1.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Gameplay_4.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-VALORANT_Ascent_2022_Top.png"
+    ]
+  },
+  {
+    "mapName": "Haven",
+    "description": "Beneath a forgotten monastery, a clamour emerges from rival Agents clashing to control three sites. There's more territory to control, but defenders can use the extra real estate for aggressive pushes.",
+    "country": "Bhutan",
+    "releaseDate": "2020-04-07",
+    "bombSites": "3",
+    "teleporters": "0",
+    "imageUrl": [
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Haven.png",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Gameplay_1.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/Haven_Smokes_Featured.webp",
+      "https://raw.githubusercontent.com/TOC-Web-Scraping/scraping/main/data/images/maps/675px-Haven_Top_Down_View.png"
+    ]
+  }
 ]
